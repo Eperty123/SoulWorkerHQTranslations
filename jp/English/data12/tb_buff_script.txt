@@ -8207,256 +8207,256 @@ Icon/Buff/Icon_Common_Buff_Def
 Dmg Reduction & Attack Speed ↑
 
 ID=9026
-個人強化I
-身体が強化され、25秒間SG消費量が5％減少します。
+Personal Enhancement I
+Your body is strengthened and SG consumption is reduced by 5% for 25 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=9027
-個人強化II
-身体が強化され、25秒間SG消費量が7％減少します。
+Personal Enhancement II
+Strengthens your body and reduces SG consumption by 7% for 25 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=9028
-個人強化III
-身体が強化され、25秒間SG消費量が9％減少します。
+Personal Enhancement III
+Strengthens your body and reduces SG consumption by 9% for 25 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=9029
-個人強化IV
-身体が強化され、25秒間SG消費量が11％減少します。
+Personal Enhancement IV
+Strengthens your body and reduces SG consumption by 11% for 25 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=9030
-個人強化V
-身体が強化され、25秒間SG消費量が15％減少します。
+Personal Enhancement V
+Strengthens your body and reduces SG consumption by 15% for 25 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=9031
 Erosion
-ダメージ量が15％増加します。\n移動速度が20％増加します。\nSA状態になります。
+Increases the amount of damage by 15%. Increases \n movement speed by 20%. \nSA status.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=9032
 Awakening
-ダメージ量が15％増加します。\nSA破壊量が30％増加します。\n移動速度が20％増加します。\nSA状態になります。
+Increases the amount of damage by 15%. Increases the amount of \nSA destruction by 30%. \nComplete movement speed is increased by 20%. \nSA status is activated.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=9040
-SG回復I
-SGが5%即時回復します。
+SG Recovery I
+Instant SG recovery of 5%.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=9041
-気絶Lv1
-持続時間中、気絶効果を受ける。
+Faint Lv1
+You are stunned for the duration.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG 회복
 
 ID=9042
-SG回復II
-SGが10%即時回復します。
+SG Recovery II
+Immediately recovers 10% of SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=33004
-晴れ晴れ
-15分間スタミナ回復量が5増加します。
+Sunny
+Stamina recovery is increased by 5 for 15 minutes.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
-スタミナ回復量増加
+Increases stamina recovery
 
 ID=3900
 HP ↓
 0
 0
-HP ↓
+HP↓
 
 ID=3010
-ランダムポータル攻撃力バフ
-30秒間攻撃力100%増加
+Random Portal Attack Power Buff
+Increases attack power by 100% for 30 sec.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=3011
-ランダムポータル攻撃力バフ
-10秒間攻撃力300%増加
+Random Portal Attack Power Buff
+Increases attack power by 300% for 10 seconds
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Attack up
 
 ID=3012
-ランダムポータル攻撃力バフ
-60秒間攻撃力1000増加
+Random Portal Attack Power Buff
+Increases Attack Power by 1000% for 60 seconds
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Attack up
 
 ID=3013
-ランダムポータル攻撃力バフ
-10秒間攻撃力5000増加
+Random Portal Attack Buff
+Increases Attack Power by 5000 for 10 seconds
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Attack up
 
 ID=3020
-ランダムポータル防御力バフ
-45秒間防御力100%増加
+Random Portal Defense Buff
+Increases Defense by 100% for 45 seconds
 Icon/Buff/Icon_Common_Buff_Def
-Defense ↑
+Defense up
 
 ID=3021
-ランダムポータル防御力バフ
-20秒間防御力300%増加
+Random Portal Defense Buff
+Increases defense by 300% for 20 seconds
 Icon/Buff/Icon_Common_Buff_Def
-Defense ↑
+Defense ↑ ID=3022
 
 ID=3022
-ランダムポータル防御力バフ
-30秒間防御力1000増加
+Random Portal Defense Buff
+Increases Defense by 1000% for 30 seconds
 Icon/Buff/Icon_Common_Buff_Def
-Defense ↑
+Defense ↑ ID=3023
 
 ID=3023
-ランダムポータル防御力バフ
-15秒間防御力3000増加
+Random Portal Defense Buff
+Increases Defense by 3000 for 15 seconds
 Icon/Buff/Icon_Common_Buff_Def
-Defense ↑
+Defense ↑ ID=3030
 
 ID=3030
-ランダムポータル攻撃速度バフ
-15秒間攻撃速度15%増加
+Random Portal Attack Speed Buff
+Increases attack speed by 15% for 15 seconds
 Icon/Buff/Icon_Common_Buff_ASR
-Attack Speed ↑
+Attack Speed up
 
 ID=3031
-ランダムポータル攻撃速度バフ
-8秒間攻撃速度40%増加
+Random Portal Attack Speed Buff
+Increase Attack Speed by 40% for 8 seconds
 Icon/Buff/Icon_Common_Buff_ASR
-Attack Speed ↑
+Attack Speed up
 
 ID=3040
-ランダムポータル移動速度バフ
-15秒間移動速度20%増加
+Random Portal Movement Speed Buff
+Increase movement speed by 20% for 15 seconds
 Icon/Buff/Icon_Common_Buff_MSR
-Movement Speed ↑
+Movement Speed up
 
 ID=3041
-ランダムポータル移動速度バフ
-8秒間移動速度45%増加
+Random Portal Movement Speed Buff
+Increases movement speed by 45% for 8 seconds
 Icon/Buff/Icon_Common_Buff_MSR
-Movement Speed ↑
+Movement Speed up
 
 ID=3050
-ランダムポータルSA破壊バフ
-10秒間SA破壊力50%増加
+Random Portal SA Destruction Buff
+Increases SA Destruction by 50% over 10 seconds
 Icon/Buff/Icon_Common_Buff_BreakErode
-SA破壊力増加
+Increase SA Destruction
 
 ID=3051
-ランダムポータルSA破壊バフ
-30秒間SA破壊力20%増加
+Random Portal SA Destruction Buff
+Increases SA Destruction by 20% over 30 seconds
 Icon/Buff/Icon_Common_Buff_BreakErode
-SA破壊力増加
+Increased SA Destruction
 
 ID=3052
-ランダムポータルスタミナバフ
-15秒間スタミナ回復量50増加
+Random Portal Stamina Buff
+Increases Stamina Recovery by 50 for 15 seconds
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +Stamina
 
 ID=3060
-ランダムポータルHP回復バフ
+Random Portal HP Recovery Buff
 +10% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3061
-ランダムポータルHP回復バフ
+Random Portal HP Recovery Buff
 +10% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3062
-ランダムポータルHP回復バフ
-HP20%回復
+Random Portal HP Recovery Buff
+20% HP Recovery
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3063
-ランダムポータルHP回復バフ
-HP20%回復
+Random Portal HP Recovery Buff
+20% HP Recovery
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3070
-ランダムポータルクールタイムバフ
-10秒間クールタイム50%減少
+Random Portal Cool Time Buff
+Reduces cooldown by 50% for 10 seconds
 Icon/Buff/Icon_Common_Buff_Reg
 Cooldown ↓
 
 ID=3071
-ランダムポータルクールタイムバフ
-5秒間クールタイム100%減少
+Random Portal Cool Time Buff
+Reduces cooldown by 100% for 5 seconds
 Icon/Buff/Icon_Common_Buff_Reg
 Cooldown ↓
 
 ID=3080
-ランダムポータルクリティカル率バフ
-10秒間クリティカル率100%増加
+Random Portal Critical Rate Buff
+Increases critical rate by 100% for 10 seconds
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=3090
-ランダムポータルクリティカルダメージバフ
-15秒間クリティカルダメージ5000増加
+Random Portal Critical Damage Buff
+Increases critical damage by 5000 for 15 seconds
 Icon/Buff/Icon_Common_Buff_CRI
-Critical Damage ↑
+Critical Damage up
 
 ID=3091
-ランダムポータルクリティカルダメージバフ
-8秒間クリティカルダメージ10000増加
+Random Portal Critical Damage Buff
+Increases critical damage by 10000 for 8 seconds
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Damage ↑
 
 ID=3092
-ランダムポータル討伐時回復バフ
-20秒間討伐時HP回復300増加
+Recovery Buff for Random Portal Defeat
+Increases HP recovery by 300 when defeating a portal for 20 seconds.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3100
-ランダムポータル無敵バフ
-10秒間無敵
+Random Portal Invincibility Buff
+Invincibility for 10 seconds
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=3310
-ランダムポータル攻撃力バフ
-30秒間攻撃力100%増加
+Random Portal Attack Power Buff
+Increases attack power by 100% for 30 seconds
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Attack up
 
 ID=3311
-ランダムポータル攻撃力バフ
-10秒間攻撃力300%増加
+Random Portal Attack Power Buff
+Increases attack power by 300% for 10 seconds
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Attack up
 
 ID=3312
-ランダムポータル攻撃力バフ
-60秒間攻撃力1000増加
+Random Portal Attack Power Buff
+Increases Attack Power by 1000% for 60 seconds
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Attack up
 
 ID=3313
-ランダムポータル攻撃力バフ
-10秒間攻撃力5000増加
+Random Portal Attack Buff
+Increases Attack Power by 5000 for 10 seconds
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Attack up
 
 ID=3320
 ランダムポータル防御力バフ
