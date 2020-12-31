@@ -2,112 +2,112 @@ ID=303001
 A...hahaha, Hahahahaha!
 
 ID=303002
-Fun...I've never had so much fun in my life...
+楽しい…こんなに楽しかったのは初めてですわ…。
 
 ID=303003
-I knew I wasn't bluffing....
+やはり、強がりではなかったのですね…。
 
 ID=303004
-If only my arms could move more, I would still be able to fight...
+わたくしの腕が…もっと動いたのなら…\nまだ戦えたはずなのですが…。
 
 ID=303005
-...That's amazing.
+…すごいですね。
 
 ID=303006
-Everyone should feel fear before death, but \nI didn't think you could be so unconcerned.
+誰しも死の前には恐怖を感じるはずですが、\nまさかこんなに平気でいられるとは思いませんでした。
 
 ID=303007
-I don't want to be disfigured as a loser forever.
+いつまでも敗者としての醜態を晒していたくはありませんわ。
 
 ID=303008
-Now, please hurry up and take this senseless life...!
+さあ、早くこの無意味な命を奪ってください…！
 
 ID=305001
-Why...why...?
+なんで…なんでよ…。
 
 ID=305002
-Where have you been, playing along with the kids?
+どこにいったのかと思えば、子供の遊びに付き合っていたんですか？
 
 ID=305003
-Please behave yourself a little better.
+もう少し身の程をわきまえてくださいよ。
 
 ID=305004
-Why are you doing this...? \nI...did I do something wrong ......?
+どうしてこんな事するの…？\nボクが…何か悪いことした……？
 
 ID=305005
-I want to have friends too...but I want to go to the zoo too...
+ボクも友達が欲しいのに…\n動物園にも行ってみたいのに…。
 
 ID=305006
-Why are you telling me not to do anything?
+どうしてなにもするなって言うの…？
 
 ID=305007
-You're not human, of course you're not.
+人間じゃないんですから、当たり前でしょう。
 
 ID=305008
-I'm not human, am I?
+ボクは、人間じゃないの…？
 
 ID=305009
-Can't I be happy because I'm not human?
+人間じゃないから…幸せになっちゃダメなの？
 
 ID=305010
-Yes! That's right!
+ええ！その通りですよ！
 
 ID=305011
-Then I'll just... destroy everything...
+それじゃ、ボクは…全部壊す…。
 
 ID=305012
-If you take it all, I'll destroy it all too.
+キミたちが全部奪うなら…\nボクも全部壊しちゃうから…
 
 ID=305013
-Hahahaha!
+ふふふ、あははは！
 
 ID=305014
-If you can do it, you can do it, monster!
+やれるものならやってごらん、化け物さん！
 
 ID=302001
-People tend to rely on half knowledge when they're in a hurry.
+人間って、急いでる時には半端な知識に頼るもんなんだよ。\n特に何回か経験した事が目の前で起こるとな。
 
 ID=302002
-If you show them the part where the alter's arm comes off a few times, they'll learn.
+分身の腕が取れたりする部分を何回か見せて、学習させれば。
 
 ID=302003
-When they see an arm come off of a person who looks like them, they'll assume it's their alter ego without question.
+同じ姿をした人間から、腕が取れたのを見て、何の疑いも持たずに分身だって決めちまうんだよ。
 
 ID=302004
-So you made me cut off my arm to trick those people?
+じゃあ、あの人達を騙す為に、私に腕を切らせたんですか？
 
 ID=302005
-This is insane.
+全く…正気じゃありませんね。
 
 ID=302006
-Haha, there's nothing more boring than being insane!
+はは、正気な状態ほど、退屈なもんは無いさ！
 
 ID=302007
-How about you? Now that you're out of there, why don't you try living a more enjoyable life?
+お前もどうだ？あそこから出たんだし、もっと楽しく生きてみたら？
 
 ID=302008
-No, I'm fine with boring days.
+いえ、私は退屈な日々で十分です。
 
 ID=302009
-Darn...I'm boring.
+ちぇ…つまんないの。
 
 ID=301001
-Mr. Irwin...Mr. Irwin?
+アーウィンさん…アーウィンさん？
 
 ID=301002
-I, I finally understand. \nI understand now why I was feeling bad, what I was misunderstanding... everything!
+私、やっと分かりました。\n何で気持ちが悪かったか、何を勘違いしていたか…全部理解しました！
 
 ID=301003
-These people...these people in the void...they're all the same as the void... \nI'm not a human, I'm part of the void!
+この人達も…この空白の中の人達も…皆空白と一緒です…。\n人間じゃなくて、空白の一部だったんです！
 
 ID=301004
-I should've killed them all! All of them!
+全部殺すべきでした！全部！
 
 ID=301005
-Haha... hahaha...
+あは…はははは…。
 
 ID=301006
-I knew I wasn't wrong.
+やっぱ、俺の考えが間違ってなかったな。
 
 ID=301007
-I told you. I told you that your face looks good when you smile like that...
+言っただろ？そうやって笑ってる時の顔が似合ってるって…。
