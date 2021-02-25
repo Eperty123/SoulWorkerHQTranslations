@@ -2,103 +2,103 @@ ID=111
 Dummy
 
 ID=1016
-Gronco
+The Thing
 
 ID=10000001
-Distress Dummy
+Agonized Dummy
 
 ID=10000002
-Test Normal 0
+Test General 0
 
 ID=10000003
-Test Normal 1
+Test General 1
 
 ID=10000004
-Test Normal 2
+Test General 2
 
 ID=10000005
-Test Normal 3
+Test General 3
 
 ID=10000006
-Test Ranged 0
+Test Long Distance 0
 
 ID=10000007
-Test Ranged 1
+Test Long Distance 1
 
 ID=10000008
-Test Ranged 2
+Test Long Distance 2
 
 ID=10000009
-Test Ranged 3
+Test Long Distance 3
 
 ID=10000010
-Wacky Dummy
+Strange Dummy
 
 ID=10000011
-Woozy Dummy
+Distorted Dummy
 
 ID=10000012
-Distress Dummy 3
+Agonized Dummy 3
 
 ID=10000013
-Distress Dummy 4
+Agonized Dummy 4
 
 ID=10000014
-Distress Dummy 5
+Agonized Dummy 5
 
 ID=10000015
-Distress Dummy 6
+Agonized Dummy 6
 
 ID=10000016
-Distress Dummy 7
+Agonized Dummy 7
 
 ID=10000017
-Distress Dummy 8
+Agonized Dummy 8
 
 ID=10000018
-Distress Dummy 9
+Agonized Dummy 9
 
 ID=10000019
-Distress Dummy 10
+ Agonized Dummy 10
 
 ID=10000020
-Guilt Balls
+Sully
 
 ID=10000021
-DevTestmonster 1
+DesignTeamTestMonster_1
 
 ID=10000022
-DevTestmonster 2
+DesignTeamTestMonster_2
 
 ID=10000023
-Miriam ({0}
+Miriam ({0})
 
 ID=10100900
-Greedgantus
+Greed Beast
 
 ID=10100001
-Furbling
+Little Sloth
 
 ID=10100002
-Furslam
+Slime Sloth
 
 ID=10100003
-Furline
+Fame Sloth
 
 ID=10100011
-Furbling
+Little Sloth
 
 ID=10100012
-Furslam
+Slime Sloth
 
 ID=10100013
-Furline
+Fame Sloth
 
 ID=10100022
-Furslam
+Slime Sloth
 
 ID=10100023
-Furline
+Fame Sloth
 
 ID=10101911
 Supply Box
@@ -110,37 +110,37 @@ ID=10190005
 NED Car
 
 ID=10190006
-Defect NED Car
+Broken NED Car
 
 ID=10190007
 Car
 
 ID=10190011
-Construction
+Structure
 
 ID=10190012
-Construction
+Structure
 
 ID=10190015
-Test Box
+Physics Test Box
 
 ID=10190016
-Puzzle Box 1
+Mystery Box 1
 
 ID=10190017
-Puzzle Box 2
+Mystery Box 2
 
 ID=10190018
-Debris Box
+Destruction Box
 
 ID=10190019
 Hospital Table
 
 ID=10190020
-Hospital Seats
+Hospital Chair
 
 ID=10190021
-Outburst
+Peak Skill
 
 ID=10190022
 Training Box
@@ -149,10 +149,10 @@ ID=10190023
 Training Box
 
 ID=10190024
-Gift Box
+Present Box
 
 ID=10190025
-Gift Box
+Present Box
 
 ID=10190026
 Wheelchair
@@ -161,43 +161,43 @@ ID=10190027
 Balloon
 
 ID=10190028
-Crate
+Wooden Box
 
 ID=10190029
-Chalkboard A
+Slate A
 
 ID=10190030
-Chalkboard B
+Slate B
 
 ID=10190031
-Dustbin
+Garbage Can
 
 ID=10190032
-Tyres
+Stack of Tires
 
 ID=10190033
 Wooden Box
 
 ID=10190034
-NED Box
+NED Company Box
 
 ID=10190035
-Poison Pupa
+Poison Cocoon
 
 ID=10190036
-Tank
+Tank Unit
 
 ID=10190037
 Barrier
 
 ID=10190076
-Dustbin
+Garbage Can
 
 ID=10190077
-Balloon Bomb
+Self-destructing Balloon
 
 ID=10190078
-Hydrant
+Fire Hydrant
 
 ID=10190085
 Park Bench
@@ -209,46 +209,46 @@ ID=10190090
 Barricade
 
 ID=10190091
-Traffic Cone
+Orange Barrel
 
 ID=10190081
-Slime Clump
+Mass of Mucus
 
 ID=10190082
-Little Box Pile
+Pile of Small Boxes
 
 ID=10190088
-Barrel
+Wooden Drum
 
 ID=10190087
 Wooden Table
 
 ID=10190089
-Fire Barrel
+Fire Drum
 
 ID=10190092
 Small Container
 
 ID=10190093
-Empty Drone
+Discharged Drone Zero
 
 ID=10190095
-Detritus
+Debris
 
 ID=10190097
-Broken Wall
+Crumbled Wall
 
 ID=10190099
 Barricade
 
 ID=10190101
-Letterbox
+Mailbox
 
 ID=10190094
-Webbing
+Spider Silk
 
 ID=10190105
-Blast Shield
+Protective Wall
 
 ID=10190107
 Cat
@@ -257,397 +257,397 @@ ID=10190109
 Desk
 
 ID=10190111
-Divider Wall
+Wall
 
 ID=10190113
-Viperess Remains
+Snake Exoskeleton
 
 ID=10190115
-Taifon Mast
+Tempest Fall
 
 ID=10190117
-Mountain Troll
+Hill Breaker
 
 ID=10190119
 Tombstone
 
 ID=10190103
-Gas Cannister
+Gas Cylinder
 
 ID=10190120
-Hologenerator
+Hologram Device
 
 ID=10190121
-Defect eRobo
+Broken E-Deliverer
 
 ID=10190122
 Supply Box
 
 ID=10190123
-Cable Wheel
+Cable Roll
 
 ID=10190124
 Small Shuttle
 
 ID=10190125
-Pipe
+Pipe Dummy
 
 ID=10190126
-Spotlight
+Illumination
 
 ID=10190127
-Coolant
+Cooling Device Container
 
 ID=10190128
 Acheron Barricade
 
 ID=10190129
-Waste Container
+Waste Material Drum
 
 ID=10190130
-Alarm System
+Alarm
 
 ID=10190131
-CB Trigger Door A
+CB_Trigger Door_A
 
 ID=10190132
-CB Trigger Door B
+CB_Trigger Door_B
 
 ID=10190133
-CB Trigger Door C
+CB_Trigger Door_C
 
 ID=10190134
-CB Trigger Door D
+CB_Trigger Door_D
 
 ID=10190135
-Sub AI Core Power
+Sub AI Core Power Source
 
 ID=10190136
 Sub AI Core
 
 ID=10190137
-Hologenerator
+Hologram Device
 
 ID=10190138
-Spawn System A
+Spawn Control Unit_A
 
 ID=10190139
 Slave Core
 
 ID=10190140
-Mega Turbine A
+Large Windmill
 
 ID=10190141
-BC Blast Gate 01
+BC_BlockingGate_01
 
 ID=10190142
-Slave Core Rig
+Slave Core Control Device
 
 ID=10190143
-Ice Road Square
+Link Platform
 
 ID=10190144
-Ice Road Bridge
+Link Bridge
 
 ID=10190145
-BC Trigger Door A
+BC_Trigger Door_A
 
 ID=10190146
-CR Spawn Gate
+CR_Spawn Door
 
 ID=10190147
-Debuff Generator
+Debuff Generatting Device
 
 ID=10190148
-Maxi Shuttle
+Large Shuttle
 
 ID=10190149
-CR Trigger Door A
+CR_Trigger Door_A
 
 ID=10190150
-CR Trigger Door B
+CR_Trigger Door_B
 
 ID=10190151
 Slave Core
 
 ID=10190152
-Crane Clasp
+Crane Trap
 
 ID=10190153
-Container Clasp
+Container Trap
 
 ID=10190154
-BC Blast Gate 02
+BC_Intercept Gate_02
 
 ID=10190155
-FA Trigger Door A
+FA_Trigger Door_A
 
 ID=10190156
-DC Trigger Door A
+Dc_Trigger Door_A
 
 ID=10190157
-DC Trigger Door C
+DC_Trigger Door_C
 
 ID=10190158
-DC Trigger Door D
+DC_Trigger Door_D
 
 ID=10190159
-DC Trigger Door E
+DC_Trigger Door_E
 
 ID=10190160
-Mega Turbine B
+Large Windmill_B
 
 ID=10190161
 Spawn Gate
 
 ID=10190162
-Spawn System B
+Spawn Control Device_B
 
 ID=10190163
-Spawn System C
+Spawn Control Device_C
 
 ID=10190164
-AR Trigger Door A
+AR_Trigger Door_A
 
 ID=10190165
-AR Trigger Door B
+AR_Trigger Door_B
 
 ID=10190166
 Bomb Shuttle
 
 ID=10190167
-Trigger Door A
+Trigger Door_A
 
 ID=10190168
-Trigger Door B
+Trigger Door_B
 
 ID=10190169
-Trigger Door C
+Trigger Door_C
 
 ID=10190170
 Condenser
 
 ID=10190171
-Driver
+Power Outlet
 
 ID=10190172
-Force Shield A
+Wavelength shield device_A
 
 ID=10190173
-Force Shield B
+Wavelength shield device_B
 
 ID=10190174
-Ark Ship
+Ark Ship Elevator
 
 ID=10190175
 Emergency Arena
 
 ID=10190176
-Hydrant
+Fire Hydrant
 
 ID=10190177
-Small Dustbin
+Small Garbage Can
 
 ID=10190178
-Dumpster
+Large Garbage Can
 
 ID=10190179
-Shock Balloon
+Surprise Balloon
 
 ID=10190180
-Crisis Water Tank
+Safety Tank
 
 ID=10190181
 Chess Piece
 
 ID=10190182
-Blade Suzie
+Shion's Blade
 
 ID=10190183
-Barrel
+Waste Solution Drum
 
 ID=10200001
-Yersin Bashai
+Black Veshi
 
 ID=10200002
-Akhon Bashai
+Dark Soul Veshi
 
 ID=10200011
-Sukkarak
+Scar
 
 ID=10200012
-Blood Sukkarak
+Bloody Scar
 
 ID=10202002
-Large Crate
+Large Wooden Box
 
 ID=10300001
-Sanctum Hunter
+Divine Archer
 
 ID=10300002
-Sanctum Servant
+Divine Priest
 
 ID=10300003
-Sanctum Vassal
+Divine Knight
 
 ID=10300004
-Sanctum Lancer
+Divine Fierce
 
 ID=10300005
-Sanctum Scout
+Divine Knight Scout
 
 ID=10300006
-Sanctum Hunter
+Divine Archer
 
 ID=10300007
-Sanctum Servant
+Divine Priest
 
 ID=10300008
-Sanctum Vassal
+Divine Knight
 
 ID=10300009
-Sanctum Gunner
+Divine Cannon
 
 ID=10300011
-Oculus
+Accrues
 
 ID=10301001
-Sorrow Centurion
+Thoreau Centurion
 
 ID=10301011
-Luna Nox
+Luna Knox
 
 ID=10400001
-Giant Wort
+Giant Plant
 
 ID=10400011
-Karmin Guard
+Red Guardian
 
 ID=10400012
-Guard
+Guardian
 
 ID=10500001
-Nastyquin
+Nasty Puppet
 
 ID=10500002
-Pulsequin
+Bloody Puppet
 
 ID=10500003
-Wound Ball
+Bloody Ball
 
 ID=10500004
-Miniquin
+Midget Puppet
 
 ID=10500005
-Impequin
+Imp Puppet
 
 ID=10500006
-Kaliquin
+Blank Puppet
 
 ID=10500007
-Spreadequin
+Saw Puppet
 
 ID=10500008
-Plumpiquin
+Plumpy Puppet
 
 ID=10500009
-Paunchequin
+Chubby Puppet
 
 ID=10500010
-Big Plastica
+Big Puppet
 
 ID=10500011
-Joker Edgar
+Edgar
 
 ID=10500012
-Wound Ball
+Bloody Ball
 
 ID=10500013
-Empty Area
+Empty Space
 
 ID=10500014
-Little Plastica
+Incomplete Big Puppet
 
 ID=10600001
-Lord Pytho
+Python
 
 ID=10600002
-Pugilist
+Pistol
 
 ID=10600003
-Steeleron
+Steel
 
 ID=10600004
-Sabreclaw
+Beast Fang
 
 ID=10600005
 Chaser
 
 ID=10600006
-Caster
+Summoner
 
 ID=10600011
-Sukkarak
+Scar
 
 ID=10600012
-Naomin
+Poison
 
 ID=10600013
-Wespina
+Toxic Hornet
 
 ID=10600014
-Shackle 1
+Chain_01
 
 ID=10600015
-Shackle 2
+Chain_02
 
 ID=10600016
-Shackle 3
+Chain_03
 
 ID=10600017
-Shackle 4
+Chain_04
 
 ID=10600018
-Shackle 5
+Chain_05
 
 ID=10600019
-Wild Pinku
+Wild Beak
 
 ID=10600020
-Hex Pugilist
+Zin Pistol
 
 ID=10600021
-Hex Hound
+Zin Chaser
 
 ID=10600022
-Hex Pytho
+Zin Python
 
 ID=10600023
-Ark Steeleron
+Zin Steel
 
 ID=10600024
-Dive Gaour
+Crashed Garuda
 
 ID=10600025
-Hex Caster
+Zin Summoner
 
 ID=10600026
-Wild Sabreclaw
+Wild Beast Fang
 
 ID=10600027
-Cringler
+Crawler
 
 ID=10600028
-Sling Gaour
+Airdrop Garuda
 
 ID=10600029
-Dradar
+Dread
 
 ID=10600030
-Taifon
+Tempest
 
 ID=10600031
-Falconai
+Falcon
 
 ID=10600032
 Amaryllis
@@ -656,91 +656,91 @@ ID=10700001
 S-00
 
 ID=10700002
-Skitter
+Cell
 
 ID=10700003
 S-01
 
 ID=10700004
-Defence Tower
+S Gatling Gun
 
 ID=10700005
-Defence Pupa
+Ominous Cocoon
 
 ID=10700006
 N-65
 
 ID=10700011
-Mad Manic
+Beholder
 
 ID=10800001
-Training Dummy 1
+TrainingDummy_1
 
 ID=10800002
-Training Dummy 2
+TrainingDummy_2
 
 ID=10800003
-Sog
+Drain
 
 ID=10800004
-Kairon
+Kain
 
 ID=10800005
-Bossam
+Moth
 
 ID=10800006
-Larvae
+Lava
 
 ID=10800007
-Roaming Wort
+Walking Plant
 
 ID=10800008
-Firing Wort
+Cannon Plant
 
 ID=10800009
-Dark Mutoid
+Dark Mucus
 
 ID=10800010
-Dark Skitter
+Dark Cell
 
 ID=10800011
-Sinister Wort
+Dark Plant
 
 ID=10800012
-Dark Caimanoc
+Dark Alligator
 
 ID=10800013
-Charclops
+Crimson Beast
 
 ID=10800014
-Ravan
+Laban
 
 ID=10800015
 Gallus
 
 ID=10800016
-Delusion Blade
+Madness Blade
 
 ID=10800017
-Luga
+Ruga
 
 ID=10800018
-Maimator
+Bone Crusher
 
 ID=10800019
-Baalride
+Junk Knight
 
 ID=10800020
-Hockmar
+Hokmah
 
 ID=10800021
-Odento
+Howler
 
 ID=10900001
-Uriel
+Punisher
 
 ID=10900002
-NED Firelord
+NED Fire Ruler
 
 ID=10900003
 War Drone
@@ -749,130 +749,130 @@ ID=10900004
 Drone
 
 ID=10900005
-Gishin
+Ghost
 
 ID=10900006
-Invertebrate
+Iron Worm
 
 ID=10900007
-Sentron
+Sentry
 
 ID=10900008
-Genozidion
+Genocider
 
 ID=10900009
-Lithos Quaker
+Earthquaker
 
 ID=10900011
-Area 9 Tower
+Area 9 Gatling Gun
 
 ID=10900012
-Dronimo
+Drone Zero
 
 ID=10900013
-Gishin-00
+Ghost Zero
 
 ID=10900014
-Air Reaper
+Cutthroat 
 
 ID=10900015
-Dominio
+Domineer
 
 ID=10900016
-Dominio-00
+Domineer Zero
 
 ID=10900017
-Arachna
+Spider
 
 ID=10900018
-Arachna Null
+Spider Zero
 
 ID=10900019
-Sabrewolf
+Blade Wolf
 
 ID=10900020
-Bunker Bot
+Sieg Prototype
 
 ID=10900021
-Massacrops
+War Solver
 
 ID=10900022
-Shock Splitter
+Sprinter
 
 ID=10900023
-Splitter-00
+Sprinter Zero
 
 ID=10900024
-Maton Uriel
+Auto Punisher
 
 ID=10900025
-Ato Firelord
+Auto Fire Ruler
 
 ID=10900026
 Death Raptor
 
 ID=10900027
-Nita
+Noah
 
 ID=10900028
-Castle Fiend
+Dig Monster
 
 ID=10900029
-Naran
+Enoch
 
 ID=10900030
-Trabantequin
+Trivial Puppet
 
 ID=10900031
-Spinnequin
+Disgusting Puppet
 
 ID=10900032
-Spectraquin
+Specter Puppet
 
 ID=10900033
-Sangukurisu
+White Phantom
 
 ID=10900034
-Melankurisu
+Dark Phantom
 
 ID=10900035
-Uri Zeronimo
+Punisher Zero
 
 ID=10900036
-Blast Shield Rig
+Shielding Control Unit
 
 ID=10900037
-Destroyed Rig
+Destroyed Control Unit
 
 ID=10900038
-Suzie
+Shion
 
 ID=10900039
-Slingaquin
+Kissling Puppet
 
 ID=10900040
-Firestream
+Rapid Flame Forces
 
 ID=10900041
-Mannequin
+Puppet Army
 
 ID=10900042
-SoulDreg
+Souljunk
 
 ID=10900043
-Infected Object
+Contaminated Chief
 
 ID=10900044
-Infected Host
+Contaminated Man
 
 ID=10900045
-Gaour Commander
+Garuda Commander
 
 ID=10900046
-Supreme Squad
+High-Ranking Staff
 
 ID=10900047
-Blood SoulWorker
+Nier Soulworker
 
 ID=10900048
 NED Company
@@ -881,1939 +881,1939 @@ ID=10900049
 Clown
 
 ID=10900050
-Gigaquin
+Massive Puppet
 
 ID=10900051
-Starry Forest
+Starry Forest League
 
 ID=10900052
-Rage SoulDreg
+Massive Souljunk
 
 ID=10900053
-Spectre SoulDreg
+Special Souljunk
 
 ID=10900054
-Gat Gun
+Massive Arms
 
 ID=10900055
-Raging Larvae
+Enraged Lava
 
 ID=10900056
-Raging Bossam
+Enraged Moth
 
 ID=10900057
-Roaming Wort X
+Enraged Walking Plant
 
 ID=10900058
-Raging Sog
+Enraged Drain
 
 ID=10900059
-Firing Wort X
+Enraged Cannon Plant
 
 ID=10900060
-Kairon
+Kain
 
 ID=10900061
-Proto Impequin
+Prototype Imp Puppet
 
 ID=10900062
-Proto Spreadequin
+Prototype Saw Puppet
 
 ID=10900063
-Proto Kaliquin
+Prototype Blank Puppet
 
 ID=10900064
-Proto Paunchequin
+Prototype Chubby Puppet
 
 ID=10900065
-Big Plastica
+Big Puppet
 
 ID=10900066
-Wound Ball
+Bloody Ball
 
 ID=10900067
-Meta Miniquin
+Completed Midget Puppet
 
 ID=10900068
-Cyclo Wound Ball
+Complete Bloody Ball
 
 ID=10900069
-Alpha Nastyquin
+Completed Nasty Puppet
 
 ID=10900070
-Alpha Pulsequin
+Completed Bloody Puppet
 
 ID=10900071
-Whole Plumpiquin
+Completed Plumpy Puppet
 
 ID=10900072
-Joker Edgar
+Edgar
 
 ID=10900073
-Mad Edgar
+Edgar
 
 ID=10900074
-Skitter
+Cell
 
 ID=10900075
-Toxic N-65
+Poisoned Experimental Body N-65
 
 ID=10900076
-Toxic Skitter
+Poisoned Cell
 
 ID=10900077
-Cannon Tower
+Gatling Gun
 
 ID=10900078
-Toxic Pupa
+Poisoned Cocoon
 
 ID=10900079
-Toxic S-00
+Poisoned Infected Body S-00
 
 ID=10900080
-Toxic S-01
+Poisoned Infected Body S-01
 
 ID=10900081
-Mad Manic
+Beholder
 
 ID=10900082
-Mad Manic
+Mad Beholder
 
 ID=10900083
-Wild Pinku
+Wild Beak
 
 ID=10900084
-Storm Sabreclaw
+Assault Unit Beast Fang
 
 ID=10900085
-Storm Pugilist
+Assault Unit Pistol
 
 ID=10900086
-Stormray Caster
+Assault Unit Summoner
 
 ID=10900087
-Storm Steeleron
+Assault Unit Steel
 
 ID=10900088
-Sukkarak
+Scar
 
 ID=10900089
-Wespina
+Toxic Hornet
 
 ID=10900090
-Gruff Sabreclaw
+Assault Unit Beast Fang
 
 ID=10900091
-Stalking Pugilist
+Special Unit Pistol
 
 ID=10900092
-Ultra Hound
+Special Unit Chaser
 
 ID=10900093
-Ultra Pytho
+Special Unit Python
 
 ID=10900094
-Epi-Steeleron
+Special Unit Steel
 
 ID=10900095
-Naomin
+Poison
 
 ID=10900096
-Sphere Hockmar
+Airborne Unit Hokmah
 
 ID=10900097
-Winged Luga
+Airborne Unit Ruga
 
 ID=10900098
-Gallus Squadron
+Airborne Unit Gallus
 
 ID=10900099
-Aerial Dradar
+Airborne Unit Dread
 
 ID=10900100
-Aerial Maimanator
+Airborne Unit Bone Crusher
 
 ID=10900101
 Amaryllis
 
 ID=10900102
-Wild Pinku
+Wild Beak
 
 ID=10900103
-Killer Sabreclaw
+Assassin Unit Wild Beast Fang
 
 ID=10900104
-Assassin Chaser
+Assassin Unit Zin Chaser
 
 ID=10900105
-Death Hex Pytho
+Assassin Unit Zin Python
 
 ID=10900106
-Blood Hex Caster
+Assassin Unit Zin Summoner
 
 ID=10900107
-Taifon Soldier
+Assassin Unit Tempest
 
 ID=10900108
-Blood Sukkarak
+Bloody Scar
 
 ID=10900109
-Elite Sabreclaw
+Elite Unit Wild Beast Fang
 
 ID=10900110
-Crown Cringler
+Elite Unit Crawler
 
 ID=10900111
-Noble Dive Gaour
+Elite Unit Crashed Garuda
 
 ID=10900112
-Taifon Elite
+Elite Unit Tempest
 
 ID=10900113
-Grand Charclops
+Elite Unit Crimson Beast
 
 ID=10900114
-Falconai
+Falcon
 
 ID=10900115
-Crater Dark Skitter
+Abyss Dark Cell
 
 ID=10900116
-Gorge Wort
+Abyss Dark Plant
 
 ID=10900117
-Hades Mutoid
+Abyss Dark Mucus
 
 ID=10900118
-Depth Caimanoc
+Abyss Dark Alligator
 
 ID=10900119
-Baalride
+Junk Knight
 
 ID=10900120
-Wild Pinku
+Wild Beak
 
 ID=10900121
-Cannon Tower
+Gatling Gun
 
 ID=10900122
-Rush Drone
+Mass-produced Drone
 
 ID=10900123
-Stalking Hexcaster
+Search Unit Zin Summoner
 
 ID=10900124
-V Hex Pugilist
+Search Unit Zin Pistol
 
 ID=10900125
-NED Uriel S
+Mass-produced NED Punisher
 
 ID=10900126
-NED Firelord S
+Mass-produced NED Fire Ruler
 
 ID=10900127
-V-Steeleron
+Search Unit Zin Steel
 
 ID=10900128
-Ravan
+Laban
 
 ID=10900129
-Delusion Blade
+Madness Blade
 
 ID=10900130
-Arachna Flair
+Improved Spider
 
 ID=10900131
-Elite Drone
+Improved Drone
 
 ID=10900132
-Noble Firelord
+Improved Auto Fire Ruler
 
 ID=10900133
-Noble Maton Uriel
+Improved Form Auto Punisher
 
 ID=10900134
-Magma Lithos Quaker
+Improved Form Earthquaker
 
 ID=10900135
-Bunker Bot
+Sieg Prototype
 
 ID=10900136
-Super Arachna Null
+Powerful Spider Zero
 
 ID=10900137
-Punisher Uriel
+Powerful Auto Punisher
 
 ID=10900138
-Strong Firelord
+Powerful Auto Fire Ruler
 
 ID=10900139
-Samso Sentron
+Powerful Sentry
 
 ID=10900140
-Grim Sabrewolf
+Powerful Blade Wolf
 
 ID=10900141
-Mighty Dominio
+Reinforced Domineer
 
 ID=10900142
-Grand Genozidion
+Powerful Genocider
 
 ID=10900143
-Nita
+Noah
 
 ID=10900144
-Assault Dronimo
+Combat Drone Zero
 
 ID=10900145
-Strife Gishin
+Combat Ghost
 
 ID=10900146
-Battle Dominio-00
+Combat Domineer
 
 ID=10900147
-Invertebrate Stab
+Combat Iron Worm
 
 ID=10900148
-Combat Splitter
+Combat Sprinter
 
 ID=10900149
-Battle Reaper
+Combat Cutthroat
 
 ID=10900150
-BTL Castle Fiend
+Combat Dig Monster
 
 ID=10900151
-Naran
+Enoch
 
 ID=10900152
-Destroyer Drone
+Combat War Drone
 
 ID=10900153
-Ultra Gishin-00
+Combat Ghost Zero
 
 ID=10900154
-Nuke Splitter-00
+Combat Sprinter Zero
 
 ID=10900155
-Atomic Massacrops
+Extermination War Solver
 
 ID=10900156
-Killer Raptor
+Combat Death Raptor
 
 ID=10900157
-Killer Zeronimo
+Combat Punisher Zero
 
 ID=10900158
-Suzie
+Shion
 
 ID=10900159
-Grutin
+Glutton
 
 ID=10900160
-Valea Vee
+Monster of the Void
 
 ID=10900161
-Decepticore
+Bluff Core
 
 ID=10900162
-Lethal Miniquin
+Killer Midget Puppet
 
 ID=10900163
-Bloodloss Ball
+Killer Bloody Ball
 
 ID=10900164
-Lethal Nastyquin
+Killer Nasty Puppet
 
 ID=10900165
-Thana Pulsequin
+Killer Bloody Puppet
 
 ID=10900166
-Mort Plumpiquin
+Killer Plumpy Puppet
 
 ID=10900167
-Mort Plumpiquin
+Killer Plumpy Puppet
 
 ID=10900168
-Mutant N-65
+Mutation Experimental Body N-65
 
 ID=10900169
-Mutant N-65
+Mutation Experimental Body N-65
 
 ID=10900170
-Mutant Skitter
+Mutated Cell
 
 ID=10900171
-Cannon Tower
+Gatling Gun
 
 ID=10900172
-Mutant Pupa
+Mutated Cocoon
 
 ID=10900173
-Mutant S-00
+Mutated Infected Body S-00
 
 ID=10900174
-Mutant S-01
+Mutated Infected Body S-01
 
 ID=10900175
 Special Drone
 
 ID=10900176
-Roll Hex Caster
+Killing Unit Zin Summoner
 
 ID=10900177
-Roll Hex Pugilist
+Killing Unit Zin Pistol
 
 ID=10900178
-Super NED Uriel
+Special NED Punisher
 
 ID=10900179
-NED Firelord X
+Special NED Fire Ruler
 
 ID=10900180
-Roll-Steeleron
+Killing Unit Zin Steel
 
 ID=10900181
-Agile Dronimo
+Reckless Drone Zero
 
 ID=10900182
-Rage Gishin
+Reckless Ghost
 
 ID=10900183
-Swish Dominio-00
+Rouge Domineer
 
 ID=10900184
-Invertebrate Pain
+Reckless Iron Worm
 
 ID=10900185
-Furore Splitter
+Reckless Sprinter
 
 ID=10900186
-Air Reaper
+Reckless Cutthroat
 
 ID=10900187
-Filthy Mood Fiend
+Reckless Dig Monster
 
 ID=10900188
-D-Line Equaleon
+Equilibrium Eternity
 
 ID=10900189
-D-Line Mageddon
+Equilibrium Apocalypse 
 
 ID=10900190
-NED Mercenary
+NED Company Mercenary
 
 ID=10900191
-D-Line
+Equilibrium
 
 ID=10900192
-Wound Ball
+Bloody Ball
 
 ID=10900193
-V-Impequin
+Search Unit Imp Puppet
 
 ID=10900194
-Para Miniquin
+Search Unit Midget Puppet
 
 ID=10900195
-Tracer Sabreclaw
+Search Unit Beast Fang
 
 ID=10900196
-DEF Spreadequin
+Defense Unit Saw Puppet
 
 ID=10900197
-Tank Kaliquin
+Defense Unit Blank Puppet
 
 ID=10900198
-Tank Steel CDO
+Defense Commander Steel
 
 ID=10900199
-Primus Nastyquin
+Special Unit Nasty Puppet
 
 ID=10900200
-Primus Pulsquin
+Special Unit Bloody Puppet
 
 ID=10900201
-Epi-Steeleron CDO
+Interim Commander Zin Steel
 
 ID=10900202
-Tele Impequin
+Comms Unit Imp Puppet
 
 ID=10900203
-Tele Miniquin
+Comms Unit Midget Puppet
 
 ID=10900204
-Commodore Keysling
+Comms Commander Kissling Puppet
 
 ID=10900205
-Killer Spreadequin
+Assassin Unit Saw Puppet
 
 ID=10900206
-Killer Kaliquin
+Assassin Unit Blank Puppet
 
 ID=10900207
-Kill-Maestro Edgar
+Assassin Commander Edgar
 
 ID=10900208
-Storm Paunchequin
+Assault Unit Chubby Puppet
 
 ID=10900209
-Aggro Plumpiquin
+Assault Unit Plumpy Puppet
 
 ID=10900210
-Storm Charclops
+Assault Commander Crimson Beast
 
 ID=10900211
-Captain Mad Ed
+General Mad Edgar
 
 ID=10900212
-Robust Test Object
+Strong Experimental Body Soulworker
 
 ID=10900213
-Sanctum Stone
+Temptation Stone
 
 ID=10900214
-Void Prion
+Vacuum Parasite
 
 ID=10900215
-Dominion Dreg
+Dominion Junk
 
 ID=10900216
-Blade Suzie
+Shion's Blade
 
 ID=10900217
-Shield Suzie
+Shion's Shield
 
 ID=10900218
-Debris
+Wreckage
 
 ID=10900219
-Unity Tower
+Single Gattling Gun
 
 ID=10900220
-Odento
+Howler
 
 ID=10900221
-Capsid
+Teeth
 
 ID=10900222
-Lil’ Skitter
+Small Cell
 
 ID=10900223
-Armour Skitter
+Heavy Cell
 
 ID=10900224
-Gougometer
+Doll Tormentor 
 
 ID=10900225
-REF Kairon
+Mirror Kain
 
 ID=10900226
-REF Plastica
+Mirror Big Puppet
 
 ID=10900227
-REF Wayangon
+Mirror Jack the King
 
 ID=10900228
-REF Edgar
+Mirror Edgar
 
 ID=10900229
-REF Mad Ed
+Mirror Edgar
 
 ID=10900230
-REF Golem
+Mirror Asphalt Golem
 
 ID=10900231
-REF Baalride
+Mirror Junk Knight
 
 ID=10900232
-REF Arachness
+Mirror Arachnis
 
 ID=10900233
-REF Mad Manic
+Mirror Mad Beholder
 
 ID=10900234
-REF Amaryllis
+Mirror Amaryllis
 
 ID=10900235
-REF Lil’ Skitter
+Mirror Small Cell
 
 ID=10900236
-REF Armour Skitter
+Mirror Heavy Cell
 
 ID=10900237
-REF Lil’ Skitter
+Mirror Small Cell
 
 ID=10900238
-REF Capsid
+Mirror Teeth
 
 ID=10900239
-REF Armour Skitter
+Mirror Heavy Cell
 
 ID=10900240
-REF Lil’ Skitter
+Mirror Small Cell
 
 ID=10900241
-REF Capsid
+Mirror Teeth
 
 ID=10900242
-REF Armour Skitter
+Mirror Heavy Cell
 
 ID=10900243
-REF Odento
+Mirror Howler
 
 ID=10900244
-REF Lil’ Skitter
+Mirror Small Cell
 
 ID=10900245
-REF Capsid
+Mirror Teeth
 
 ID=10900246
-REF Armour Skitter
+Mirror Heavy Cell
 
 ID=10900247
-REF Odento
+Mirror Howler
 
 ID=10900248
-REF Dradar
+Mirror Dread
 
 ID=10900249
-REF Lil’ Skitter
+Mirror Small Cell
 
 ID=10900250
-REF Capsid
+Mirror Teeth
 
 ID=10900251
-REF Armour Skitter
+Mirror Heavy Cell
 
 ID=10900252
-REF Dradar
+Mirror Dread
 
 ID=10900253
-REF Kaynine
+Mirror Canine Tooth
 
 ID=10900254
-REF Kairon
+Mirror Kain
 
 ID=10900255
-REF Impequin
+Mirror Imp Puppet
 
 ID=10900256
-REF Kaliquin
+Mirror Blank Puppet
 
 ID=10900257
-REF Spreadequin
+Mirror Saw Puppet
 
 ID=10900258
-REF Spinnequin
+Mirror Disgusting Puppet
 
 ID=10900259
-REF EMP
+Mirror EMP Main
 
 ID=10900260
-REF Impequin
+Mirror Imp Puppet
 
 ID=10900261
-REF Kaliquin
+Mirror Blank Puppet
 
 ID=10900262
-REF Spreadequin
+Mirror Saw Puppet
 
 ID=10900263
-REF Paunchequin
+Mirror Chubby Puppet
 
 ID=10900264
-REF Impequin
+Mirror Imp Puppet
 
 ID=10900265
-REF Kaliquin
+Mirror Blank Puppet
 
 ID=10900266
-REF Spreadequin
+Mirror Saw Puppet
 
 ID=10900267
-REF Paunchequin
+Mirror Chubby Puppet
 
 ID=10900268
-REF Zanettiquin
+Mirror Zanetti Puppet
 
 ID=10900269
-REF Impequin
+Mirror Imp Puppet
 
 ID=10900270
-REF Kaliquin
+Mirror Blank Puppet
 
 ID=10900271
-REF Spreadequin
+Mirror Saw Puppet
 
 ID=10900272
-REF Paunchequin
+Mirror Chubby Puppet
 
 ID=10900273
-REF Spinnequin
+Mirror Disgusting Puppet
 
 ID=10900274
-REF Zanettiquin
+Mirror Zanetti Puppet
 
 ID=10900275
-REF Spectraquin
+Mirror Specter Puppet
 
 ID=10900276
-REF Impequin
+Mirror Imp Puppet
 
 ID=10900277
-REF Spreadequin
+Mirror Saw Puppet
 
 ID=10900278
-REF Paunchequin
+Mirror Chubby Puppet
 
 ID=10900279
-REF Plastica
+Mirror Big Puppet
 
 ID=10900280
-REF Piccoloquin
+Mirror Tiny Puppet
 
 ID=10900281
-REF Serfequin
+Mirror Slave Puppet
 
 ID=10900282
-REF Gishiniquin
+Mirror Ghost Puppet
 
 ID=10900283
-REF Piccoloquin
+Mirror Tiny Puppet
 
 ID=10900284
-REF Serfequin
+Mirror Slave Puppet
 
 ID=10900285
-REF Gishiniquin
+Mirror Ghost Puppet
 
 ID=10900286
-REF Tuckaquin
+Mirror Fidget Puppet
 
 ID=10900287
-REF Slingaquin
+Mirror Kissling Puppet
 
 ID=10900288
-REF Gnomiquin
+Mirror Smallish Puppet
 
 ID=10900289
-REF Void Drone
+Mirror Discharged Drone Zero
 
 ID=10900290
-REF Piccoloquin
+Mirror Tiny Puppet
 
 ID=10900291
-REF Serfequin
+Mirror Slave Puppet
 
 ID=10900292
-REF Gishiniquin
+Mirror Ghost Puppet
 
 ID=10900293
-REF Tuckaquin
+Mirror Fidget Puppet
 
 ID=10900294
-REF Slingaquin
+Mirror Kissling Puppet
 
 ID=10900295
-REF Rambequin
+Mirror Embryo Puppet
 
 ID=10900296
-REF Piccoloquin
+Mirror Tiny Puppet
 
 ID=10900297
-REF Serfequin
+Mirror Slave Puppet
 
 ID=10900298
-REF Gishiniquin
+Mirror Ghost Puppet
 
 ID=10900299
-REF Tuckaquin
+Mirror Fidget Puppet
 
 ID=10900300
-REF Slingaquin
+Mirror Kissling Puppet
 
 ID=10900301
-REF Murmurquin
+Mirror Mumble Puppet
 
 ID=10900302
-REF Piccoloquin
+Mirror Tiny Puppet
 
 ID=10900303
-REF Serfequin
+Mirror Slave Puppet
 
 ID=10900304
-REF Gishiniquin
+Mirror Ghost Puppet
 
 ID=10900305
-REF Tuckaquin
+Mirror Fidget Puppet
 
 ID=10900306
-REF Slingaquin
+Mirror Kissling Puppet
 
 ID=10900307
-REF Gnomiquin
+Mirror Smallish Puppet
 
 ID=10900308
-REF Rambequin
+Mirror Embryo Puppet
 
 ID=10900309
-REF Murmurquin
+Mirror Mumble Puppet
 
 ID=10900310
-REF Wayangon
+Mirror Jack the King
 
 ID=10900311
-REF Mini
+Mirror Midget Puppet
 
 ID=10900312
-REF Nastyquin
+Mirror Nasty Puppet
 
 ID=10900313
-REF Pulsequin
+Mirror Bloody Puppet
 
 ID=10900314
-REF Mini
+Mirror Midget Puppet
 
 ID=10900315
-REF Nastyquin
+Mirror Nasty Puppet
 
 ID=10900316
-REF Pulsequin
+Mirror Bloody Puppet
 
 ID=10900317
-REF Plumpiquin
+Mirror Plumpy Puppet
 
 ID=10900318
-REF Mini
+Mirror Midget Puppet
 
 ID=10900319
-REF Nastyquin
+Mirror Nasty Puppet
 
 ID=10900320
-REF Pulsequin
+Mirror Bloody Puppet
 
 ID=10900321
-REF Plumpiquin
+Mirror Plumpy Puppet
 
 ID=10900322
-REF Jokaquin
+Mirror Little Puppet
 
 ID=10900323
-REF Mini
+Mirror Midget Puppet
 
 ID=10900324
-REF Nastyquin
+Mirror Nasty Puppet
 
 ID=10900325
-REF Pulsequin
+Mirror Bloody Puppet
 
 ID=10900326
-REF Plumpiquin
+Mirror Plumpy Puppet
 
 ID=10900327
-REF Rabbliquin
+Mirror Hideous Puppet
 
 ID=10900328
-REF Mini
+Mirror Midget Puppet
 
 ID=10900329
-REF Nastyquin
+Mirror Nasty Puppet
 
 ID=10900330
-REF Pulsequin
+Mirror Bloody Puppet
 
 ID=10900331
-REF Plumpiquin
+Mirror Plumpy Puppet
 
 ID=10900332
-REF Rabbliquin
+Mirror Hideous Puppet
 
 ID=10900333
-REF Flame
+Mirror Flame Crystal
 
 ID=10900334
-REF Flame
+Mirror Flame Crystal
 
 ID=10900335
-REF Impequin
+Mirror Imp Puppet
 
 ID=10900336
-REF Spreadequin
+Mirror Saw Puppet
 
 ID=10900337
-REF Spinnequin
+Mirror Disgusting Puppet
 
 ID=10900338
-REF Piccoloquin
+Mirror Tiny Puppet
 
 ID=10900339
-REF Gnomiquin
+Mirror Smallish Puppet
 
 ID=10900340
-REF Impequin
+Mirror Imp Puppet
 
 ID=10900341
-REF Kaliquin
+Mirror Blank Puppet
 
 ID=10900342
-REF Paunchequin
+Mirror Chubby Puppet
 
 ID=10900343
-REF Piccoloquin
+Mirror Tiny Puppet
 
 ID=10900344
-REF Serfequin
+Mirror Slave Puppet
 
 ID=10900345
-REF Gishiniquin
+Mirror Ghost Puppet
 
 ID=10900346
-REF Slingaquin
+Mirror Kissling Puppet
 
 ID=10900347
-REF Murmurquin
+Mirror Mumble Puppet
 
 ID=10900348
-REF Nastyquin
+Mirror Nasty Puppet
 
 ID=10900349
-REF Pulsequin
+Mirror Bloody Puppet
 
 ID=10900350
-REF Paunchequin
+Mirror Chubby Puppet
 
 ID=10900351
-REF Piccoloquin
+Mirror Tiny Puppet
 
 ID=10900352
-REF Tuckaquin
+Mirror Fidget Puppet
 
 ID=10900353
-REF Rambequin
+Mirror Embryo Puppet
 
 ID=10900354
-REF Wayangon
+Mirror Jack the King
 
 ID=10900355
-REF Mini
+Mirror Midget Puppet
 
 ID=10900356
-REF Nastyquin
+Mirror Nasty Puppet
 
 ID=10900357
-REF Pulsequin
+Mirror Bloody Puppet
 
 ID=10900358
-REF Plumpiquin
+Mirror Plumpy Puppet
 
 ID=10900359
-REF Rabbliquin
+Mirror Hideous Puppet
 
 ID=10900360
-REF Kaliquin
+Mirror Blank Puppet
 
 ID=10900361
-REF Spreadequin
+Mirror Saw Puppet
 
 ID=10900362
-REF Paunchequin
+Mirror Chubby Puppet
 
 ID=10900363
-REF Spinnequin
+Mirror Disgusting Puppet
 
 ID=10900364
-REF Zanettiquin
+Mirror Zanetti Puppet
 
 ID=10900365
-REF Spectraquin
+Mirror Specter Puppet
 
 ID=10900366
-REF Serfequin
+Mirror Slave Puppet
 
 ID=10900367
-REF Gishiniquin
+Mirror Ghost Puppet
 
 ID=10900368
-REF Slingaquin
+Mirror Kissling Puppet
 
 ID=10900369
-REF Rambequin
+Mirror Embryo Puppet
 
 ID=10900370
-REF Mini
+Mirror Midget Puppet
 
 ID=10900371
-REF Plumpiquin
+Mirror Plumpy Puppet
 
 ID=10900372
-REF Rabbliquin
+Mirror Hideous Puppet
 
 ID=10900373
-REF Capsid
+Mirror Teeth
 
 ID=10900374
-REF Dradar
+Mirror Dread
 
 ID=10900375
-REF Kaynine
+Mirror Canine Tooth
 
 ID=10900376
-REF Kairon
+Mirror Kain
 
 ID=10900377
-REF Spinnequin
+Mirror Disgusting Puppet
 
 ID=10900378
-REF Zanettiquin
+Mirror Zanetti Puppet
 
 ID=10900379
-REF Spectraquin
+Mirror Specter Puppet
 
 ID=10900380
-REF Plastica
+Mirror Big Puppet
 
 ID=10900381
-REF Gnomiquin
+Mirror Smallish Puppet
 
 ID=10900382
-REF Murmurquin
+Mirror Mumble Puppet
 
 ID=10900383
-REF Wayangon
+Mirror Jack the King
 
 ID=10900384
-REF Nastyquin
+Mirror Nasty Puppet
 
 ID=10900385
-REF Pulsequin
+Mirror Bloody Puppet
 
 ID=10900386
-REF Jokaquin
+Mirror Little Puppet
 
 ID=10900387
-REF Rabbliquin
+Mirror Hideous Puppet
 
 ID=10900388
-REF Granitoid
+Mirror Wild Stone
 
 ID=10900389
-REF Boulder
+Mirror Land Stone
 
 ID=10900390
-REF Granitoid
+Mirror Wild Stone
 
 ID=10900391
-REF Boulder
+Mirror Land Stone
 
 ID=10900392
-REF Cloppo
+Mirror Rampage
 
 ID=10900393
-REF Spine
+Mirror Scone
 
 ID=10900394
-REF Debris
+Mirror Wreckage
 
 ID=10900395
-REF Boulder
+Mirror Land Stone
 
 ID=10900396
-REF Lord Spine
+Mirror Road Scone
 
 ID=10900397
-REF Debris
+Mirror Wreckage
 
 ID=10900398
-REF Cloppo
+Mirror Rampage
 
 ID=10900399
-REF Warrage
+Mirror Warlike
 
 ID=10900400
-REF Crusher
+Mirror Land Crusher
 
 ID=10900401
-REF Crusher
+Mirror Land Crusher
 
 ID=10900402
-REF Spine
+Mirror Scone
 
 ID=10900403
-REF Granitoid
+Mirror Wild Stone
 
 ID=10900404
-REF Debris
+Mirror Wreckage
 
 ID=10900405
-REF Boulder
+Mirror Land Stone
 
 ID=10900406
-REF Cloppo
+Mirror Rampage
 
 ID=10900407
-REF Lord Spine
+Mirror Road Scone
 
 ID=10900408
-REF Crusher
+Mirror Land Crusher
 
 ID=10900409
-REF Crusher
+Mirror Land Crusher
 
 ID=10900410
-REF Golem
+Mirror Asphalt Golem
 
 ID=10900411
-REF Dark Skitter
+Mirror Dark Cell
 
 ID=10900412
-REF Cringler
+Mirror Crawler
 
 ID=10900413
-REF Canalmurin
+Mirror Sewer Rat
 
 ID=10900414
-REF Mutoid
+Mirror Dark Mucus
 
 ID=10900415
-REF Dark Skitter
+Mirror Dark Cell
 
 ID=10900416
-REF Cringler
+Mirror Crawler
 
 ID=10900417
-REF Canalmurin
+Mirror Sewer Rat
 
 ID=10900418
-REF Mander
+Mirror Dark Lizard
 
 ID=10900419
-REF Mutoid
+Mirror Dark Mucus
 
 ID=10900420
-REF Dark Skitter
+Mirror Dark Cell
 
 ID=10900421
-REF Cringler
+Mirror Crawler
 
 ID=10900422
-REF Mander
+Mirror Dark Lizard
 
 ID=10900423
-REF Crud Skitter
+Mirror Crude Cell
 
 ID=10900424
-REF Caimanoc
+Mirror Dark Alligator
 
 ID=10900425
-REF Venom Mutoid
+Mirror Venom Mucus
 
 ID=10900426
-REF Venom Mutoid
+Mirror Venom Mucus
 
 ID=10900427
-REF Venom Mutoid
+Mirror Venom Mucus
 
 ID=10900428
-Crystal Qube B
+Crystal Cube B
 
 ID=10900429
-Crystal Qube B
+Crystal Cube B
 
 ID=10900430
-REF Cringler
+Mirror Crawler
 
 ID=10900431
-REF Baalride
+Mirror Junk Knight
 
 ID=10900432
-REF Pike
+Mirror Vacuum Vein
 
 ID=10900433
-REF Arachna Feint
+Mirror Pawn Spider
 
 ID=10900434
-REF Mangrove
+Mirror Mangrove Cell
 
 ID=10900435
-REF Pike
+Mirror Vacuum Vein
 
 ID=10900436
-REF Vantaworm
+Mirror Dark Worm
 
 ID=10900437
-REF Vantaworm
+Mirror Dark Worm
 
 ID=10900438
-REF Guard
+Mirror Infected Guard
 
 ID=10900439
-REF Child
+Mirror Infected Girl
 
 ID=10900440
-REF Arachna Feint
+Mirror Pawn Spider
 
 ID=10900441
-REF Mangrove
+Mirror Mangrove Cell
 
 ID=10900442
-REF Arachna Lug
+Mirror Rook Spider
 
 ID=10900443
-REF Melt Skitter
+Mirror Meltiness Cell
 
 ID=10900444
-REF Melt Skitter
+Mirror Meltiness Cell
 
 ID=10900445
-REF Vantaworm
+Mirror Dark Worm
 
 ID=10900446
-Crystal Qube B
+Crystal Cube B
 
 ID=10900447
-Crystal Qube B
+Crystal Cube B
 
 ID=10900448
-REF Pike
+Mirror Vacuum Vein
 
 ID=10900449
-REF Guard
+Mirror Infected Guard
 
 ID=10900450
-REF Child
+Mirror Infected Girl
 
 ID=10900451
-REF Arachna Feint
+Mirror Pawn Spider
 
 ID=10900452
-REF Mangrove
+Mirror Mangrove Cell
 
 ID=10900453
-REF Melt Skitter
+Mirror Meltiness Cell
 
 ID=10900454
-REF Melt Skitter
+Mirror Meltiness Cell
 
 ID=10900455
-REF Arachna Drak
+Mirror Duke Spider
 
 ID=10900456
-REF Arachna Drak
+Mirror Duke Spider
 
 ID=10900457
-REF Arachness
+Mirror Arachnis
 
 ID=10900458
-Crystal Qube A
+Crystal Cube A
 
 ID=10900459
-Crystal Qube B
+Crystal Cube B
 
 ID=10900460
-Crystal Qube D
+Crystal Cube D
 
 ID=10900461
-Crystal Qube A
+Crystal Cube A
 
 ID=10900462
-Crystal Qube B
+Crystal Cube B
 
 ID=10900463
-Crystal Qube D
+Crystal Cube D
 
 ID=10900464
-REF Skitter
+Mirror Cell
 
 ID=10900465
-REF N-65
+Mirror N-65
 
 ID=10900466
-REF Cytoborg
+Mirror Habitant
 
 ID=10900467
-REF S-00
+Mirror S-00
 
 ID=10900468
-REF S-01
+Mirror S-01
 
 ID=10900469
-REF S-02
+Mirror S-02
 
 ID=10900470
-REF Skitter
+Mirror Cell
 
 ID=10900471
-REF N-65
+Mirror N-65
 
 ID=10900472
-REF Cytoborg
+Mirror Habitant
 
 ID=10900473
-REF S-00
+Mirror S-00
 
 ID=10900474
-REF S-01
+Mirror S-01
 
 ID=10900475
-REF X-020
+Mirror X-020
 
 ID=10900476
-REF Skitter
+Mirror Cell
 
 ID=10900477
-REF X-111
+Mirror X-111
 
 ID=10900478
-Crystal Qube D
+Crystal Cube D
 
 ID=10900479
-Crystal Qube D
+Crystal Cube D
 
 ID=10900480
-REF Cytoborg
+Mirror Habitant
 
 ID=10900481
-REF S-00
+Mirror S-00
 
 ID=10900482
-REF S-01
+Mirror S-01
 
 ID=10900483
-REF S-02
+Mirror S-02
 
 ID=10900484
-REF X-111
+Mirror X-111
 
 ID=10900485
-REF Mad Manic
+Mirror Beholder
 
 ID=10900486
-REF Skitter
+Mirror Cell
 
 ID=10900487
-REF S-02
+Mirror S-02
 
 ID=10900488
-REF Mad Manic
+Mirror Beholder
 
 ID=10900489
-REF Mad Manic
+Mirror Mad Beholder
 
 ID=10900490
-REF Decepticore
+Mirror Bluff Core
 
 ID=10900491
-REF Hockmar
+Mirror Hokmah
 
 ID=10900492
-REF Prions
+Mirror Vacuum Parasite
 
 ID=10900493
-REF Maimator
+Mirror Bone Crusher
 
 ID=10900494
-REF Hockmar
+Mirror Hokmah
 
 ID=10900495
-REF Prions
+Mirror Vacuum Parasite
 
 ID=10900496
-REF Luga
+Mirror Ruga
 
 ID=10900497
-REF Gallus
+Mirror Gallus
 
 ID=10900498
-REF Maimator
+Mirror Bone Crusher
 
 ID=10900499
-REF Gallasnis
+Mirror Glasnis
 
 ID=10900500
-REF Luga
+Mirror Ruga
 
 ID=10900501
-REF Maimator
+Mirror Bone Crusher
 
 ID=10900502
-REF Breaker
+Mirror Iron Breaker
 
 ID=10900503
-Crystal Qube B
+Crystal Cube B
 
 ID=10900504
-Crystal Qube B
+Crystal Cube B
 
 ID=10900505
-REF Hockmar
+Mirror Hokmah
 
 ID=10900506
-REF Prions
+Mirror Vacuum Parasite
 
 ID=10900507
-REF Luga
+Mirror Ruga
 
 ID=10900508
-REF Gallus
+Mirror Gallus
 
 ID=10900509
-REF Maimator
+Mirror Bone Crusher
 
 ID=10900510
-REF Breaker
+Mirror Iron Breaker
 
 ID=10900511
-REF Shredder
+Mirror Dignity Snatcher
 
 ID=10900512
-REF Hockmar
+Mirror Hokmah
 
 ID=10900513
-REF Prions
+Mirror Vacuum Parasite
 
 ID=10900514
-REF Luga
+Mirror Ruga
 
 ID=10900515
-REF Gallus
+Mirror Gallus
 
 ID=10900516
-REF Maimator
+Mirror Bone Crusher
 
 ID=10900517
-REF Gallasnis
+Mirror Glasnis
 
 ID=10900518
-REF Amaryllis
+Mirror Amaryllis
 
 ID=10900519
 Miriam
 
 ID=10900520
-Maverick
+Kainbarrel
 
 ID=10900521
-Trashbert
+Haidinger
 
 ID=10900522
-REF Little Red
+Mirror Red Hood
 
 ID=10900523
-REF Pinku
+Mirror Wild Beak
 
 ID=10900524
-REF Pugilist
+Mirror Pistol
 
 ID=10900525
-REF Little Red
+Mirror Red Hood
 
 ID=10900526
-REF Pugilist
+Mirror Pistol
 
 ID=10900527
-REF Steeleron
+Mirror Steel
 
 ID=10900528
-REF Little Red
+Mirror Red Hood
 
 ID=10900529
-REF Pinku
+Mirror Wild Beak
 
 ID=10900530
-REF Sabreclaw
+Mirror Beast Fang
 
 ID=10900531
-REF Pugilist
+Mirror Pistol
 
 ID=10900532
-REF Steeleron
+Mirror Steel
 
 ID=10900533
-REF Dark Gauntillus
+Mirror Black Gauntlet
 
 ID=10900534
-REF Little Red
+Mirror Red Hood
 
 ID=10900535
-REF Pinku
+Mirror Wild Beak
 
 ID=10900536
-REF Sabreclaw
+Mirror Beast Fang
 
 ID=10900537
-REF Pugilist
+Mirror Pistol
 
 ID=10900538
-REF Steeleron
+Mirror Steel
 
 ID=10900539
-REF Tanksteel
+Mirror Armor Steel
 
 ID=10900540
-REF Little Red
+Mirror Red Hood
 
 ID=10900541
-REF Sabreclaw
+Mirror Beast Fang
 
 ID=10900542
-REF Pugilist
+Mirror Pistol
 
 ID=10900543
-REF Steeleron
+Mirror Steel
 
 ID=10900544
-REF Dark Gauntillus
+Mirror Black Gauntlet
 
 ID=10900545
-REF Hellanko
+Mirror Hell Enforcer
 
 ID=10900546
-REF Sukkarak
+Mirror Scar
 
 ID=10900547
-REF Pinku
+Mirror Wild Beak
 
 ID=10900548
-REF Sabreclaw
+Mirror Beast Fang
 
 ID=10900549
-REF Argus Gaour
+Mirror Intention Garuda
 
 ID=10900550
-REF Caster
+Mirror Summoner
 
 ID=10900551
-REF Sabreclaw
+Mirror Beast Fang
 
 ID=10900552
-REF Pugilist
+Mirror Pistol
 
 ID=10900553
-REF Steeleron
+Mirror Steel
 
 ID=10900554
-REF Argus Gaour
+Mirror Intention Garuda
 
 ID=10900555
-REF Caster
+Mirror Summoner
 
 ID=10900556
-REF Charclops
+Mirror Crimson Beast
 
 ID=10900557
-REF Carmine
+Mirror Carmine Beast
 
 ID=10900558
-REF Sabreclaw
+Mirror Beast Fang
 
 ID=10900559
-REF Steeleron
+Mirror Steel
 
 ID=10900560
-REF Argus Gaour
+Mirror Intention Garuda
 
 ID=10900561
-REF Caster
+Mirror Summoner
 
 ID=10900562
-REF Charclops
+Mirror Crimson Beast
 
 ID=10900563
-REF Sabreclaw
+Mirror Beast Fang
 
 ID=10900564
-REF Steeleron
+Mirror Steel
 
 ID=10900565
-REF Argus Gaour
+Mirror Intention Garuda
 
 ID=10900566
-REF Caster
+Mirror Summoner
 
 ID=10900567
-REF Charclops
+Mirror Crimson Beast
 
 ID=10900568
-REF Redmane
+Mirror Red Mane
 
 ID=10900569
-Crystal Qube D
+Crystal Cube D
 
 ID=10900570
-Crystal Qube A
+Crystal Cube A
 
 ID=10900571
-Crystal Qube B
+Crystal Cube B
 
 ID=10900572
-REF Sabreclaw
+Mirror Beast Fang
 
 ID=10900573
-REF Steeleron
+Mirror Steel
 
 ID=10900574
-REF Argus Gaour
+Mirror Intention Garuda
 
 ID=10900575
-REF Caster
+Mirror Summoner
 
 ID=10900576
-REF Carmine
+Mirror Carmine Beast
 
 ID=10900577
-REF Gaour
+Mirror Queen Garuda
 
 ID=10900578
-REF Little Red
+Mirror Red Hood
 
 ID=10900579
-REF Bulbcap
+Mirror Uneven Hood
 
 ID=10900580
-REF Pytho
+Mirror Python
 
 ID=10900581
-REF Chaser
+Mirror Chaser
 
 ID=10900582
-REF Steeleron
+Mirror Zin Steel
 
 ID=10900583
-REF Little Red
+Mirror Red Hood
 
 ID=10900584
-REF Bulbcap
+Mirror Uneven Hood
 
 ID=10900585
-REF Chaser
+Mirror Chaser
 
 ID=10900586
-REF Steeleron
+Mirror Zin Steel
 
 ID=10900587
-REF Steeleron
+Mirror Heavy Steel
 
 ID=10900588
-REF Decepticore
+Mirror Bluff Core
 
 ID=10900589
-REF Little Red
+Mirror Red Hood
 
 ID=10900590
-REF Steeleron
+Mirror Steel
 
 ID=10900591
-REF Tanksteel
+Mirror Armor Steel
 
 ID=10900592
-REF Bulbcap
+Mirror Uneven Hood
 
 ID=10900593
-REF Chaser
+Mirror Chaser
 
 ID=10900594
-REF Pytho
+Mirror Python
 
 ID=10900595
-REF Steeleron
+Mirror Zin Steel
 
 ID=10900596
-REF Steeleron
+Mirror Heavy Steel
 
 ID=10900597
-REF Hex Hound
+Mirror Zin Chaser
 
 ID=10900598
-REF Little Red
+Mirror Red Hood
 
 ID=10900599
-REF Chaser
+Mirror Chaser
 
 ID=10900600
-REF Steeleron
+Mirror Zin Steel
 
 ID=10900601
-REF Hex Hound
+Mirror Zin Chaser
 
 ID=10900602
-REF Venin
+Mirror Venin
 
 ID=10900603
-REF Little Red
+Mirror Red Hood
 
 ID=10900604
-REF Bulbcap
+Mirror Uneven Hood
 
 ID=10900605
-REF Chaser
+Mirror Chaser
 
 ID=10900606
-REF Naomin
+Mirror Poison
 
 ID=10900607
-REF Little Red
+Mirror Red Hood
 
 ID=10900608
-REF Wild Beast
+Mirror Wild Beast Fang
 
 ID=10900609
-REF Hex Caster
+Mirror Zin Summoner
 
 ID=10900610
-REF Hex Pytho
+Mirror Zin Python
 
 ID=10900611
-REF Taifon
+Mirror Tempest
 
 ID=10900612
-REF Little Red
+Mirror Red Hood
 
 ID=10900613
-REF Wild Beast
+Mirror Wild Beast Fang
 
 ID=10900614
-REF Hex Caster
+Mirror Zin Summoner
 
 ID=10900615
-REF Hex Pytho
+Mirror Zin Python
 
 ID=10900616
-REF Taifon
+Mirror Tempest
 
 ID=10900617
-REF Decepticore
+Mirror Bluff Core
 
 ID=10900618
-REF Little Red
+Mirror Red Hood
 
 ID=10900619
-REF Wild Beast
+Mirror Wild Beast Fang
 
 ID=10900620
-REF Hex Caster
+Mirror Zin Summoner
 
 ID=10900621
-REF Hex Pytho
+Mirror Zin Python
 
 ID=10900622
-REF Taifon
+Mirror Tempest
 
 ID=10900623
-REF Samurai
+Mirror Single Leg
 
 ID=10900624
-REF Rageface
+Mirror Scarlet Mask
 
 ID=10900625
-REF Hex Caster
+Mirror Zin Summoner
 
 ID=10900626
-REF Hex Pytho
+Mirror Zin Python
 
 ID=10900627
-REF Igni-Taifon
+Mirror Flame Tempest
 
 ID=10900628
-REF Little Red
+Mirror Red Hood
 
 ID=10900629
-REF Hex Caster
+Mirror Zin Summoner
 
 ID=10900630
-REF Hex Pytho
+Mirror Zin Python
 
 ID=10900631
-REF Taifon
+Mirror Tempest
 
 ID=10900632
-REF Blood Sukkarak
+Mirror Bloody Scar
 
 ID=10900633
-REF Shinobi
+Mirror Marauder
 
 ID=10900634
-REF Swordsman
+Mirror Sword Breaker
 
 ID=10900635
-REF Big Buddha
+Mirror Big Butcher
 
 ID=10900636
-REF Crusher
+Mirror Press
 
 ID=10900637
-REF Whiteclaw
+Mirror White Fang
 
 ID=10900638
-REF Shinobi
+Mirror Marauder
 
 ID=10900639
-REF Swordsman
+Mirror Sword Breaker
 
 ID=10900640
-REF Whiteclaw
+Mirror White Fang
 
 ID=10900641
-REF Collector
+Mirror Hell Collector
 
 ID=10900642
-REF Kurisu
+Mirror Phantom
 
 ID=10900643
-Crystal Qube C
+Crystal Cube C
 
 ID=10900644
-REF Tripod
+Mirror Tripod
 
 ID=10900645
-REF Drone
+Mirror Drone
 
 ID=10900646
-REF NED Soldier
+Mirror NED Soldier
 
 ID=10900647
-REF Soldier
+Mirror NED Shield Soldier
 
 ID=10900648
-REF NED Uriel
+Mirror NED Punisher
 
 ID=10900649
-REF Firelord
+Mirror NED Fire Ruler
 
 ID=10900650
-REF Brood
+Mirror Road Buster
 
 ID=10900651
-REF Tripod
+Mirror Tripod
 
 ID=10900652
-REF Drone
+Mirror Drone
 
 ID=10900653
-REF NED Uriel
+Mirror NED Punisher
 
 ID=10900654
-REF Firelord
+Mirror NED Fire Ruler
 
 ID=10900655
-REF Megiddo MK2
+Mirror Megiddo Maker MK-2
 
 ID=10900656
 Miriam
 
 ID=10900657
-Maverick
+Kainbarrel
 
 ID=10900658
-Trashbert
+Haidinger
 
 ID=10900659
-REF Little Red
+Mirror Red Hood
 
 ID=10900660
-REF Sabreclaw
+Mirror Beast Fang
 
 ID=10900661
-REF Sukkarak
+Mirror Scar
 
 ID=10900662
-REF Redmane
+Mirror Red Mane
 
 ID=10900663
-REF Steeleron
+Mirror Zin Steel
 
 ID=10900664
-REF Naomin
+Mirror Poison
 
 ID=10900665
-REF Hex Pytho
+Mirror Zin Python
 
 ID=10900666
-REF Samurai
+Mirror Single Leg
 
 ID=10900667
-REF Kurisu
+Mirror Phantom
 
 ID=10900668
-REF Ravan
+Mirror Laban: Hundred Sword
 
 ID=10105130
-D-Line Equaleon
+Equilibrium Eternity
 
 ID=10105131
-Equaleon Entity
+Eternity Illusion
 
 ID=10105132
-Equaleon Clone
+Summoned Body of Eternity
 
 ID=10105133
-D-Line Mageddon
+Equilibrium Apocalypse
 
 ID=10105134
-Mageddon Entity
+Apocalypse Illusion
 
 ID=10105135
-Mageddon Clone
+Summoned Body of Apocalypse
 
 ID=10105136
-D-Line Jagger
+Equilibrium Juggernaut
 
 ID=10105137
-Jagger Entity
+Juggernaut Illusion
 
 ID=10105138
-Jagger Clone
+Summoned Body of Juggernaut
 
 ID=10105139
-D-Line Demon
+Equilibrium Pandemonium
 
 ID=10105140
-Demon Entity
+Pandemonium Illusion
 
 ID=10105141
-Demon Clone
+Summoned Body of Pandemonium
 
 ID=10105142
-D-Line Ultimaton
+Equilibrium Ultimatum
 
 ID=10105143
-Ultimaton Entity
+Ultimatum Illusion
 
 ID=10105144
-Ultimaton Clone
+Summoned Body of Ultimatum
 
 ID=10105145
-Greeny
+Green Flower
 
 ID=10105146
-Poppy
+Purple Flower
 
 ID=10105147
-Rosey
+Red Flower
 
 ID=10105148
-Venom Wort
+Venom Plant
 
 ID=10105149
-Prism Comb
+Prism Flower
 
 ID=10105150
-Decepticore
+Bluff Core
 
 ID=10105151
-Auri Obelisk
+Gold Obelisk
 
 ID=10105152
-Sphere 6
+Hexa Spear
 
 ID=10105153
-Decepticore
+Bluff Core
 
 ID=10105154
-Firestack
+Fire Pillar
 
 ID=10105155
-Lightstack
+Light Pillar
 
 ID=10105156
 Flame Crystal
@@ -2822,145 +2822,145 @@ ID=11000100
 Gentleman
 
 ID=11000101
-Sparklemoth
+Butterfly
 
 ID=11000102
-Coco
+Koko
 
 ID=12001004
-Neil
+Niel
 
 ID=13001001
-Void Pupa
+Vacuum Cocoon
 
 ID=13001002
-Void Prion
+Vacuum Parasite
 
 ID=13001003
-Void Dradar
+Vacuum Dread
 
 ID=13001004
-Void Kaynine
+Vacuum Canine Tooth
 
 ID=13001005
-Void Spine
+Vacuum Road Scone
 
 ID=13001006
-Void Warrage
+Vacuum Warlike
 
 ID=13001007
-Void Crud Skitter
+Vacuum Crude Cell
 
 ID=13001008
-Void Caimanoc
+Vacuum Dark Alligator
 
 ID=13001009
-Void Vantaworm
+Vacuum Dark Worm
 
 ID=13001010
-Void Gallasnis
+Vacuum Glasnis
 
 ID=13001011
-Void Arachness
+Vacuum Arachnis
 
 ID=13001012
-Valrock
+Wild Rock
 
 ID=13001013
-Valdebriss
+Wild Debris
 
 ID=13001014
-Valgrinder
+Wild Crusher
 
 ID=13001015
-Valganov
+Wild Wrecker
 
 ID=13001022
-Respawn Valrock
+Revived Wild Rock
 
 ID=13001023
-Respawn Valdebriss
+Revived Wild Debris
 
 ID=13001024
-Respawn Valgrinder
+Revived Wild Crusher
 
 ID=13001025
-Respawn Valganov
+Revived Wild Wrecker
 
 ID=13001026
-Respawn Valrock
+Revived Wild Rock
 
 ID=13001027
-Respawn Valdebriss
+Revived Wild Debris
 
 ID=13001028
-Respawn Valgrinder
+Revived Wild Crusher
 
 ID=13001029
-Respawn Valganov
+Revived Wild Wrecker
 
 ID=13001030
-Respawn Valrock
+Revived Wild Rock
 
 ID=13001031
-Respawn Valdebriss
+Revived Wild Debris
 
 ID=13001032
-Respawn Valgrinder
+Revived Wild Crusher
 
 ID=13001033
-Respawn Valganov
+Revived Wild Wrecker
 
 ID=13001016
-Vee Guardian
+Fissure Guardian
 
 ID=13001017
-Irregulus
+Void Fissure
 
 ID=14001001
-Primal Park
+The Primal
 
 ID=14001002
-Goliath Mutoid
+Gigantic Mucas
 
 ID=14001003
-Boulder Giant
+Polluted Stone
 
 ID=14001004
-Detriterror
+Cruel Cage
 
 ID=14001005
-Boulder Giant
+Wrecked Stone
 
 ID=14001006
-Turned Watcher
+Blob Guard
 
 ID=14001007
-Primal’s Arm
+Primal Arm
 
 ID=14001008
-Primal’s Primearm
+The Primal's Massive Arm
 
 ID=14001009
-Primal’s Nucleus
+Primal Core
 
 ID=14001010
-Concrete
+Concrete Fragment
 
 ID=14001011
-Explosive Primearm
+Raging Massive Arm
 
 ID=20001017
-Shock Box
+Surprise Box
 
 ID=20001018
 Explosive Box
 
 ID=20001019
-Ancient Terror
+Elder Kamentor
 
 ID=20001020
-Deceptive Terror
+Trick Kamentor
 
 ID=21000018
 Crystal Cube
@@ -2972,994 +2972,994 @@ ID=30101010
 Training Dummy
 
 ID=30101020
-Steel Boss
+Training Master
 
 ID=30102001
-Lil’ Skitter
+Small Cell
 
 ID=30102002
-Capsid
+Teeth
 
 ID=30102003
-Odento
+Howler
 
 ID=30102004
-Lil’ Skitter
+Small Cell
 
 ID=30102005
-Capsid
+Teeth
 
 ID=30102006
-Armour Skitter
+Heavy Cell
 
 ID=30102007
-Dradar
+Dread
 
 ID=30102008
-Raging Lil’ Skitter
+Raging Small Cell
 
 ID=30102009
-Drool Capsid
+Raging Teeth
 
 ID=30102010
-Mad Armour Skitter
+Raging Heavy Cell
 
 ID=30102011
-Mad Mega Skitter
+Raging Massive Cell
 
 ID=30102012
-Raging Dradar
+Raging Dread
 
 ID=30102013
-Lil’ Skitter
+Small Cell
 
 ID=30102014
-Capsid
+Teeth
 
 ID=30102015
-Armour Skitter
+Heavy Cell
 
 ID=30102016
-Kaynine
+Canine Tooth
 
 ID=30102017
-Lil’ Skitter
+Small Cell
 
 ID=30102018
-Capsid
+Teeth
 
 ID=30102019
-Armour Skitter
+Heavy Cell
 
 ID=30102020
-Kairon
+Kain
 
 ID=30102021
-Raging Lil’ Skitter
+Raging Small Cell
 
 ID=30102022
-Drool Capsid
+Raging Teeth
 
 ID=30102023
-Mad Armour Skitter
+Raging Heavy Cell
 
 ID=30102024
-Shredding Kaynine
+Raging Canine Tooth
 
 ID=30102025
-Kairon
+Kain
 
 ID=30103001
-Impequin
+Imp Puppet
 
 ID=30103002
-Steelion Ball
+Steel Ball
 
 ID=30103003
-Kaliquin
+Blank Puppet
 
 ID=30103004
-Spreadequin
+Saw Puppet
 
 ID=30103005
-Spinnequin
+Disgusting Puppet
 
 ID=30103006
-Impequin
+Imp Puppet
 
 ID=30103007
-Steelion Ball
+Steel Ball
 
 ID=30103008
-Kaliquin
+Blank Puppet
 
 ID=30103009
-Spreadequin
+Saw Puppet
 
 ID=30103010
-Paunchequin
+Chubby Puppet
 
 ID=30103011
-Zanettiquin
+Zanetti Puppet
 
 ID=30103012
-Mean Impequin
+Solid Imp Puppet
 
 ID=30103013
-Lipo Steelion Ball
+Solid Steel Ball
 
 ID=30103014
-Holo Kaliquin
+Solid Blank Puppet
 
 ID=30103015
-Cryo Spreadequin
+Solid Chubby Puppet
 
 ID=30103016
-Alu Paunchequin
+Solid Chubby Puppet
 
 ID=30103017
-Vee Voidiquin
+Solid Emptiness Puppet
 
 ID=30103018
-Mad Manicquin
+Solid Spirit Puppet
 
 ID=30103019
-Pinto Zanettiquin
+Solid Zanetti Puppet
 
 ID=30103020
-Impequin
+Imp Puppet
 
 ID=30103021
-Steelion Ball
+Steel Ball
 
 ID=30103022
-Kaliquin
+Blank Puppet
 
 ID=30103023
-Spreadequin
+Saw Puppet
 
 ID=30103024
-Paunchequin
+Chubby Puppet
 
 ID=30103025
-Impequin
+Imp Puppet
 
 ID=30103026
-Steelion Ball
+Steel Ball
 
 ID=30103027
-Kaliquin
+Blank Puppet
 
 ID=30103028
-Spreadequin
+Saw Puppet
 
 ID=30103029
-Paunchequin
+Chubby Puppet
 
 ID=30103030
-Spectraquin
+Specter Puppet
 
 ID=30103031
-Impequin
+Imp Puppet
 
 ID=30103032
-Steelion Ball
+Steel Ball
 
 ID=30103033
-Kaliquin
+Blank Puppet
 
 ID=30103034
-Spreadequin
+Saw Puppet
 
 ID=30103035
-Paunchequin
+Chubby Puppet
 
 ID=30103036
-Big Plastica
+Big Puppet
 
 ID=30103037
-Mean Impequin
+Solid Imp Puppet
 
 ID=30103038
-Lipo Steelion Ball
+Solid Steel Ball
 
 ID=30103039
-Holo Kaliquin
+Solid Blank Puppet
 
 ID=30103040
-Cryo Spreadequin
+Solid Chubby Puppet
 
 ID=30103041
-Alu Paunchequin
+Solid Chubby Puppet
 
 ID=30103042
-Voidiquin
+Emptiness Puppet
 
 ID=30103043
-Manicquin
+Spirit Puppet
 
 ID=30103044
-Goliaquin
+Gigantic Puppet
 
 ID=30103045
-Big Plastica
+Big Puppet
 
 ID=30103046
-Big Plastica
+Big Puppet
 
 ID=30104001
-Smiley
+Mad Ball
 
 ID=30104002
-Miniquin
+Midget Puppet
 
 ID=30104003
-Nastyquin
+Nasty Puppet
 
 ID=30104004
-Pulsequin
+Bloody Puppet
 
 ID=30104005
-Plumpiquin
+Plumpy Puppet
 
 ID=30104006
-Smiley
+Mad Ball
 
 ID=30104007
-Miniquin
+Midget Puppet
 
 ID=30104008
-Nastyquin
+Nasty Puppet
 
 ID=30104009
-Pulsequin
+Bloody Puppet
 
 ID=30104010
-Plumpiquin
+Plumpy Puppet
 
 ID=30104011
-Sanctum Stone
+Temptation Stone
 
 ID=30104012
-Jokaquin
+Little Puppet
 
 ID=30104013
-Smiley
+Mad Ball
 
 ID=30104014
-Miniquin
+Midget Puppet
 
 ID=30104015
-Nastyquin
+Nasty Puppet
 
 ID=30104016
-Pulsequin
+Bloody Puppet
 
 ID=30104017
-Plumpiquin
+Plumpy Puppet
 
 ID=30104018
-Smiley
+Mad Ball
 
 ID=30104019
-Miniquin
+Midget Puppet
 
 ID=30104020
-Nastyquin
+Nasty Puppet
 
 ID=30104021
-Pulsequin
+Bloody Puppet
 
 ID=30104022
-Plumpiquin
+Plumpy Puppet
 
 ID=30104023
-Sanctum Stone
+Temptation Stone
 
 ID=30104024
-Rabbliquin
+Hideous Puppet
 
 ID=30104025
-Pseudo Smiley
+Perfected Mad Ball
 
 ID=30104026
-Meta Miniquin
+Completed Midget Puppet
 
 ID=30104027
-Alpha Nastyquin
+Completed Nasty Puppet
 
 ID=30104028
-Alpha Pulsequin
+Completed Bloody Puppet
 
 ID=30104029
-Whole Plumpiquin
+Completed Plumpy Puppet
 
 ID=30104030
-Pseudo Smiley
+Perfected Mad Ball
 
 ID=30104031
-Meta Miniquin
+Completed Midget Puppet
 
 ID=30104032
-Alpha Nastyquin
+Completed Nasty Puppet
 
 ID=30104033
-Alpha Pulsequin
+Completed Bloody Puppet
 
 ID=30104034
-Whole Plumpiquin
+Completed Plumpy Puppet
 
 ID=30104035
-Alpha Opus Sanctum
+Perfect Temptation Stone
 
 ID=30104036
-Meta Terroquin
+Completed Gruesome Puppet
 
 ID=30104037
-Alpha Rabbliquin
+Completed Hideous Puppet
 
 ID=30104038
-Smiley
+Mad Ball
 
 ID=30104039
-Miniquin
+Midget Puppet
 
 ID=30104040
-Nastyquin
+Nasty Puppet
 
 ID=30104041
-Pulsequin
+Bloody Puppet
 
 ID=30104042
-Plumpiquin
+Plumpy Puppet
 
 ID=30104043
-Smiley
+Mad Ball
 
 ID=30104044
-Miniquin
+Midget Puppet
 
 ID=30104045
-Nastyquin
+Nasty Puppet
 
 ID=30104046
-Pulsequin
+Bloody Puppet
 
 ID=30104047
-Plumpiquin
+Plumpy Puppet
 
 ID=30104048
-Sanctum Stone
+Temptation Stone
 
 ID=30104049
-Joker Edgar
+Edgar
 
 ID=30104050
-Smiley
+Mad Ball
 
 ID=30104051
-Miniquin
+Midget Puppet
 
 ID=30104052
-Nastyquin
+Nasty Puppet
 
 ID=30104053
-Pulsequin
+Bloody Puppet
 
 ID=30104054
-Plumpiquin
+Plumpy Puppet
 
 ID=30104055
-Smiley
+Mad Ball
 
 ID=30104056
-Miniquin
+Midget Puppet
 
 ID=30104057
-Nastyquin
+Nasty Puppet
 
 ID=30104058
-Pulsequin
+Bloody Puppet
 
 ID=30104059
-Plumpiquin
+Plumpy Puppet
 
 ID=30104060
-Sanctum Stone
+Temptation Stone
 
 ID=30104061
-Mad Edgar
+Edgar
 
 ID=30104062
-Pseudo Smiley
+Perfected Mad Ball
 
 ID=30104063
-Meta Miniquin
+Completed Midget Puppet
 
 ID=30104064
-Alpha Nastyquin
+Completed Nasty Puppet
 
 ID=30104065
-Alpha Pulsequin
+Completed Bloody Puppet
 
 ID=30104066
-Whole Plumpiquin
+Completed Plumpy Puppet
 
 ID=30104067
-Pseudo Smiley
+Perfected Mad Ball
 
 ID=30104068
-Meta Miniquin
+Completed Midget Puppet
 
 ID=30104069
-Alpha Nastyquin
+Completed Nasty Puppet
 
 ID=30104070
-Alpha Pulsequin
+Completed Bloody Puppet
 
 ID=30104071
-Whole Plumpiquin
+Completed Plumpy Puppet
 
 ID=30104072
-Alpha Opus Sanctum
+Perfect Temptation Stone
 
 ID=30104073
-Terroquin
+Gruesome Puppet
 
 ID=30104074
-Cadmiquin
+Crimson Puppet
 
 ID=30104075
-Mad Edgar
+Edgar
 
 ID=30105001
-Piccoloquin
+Tiny Puppet
 
 ID=30105002
-Serfequin
+Slave Puppet
 
 ID=30105003
-Gishiniquin
+Ghost Puppet
 
 ID=30105004
-Tuckaquin
+Fidget Puppet
 
 ID=30105005
-Slingaquin
+Kissling Puppet
 
 ID=30105006
-Gnomiquin
+Smallish Puppet
 
 ID=30105007
-Piccoloquin
+Tiny Puppet
 
 ID=30105008
-Serfequin
+Slave Puppet
 
 ID=30105009
-Gishiniquin
+Ghost Puppet
 
 ID=30105010
-Tuckaquin
+Fidget Puppet
 
 ID=30105011
-Slingaquin
+Kissling Puppet
 
 ID=30105012
-Rambequin
+Embryo Puppet
 
 ID=30105013
-Piccoloquin
+Tiny Puppet
 
 ID=30105014
-Serfequin
+Slave Puppet
 
 ID=30105015
-Gishiniquin
+Ghost Puppet
 
 ID=30105016
-Tuckaquin
+Fidget Puppet
 
 ID=30105017
-Slingaquin
+Kissling Puppet
 
 ID=30105018
-Murmurquin
+Mumble Puppet
 
 ID=30105019
-Piccoloquin
+Tiny Puppet
 
 ID=30105020
-Serfequin
+Slave Puppet
 
 ID=30105021
-Gishiniquin
+Ghost Puppet
 
 ID=30105022
-Tuckaquin
+Fidget Puppet
 
 ID=30105023
-Slingaquin
+Kissling Puppet
 
 ID=30105024
-Noble Piccoloquin
+Improved Tiny Puppet
 
 ID=30105025
-Murmurquin
+Mumble Puppet
 
 ID=30105026
-Piccoloquin
+Tiny Puppet
 
 ID=30105027
-Serfequin
+Slave Puppet
 
 ID=30105028
-Gishiniquin
+Ghost Puppet
 
 ID=30105029
-Tuckaquin
+Fidget Puppet
 
 ID=30105030
-Slingaquin
+Kissling Puppet
 
 ID=30105031
-King Wayangon
+Jack the King
 
 ID=30105032
-Piccoloquin
+Tiny Puppet
 
 ID=30105033
-Serfequin
+Slave Puppet
 
 ID=30105034
-Gishiniquin
+Ghost Puppet
 
 ID=30105035
-Tuckaquin
+Fidget Puppet
 
 ID=30105036
-Slingaquin
+Kissling Puppet
 
 ID=30105037
-Noble Slingaquin
+Improved Kissling Puppet
 
 ID=30105038
-King Wayangon
+Jack the King
 
 ID=30105039
-Wayangon Spectre
+Jack the King's Shadow
 
 ID=30105040
-Wayangon Spectre
+Jack the King's Shadow
 
 ID=30201001
-Spine
+Scone
 
 ID=30201002
-Granitoid
+Wild Stone
 
 ID=30201003
-Debris
+Wreckage
 
 ID=30201004
-Boulder Giant
+Land Stone
 
 ID=30201005
-Power Rager
+Rampage
 
 ID=30201006
-Lord Spine
+Road Scone
 
 ID=30201007
-Spine
+Scone
 
 ID=30201008
-Granitoid
+Wild Stone
 
 ID=30201009
-Debris
+Wreckage
 
 ID=30201010
-Boulder Giant
+Land Stone
 
 ID=30201011
-Power Rager
+Rampage
 
 ID=30201012
-Warrage
+Warlike
 
 ID=30201013
-Spine
+Scone
 
 ID=30201014
-Granitoid
+Wild Stone
 
 ID=30201015
-Debris
+Wreckage
 
 ID=30201016
-Boulder Giant
+Land Stone
 
 ID=30201017
-Power Rager
+Rampage
 
 ID=30201018
-Brutal Spine
+Ruthless Scone
 
 ID=30201019
-Warrage
+Warlike
 
 ID=30201020
-Spine
+Scone
 
 ID=30201021
-Granitoid
+Wild Stone
 
 ID=30201022
-Debris
+Wreckage
 
 ID=30201023
-Boulder Giant
+Land Stone
 
 ID=30201024
-Power Rager
+Rampage
 
 ID=30201025
 Land Crusher
 
 ID=30201026
-Spine
+Scone
 
 ID=30201027
-Granitoid
+Wild Stone
 
 ID=30201028
-Debris
+Wreckage
 
 ID=30201029
-Boulder Giant
+Land Stone
 
 ID=30201030
-Power Rager
+Rampage
 
 ID=30201031
 Asphalt Golem
 
 ID=30201032
-Spine
+Scone
 
 ID=30201033
-Granitoid
+Wild Stone
 
 ID=30201034
-Debris
+Wreckage
 
 ID=30201035
-Boulder Giant
+Land Stone
 
 ID=30201036
-Power Rager
+Rampage
 
 ID=30201037
-Boulder Giant
+Land Stone
 
 ID=30201038
 Asphalt Golem
 
 ID=30202001
-Dark Skitter
+Dark Cell
 
 ID=30202002
-Cringler
+Crawler
 
 ID=30202003
-Canalmurin
+Sewer Rat
 
 ID=30202004
-Dreg Pupa
+Junk Cocoon
 
 ID=30202005
-Dreg Pupa
+Junk Cocoon
 
 ID=30202006
-Dreg Pupa
+Junk Cocoon
 
 ID=30202007
-Dark Mutoid
+Dark Mucus
 
 ID=30202008
-Dark Mander
+Dark Lizard
 
 ID=30202009
-Crud Skitter
+Crude Cell
 
 ID=30202010
-Dark Skitter
+Dark Cell
 
 ID=30202011
-Cringler
+Crawler
 
 ID=30202012
-Canalmurin
+Sewer Rat
 
 ID=30202013
-Dreg Pupa
+Junk Cocoon
 
 ID=30202014
-Dreg Pupa
+Junk Cocoon
 
 ID=30202015
-Dreg Pupa
+Junk Cocoon
 
 ID=30202016
-Dark Mutoid
+Dark Mucus
 
 ID=30202017
-Dark Mander
+Dark Lizard
 
 ID=30202018
-Dark Caimanoc
+Dark Alligator
 
 ID=30202019
-Dark Skitter
+Dark Cell
 
 ID=30202020
-Cringler
+Crawler
 
 ID=30202021
-Canalmurin
+Sewer Rat
 
 ID=30202022
-Dreg Pupa
+Junk Cocoon
 
 ID=30202023
-Dreg Pupa
+Junk Cocoon
 
 ID=30202024
-Dreg Pupa
+Junk Cocoon
 
 ID=30202025
-Dark Mutoid
+Dark Mucus
 
 ID=30202026
-Dark Mander
+Dark Lizard
 
 ID=30202027
-Pest Dark Skitter
+Jet Black Dark Cell
 
 ID=30202028
-Dark Caimanoc
+Dark Alligator
 
 ID=30202029
-Dark Skitter
+Dark Cell
 
 ID=30202030
-Cringler
+Crawler
 
 ID=30202031
-Canalmurin
+Sewer Rat
 
 ID=30202032
-Dreg Pupa
+Junk Cocoon
 
 ID=30202033
-Dreg Pupa
+Junk Cocoon
 
 ID=30202034
-Dreg Pupa
+Junk Cocoon
 
 ID=30202035
-Dark Mutoid
+Dark Mucus
 
 ID=30202036
-Dark Mander
+Dark Lizard
 
 ID=30202037
-Venom Mutoid
+Venom Mucus
 
 ID=30202038
-Dark Skitter
+Dark Cell
 
 ID=30202039
-Cringler
+Crawler
 
 ID=30202040
-Canalmurin
+Sewer Rat
 
 ID=30202041
-Dreg Pupa
+Junk Cocoon
 
 ID=30202042
-Dreg Pupa
+Junk Cocoon
 
 ID=30202043
-Dreg Pupa
+Junk Cocoon
 
 ID=30202044
-Dark Mutoid
+Dark Mucus
 
 ID=30202045
-Dark Mander
+Dark Lizard
 
 ID=30202046
-Baalride
+Junk Knight
 
 ID=30202047
-Dark Skitter
+Dark Cell
 
 ID=30202048
-Cringler
+Crawler
 
 ID=30202049
-Canalmurin
+Sewer Rat
 
 ID=30202050
-Dreg Pupa
+Junk Cocoon
 
 ID=30202051
-Dreg Pupa
+Junk Cocoon
 
 ID=30202052
-Dreg Pupa
+Junk Cocoon
 
 ID=30202053
-Dark Mutoid
+Dark Mucus
 
 ID=30202054
-Dark Mander
+Dark Lizard
 
 ID=30202055
-Dark Mutoid
+Dark Mucus
 
 ID=30202056
-Baalride
+Junk Knight
 
 ID=30202057
-Dreghostir
+Junk Host
 
 ID=30202058
-Dreghostir
+Junk Host
 
 ID=30202059
-Dreghostir
+Junk Host
 
 ID=30202060
-Dreghostir
+Junk Host
 
 ID=30203001
-Pike
+Vacuum Vein
 
 ID=30203002
-Kimbu Guard
+Infected Guard
 
 ID=30203003
-Kimbu Kidda
+Infected Girl
 
 ID=30203004
-Mangrove Skitter
+Mangrove Cell
 
 ID=30203005
-Arachna Feint
+Pawn Spider
 
 ID=30203006
-Woven Pupa
+Spider Cocoon
 
 ID=30203007
-Vantaworm
+Dark Worm
 
 ID=30203008
-Pike
+Vacuum Vein
 
 ID=30203009
-Kimbu Guard
+Infected Guard
 
 ID=30203010
-Kimbu Kidda
+Infected Girl
 
 ID=30203011
-Mangrove Skitter
+Mangrove Cell
 
 ID=30203012
-Arachna Feint
+Pawn Spider
 
 ID=30203013
-Woven Pupa
+Spider Cocoon
 
 ID=30203014
-Melt Skitter
+Meltiness Cell
 
 ID=30203015
-Pike
+Vacuum Vein
 
 ID=30203016
-Kimbu Guard
+Infected Guard
 
 ID=30203017
-Kimbu Kidda
+Infected Girl
 
 ID=30203018
-Mangrove Skitter
+Mangrove Cell
 
 ID=30203019
-Arachna Feint
+Pawn Spider
 
 ID=30203020
-Woven Pupa
+Spider Cocoon
 
 ID=30203021
-Arachna Drak
+Duke Spider
 
 ID=30203022
-Pike
+Vacuum Vein
 
 ID=30203023
-Kimbu Guard
+Infected Guard
 
 ID=30203024
-Kimbu Kidda
+Infected Girl
 
 ID=30203025
-Mangrove Skitter
+Mangrove Cell
 
 ID=30203026
-Arachna Feint
+Pawn Spider
 
 ID=30203027
-Woven Pupa
+Spider Cocoon
 
 ID=30203028
-Abyss Pike
+Abyss Vacuum Vein
 
 ID=30203029
-Arachna Drak
+Duke Spider
 
 ID=30203030
-Pike
+Vacuum Vein
 
 ID=30203031
-Kimbu Guard
+Infected Guard
 
 ID=30203032
-Kimbu Kidda
+Infected Girl
 
 ID=30203033
-Mangrove Skitter
+Mangrove Cell
 
 ID=30203034
-Arachna Feint
+Pawn Spider
 
 ID=30203035
-Woven Pupa
+Spider Cocoon
 
 ID=30203036
-Arachness
+Arachnis
 
 ID=30203037
-Pike
+Vacuum Vein
 
 ID=30203038
-Kimbu Guard
+Infected Guard
 
 ID=30203039
-Kimbu Kidda
+Infected Girl
 
 ID=30203040
-Mangrove Skitter
+Mangrove Cell
 
 ID=30203041
-Arachna Feint
+Pawn Spider
 
 ID=30203042
-Woven Pupa
+Spider Cocoon
 
 ID=30203043
-Mangrove Skitter
+Mangrove Cell
 
 ID=30203044
-Arachness
+Arachnis
 
 ID=30204001
-Skitter
+Cell
 
 ID=30204002
 N-65
@@ -3968,10 +3968,10 @@ ID=30204003
 S-00
 
 ID=30204004
-Cytoborg
+Habitant
 
 ID=30204005
-Defence Tower
+S Gatling Gun
 
 ID=30204006
 S-01
@@ -3980,13 +3980,13 @@ ID=30204007
 S-02
 
 ID=30204008
-Defence Pupa
+Ominous Cocoon
 
 ID=30204009
 X-020
 
 ID=30204010
-Skitter
+Cell
 
 ID=30204011
 N-65
@@ -3995,10 +3995,10 @@ ID=30204012
 S-00
 
 ID=30204013
-Cytoborg
+Habitant
 
 ID=30204014
-Defence Tower
+S Gatling Gun
 
 ID=30204015
 S-01
@@ -4007,13 +4007,13 @@ ID=30204016
 S-02
 
 ID=30204017
-Defence Pupa
+Ominous Cocoon
 
 ID=30204018
 X-111
 
 ID=30204019
-Skitter
+Cell
 
 ID=30204020
 N-65
@@ -4022,10 +4022,10 @@ ID=30204021
 S-00
 
 ID=30204022
-Cytoborg
+Habitant
 
 ID=30204023
-Defence Tower
+S Gatling Gun
 
 ID=30204024
 S-01
@@ -4034,13 +4034,13 @@ ID=30204025
 S-02
 
 ID=30204026
-Defence Pupa
+Ominous Cocoon
 
 ID=30204027
-Mad Manic
+Beholder
 
 ID=30204028
-Skitter
+Cell
 
 ID=30204029
 N-65
@@ -4049,10 +4049,10 @@ ID=30204030
 S-00
 
 ID=30204031
-Nuke Cytoborg
+Habitant of Calamity
 
 ID=30204032
-Defence Tower
+S Gatling Gun
 
 ID=30204033
 S-01
@@ -4061,16 +4061,16 @@ ID=30204034
 S-02
 
 ID=30204035
-Defence Pupa
+Ominous Cocoon
 
 ID=30204036
-Disaster S-02
+Disastrous S-02
 
 ID=30204037
-Mad Manic
+Beholder
 
 ID=30204038
-Skitter
+Cell
 
 ID=30204039
 N-65
@@ -4079,10 +4079,10 @@ ID=30204040
 S-00
 
 ID=30204041
-Cytoborg
+Habitant
 
 ID=30204042
-Defence Tower
+S Gatling Gun
 
 ID=30204043
 S-01
@@ -4091,13 +4091,13 @@ ID=30204044
 S-02
 
 ID=30204045
-Defence Pupa
+Ominous Cocoon
 
 ID=30204046
-Mad Manic
+Mad Beholder
 
 ID=30204047
-Skitter
+Cell
 
 ID=30204048
 N-65
@@ -4106,10 +4106,10 @@ ID=30204049
 S-00
 
 ID=30204050
-Cytoborg
+Habitant
 
 ID=30204051
-Defence Tower
+S Gatling Gun
 
 ID=30204052
 S-01
@@ -4118,226 +4118,226 @@ ID=30204053
 S-02
 
 ID=30204054
-Defence Pupa
+Ominous Cocoon
 
 ID=30204055
 S-01
 
 ID=30204056
-Mad Manic
+Mad Beholder
 
 ID=30205001
-Hockmar
+Hokmah
 
 ID=30205002
-Void Prion
+Vacuum Parasite
 
 ID=30205003
-Luga
+Ruga
 
 ID=30205004
 Gallus
 
 ID=30205005
-Kimbu Guard
+Infected Guard
 
 ID=30205006
-Zombie Girl
+Infected Girl
 
 ID=30205007
-Maimator
+Bone Crusher
 
 ID=30205008
-Gallasnis
+Glasnis
 
 ID=30205009
-Hockmar
+Hokmah
 
 ID=30205010
-Void Prion
+Vacuum Parasite
 
 ID=30205011
-Luga
+Ruga
 
 ID=30205012
 Gallus
 
 ID=30205013
-Kimbu Guard
+Infected Guard
 
 ID=30205014
-Zombie Girl
+Infected Girl
 
 ID=30205015
-Maimator
+Bone Crusher
 
 ID=30205016
-Steel Breaker
+Iron Breaker
 
 ID=30205017
-Hockmar
+Hokmah
 
 ID=30205018
-Void Prion
+Vacuum Parasite
 
 ID=30205019
-Luga
+Ruga
 
 ID=30205020
 Gallus
 
 ID=30205021
-Kimbu Guard
+Infected Guard
 
 ID=30205022
-Zombie Girl
+Infected Girl
 
 ID=30205023
-Maimator
+Bone Crusher
 
 ID=30205024
-Soul Reaver
+Dignity Snatcher
 
 ID=30205025
-Hockmar
+Hokmah
 
 ID=30205026
-Void Prion
+Vacuum Parasite
 
 ID=30205027
-Luga
+Ruga
 
 ID=30205028
 Gallus
 
 ID=30205029
-Kimbu Guard
+Infected Guard
 
 ID=30205030
-Zombie Girl
+Infected Girl
 
 ID=30205031
-Maimator
+Bone Crusher
 
 ID=30205032
-Arcanum Gallus
+Hidden Gallus
 
 ID=30205033
-Soul Reaver
+Dignity Snatcher
 
 ID=30205034
-Hockmar
+Hokmah
 
 ID=30205035
-Void Prion
+Vacuum Parasite
 
 ID=30205036
-Luga
+Ruga
 
 ID=30205037
 Gallus
 
 ID=30205038
-Kimbu Guard
+Infected Guard
 
 ID=30205039
-Zombie Girl
+Infected Girl
 
 ID=30205040
-Maimator
+Bone Crusher
 
 ID=30205041
 Amaryllis
 
 ID=30205042
-Hockmar
+Hokmah
 
 ID=30205043
-Void Prion
+Vacuum Parasite
 
 ID=30205044
-Luga
+Ruga
 
 ID=30205045
 Gallus
 
 ID=30205046
-Kimbu Guard
+Infected Guard
 
 ID=30205047
-Kimbu Kidda
+Infected Girl
 
 ID=30205048
-Maimator
+Bone Crusher
 
 ID=30205049
-Maimator
+Bone Crusher
 
 ID=30205050
 Amaryllis
 
 ID=30205051
-Laser Trap
+Lazer Trap
 
 ID=30205052
-EMP Mine
+EMP Main
 
 ID=30205053
-Cannon Tower
+Gatling Gun
 
 ID=30205054
-Cannon Tower
+Gatling Gun
 
 ID=30205055
-Cannon Tower
+Gatling Gun
 
 ID=30205056
-Cannon Tower
+Gatling Gun
 
 ID=30205057
-Cannon Tower
+Gatling Gun
 
 ID=30205058
-Cannon Tower
+Gatling Gun
 
 ID=30205059
-Woven Pupa
+Spider Cocoon
 
 ID=30205060
-Webbing
+Spider Silk
 
 ID=30205061
-Keysling Totem
+Kissling Totem
 
 ID=30205062
-Sick Researcher
+Eroded Researcher
 
 ID=30205063
-Arachna Lug
+Rook Spider
 
 ID=30205066
-Summons Murmur
+Summoned Ball
 
 ID=30205067
-Summons Shinobi
+Summoned Marauder
 
 ID=30205068
-Summons Mad Manic
+Summoned Beholder
 
 ID=30205069
-Summons Golem
+Summoned Asphalt Golem
 
 ID=30205070
-Summons Grutin
+Summoned Glutton
 
 ID=30205071
-Magnet
+Magnetic Field Generator
 
 ID=30300001
-Amad
+Roy
 
 ID=30300002
-Maverick
+Kainbarrel
 
 ID=30300003
 Catherine
@@ -4346,598 +4346,598 @@ ID=30300004
 Miriam
 
 ID=30300005
-Trashbert
+Haidinger
 
 ID=30300006
-Bamz
+Ralph
 
 ID=30300007
-Goldie
+Good Boy
 
 ID=30300008
-Wilba
+Ryu
 
 ID=30300009
 Lucy
 
 ID=30300010
-Uriel Z
+Punisher Z: C
 
 ID=30301101
-Little Red
+Red Hood
 
 ID=30301102
-Wild Pinku
+Wild Beak
 
 ID=30301103
-Sabreclaw
+Beast Fang
 
 ID=30301104
-Pugilist
+Pistol
 
 ID=30301105
-Steeleron
+Steel
 
 ID=30301106
-Dark Gauntillus
+Black Gauntlet
 
 ID=30301201
-Little Red
+Red Hood
 
 ID=30301202
-Wild Pinku
+Wild Beak
 
 ID=30301203
-Sabreclaw
+Beast Fang
 
 ID=30301204
-Pugilist
+Pistol
 
 ID=30301205
-Steeleron
+Steel
 
 ID=30301206
-Steeleron Tank
+Armor Steel
 
 ID=30301301
-Little Red
+Red Hood
 
 ID=30301302
-Wild Pinku
+Wild Beak
 
 ID=30301303
-Sabreclaw
+Beast Fang
 
 ID=30301304
-Pugilist
+Pistol
 
 ID=30301305
-Steeleron
+Steel
 
 ID=30301306
-Hellanko
+Hell Enforcer
 
 ID=30301307
-Little Red
+Red Hood
 
 ID=30301308
-Wild Pinku
+Wild Beak
 
 ID=30301309
-Sabreclaw
+Beast Fang
 
 ID=30301310
-Pugilist
+Pistol
 
 ID=30301311
-Steeleron
+Steel
 
 ID=30301312
-Hex Pugilist
+Zin Pistol
 
 ID=30301313
-Hellanko
+Hell Enforcer
 
 ID=30301401
-Little Red
+Red Hood
 
 ID=30301402
-Wild Pinku
+Wild Beak
 
 ID=30301403
-Sabreclaw
+Beast Fang
 
 ID=30301404
-Pugilist
+Pistol
 
 ID=30301405
-Steeleron
+Steel
 
 ID=30301406
-Sukkarak
+Scar
 
 ID=30301407
-Little Red
+Red Hood
 
 ID=30301408
-Wild Pinku
+Wild Beak
 
 ID=30301409
-Sabreclaw
+Beast Fang
 
 ID=30301410
-Pugilist
+Pistol
 
 ID=30301411
-Steeleron
+Steel
 
 ID=30301412
-Hex Pugilist
+Zin Pistol
 
 ID=30301413
-Sukkarak
+Scar
 
 ID=30302101
-Cringler
+Crawler
 
 ID=30302102
-Argus Gaour
+Intention Garuda
 
 ID=30302103
-Caster
+Summoner
 
 ID=30302104
-Sabreclaw
+Beast Fang
 
 ID=30302105
-Charclops
+Crimson Beast
 
 ID=30302106
 Carmine Beast
 
 ID=30302201
-Cringler
+Crawler
 
 ID=30302202
-Argus Gaour
+Intention Garuda
 
 ID=30302203
-Caster
+Summoner
 
 ID=30302204
-Sabreclaw
+Beast Fang
 
 ID=30302205
-Charclops
+Crimson Beast
 
 ID=30302206
-Redmane
+Red Mane
 
 ID=30302301
-Cringler
+Crawler
 
 ID=30302302
-Argus Gaour
+Intention Garuda
 
 ID=30302303
-Caster
+Summoner
 
 ID=30302304
-Sabreclaw
+Beast Fang
 
 ID=30302305
-Charclops
+Crimson Beast
 
 ID=30302306
-Queen Gaour
+Queen Garuda
 
 ID=30302307
-Cringler
+Crawler
 
 ID=30302308
-Argus Gaour
+Intention Garuda
 
 ID=30302309
-Caster
+Summoner
 
 ID=30302310
-Sabreclaw
+Beast Fang
 
 ID=30302311
-Charclops
+Crimson Beast
 
 ID=30302312
-Armour Gaour
+Armored Garuda
 
 ID=30302313
-Queen Gaour
+Queen Garuda
 
 ID=30302401
-Cringler
+Crawler
 
 ID=30302402
-Argus Gaour
+Intention Garuda
 
 ID=30302403
-Caster
+Summoner
 
 ID=30302404
-Sabreclaw
+Beast Fang
 
 ID=30302405
-Charclops
+Crimson Beast
 
 ID=30302406
-Falconai Gaour
+Falcon/Queen Garuda
 
 ID=30302407
-Cringler
+Crawler
 
 ID=30302408
-Argus Gaour
+Intention Garuda
 
 ID=30302409
-Caster
+Summoner
 
 ID=30302410
-Sabreclaw
+Beast Fang
 
 ID=30302411
-Charclops
+Crimson Beast
 
 ID=30302412
-Armour Gaour
+Armored Garuda
 
 ID=30302413
-Falconai Gaour
+Falcon/Queen Garuda
 
 ID=30303101
-Viperess
+Snake
 
 ID=30303102
-Bulbcap
+Uneven Hood
 
 ID=30303103
 Chaser
 
 ID=30303104
-Lord Pytho
+Python
 
 ID=30303105
-Ark Steeleron
+Zin Steel
 
 ID=30303106
-Steel Resiston
+Heavy Steel
 
 ID=30303201
-Viperess
+Snake
 
 ID=30303202
-Bulbcap
+Uneven Hood
 
 ID=30303203
 Chaser
 
 ID=30303204
-Lord Pytho
+Python
 
 ID=30303205
-Ark Steeleron
+Zin Steel
 
 ID=30303206
-Hex Hound
+Zin Chaser
 
 ID=30303301
-Viperess
+Snake
 
 ID=30303302
-Bulbcap
+Uneven Hood
 
 ID=30303303
 Chaser
 
 ID=30303304
-Lord Pytho
+Python
 
 ID=30303305
-Ark Steeleron
+Zin Steel
 
 ID=30303306
 Venin
 
 ID=30303307
-Viperess
+Snake
 
 ID=30303308
-Bulbcap
+Uneven Hood
 
 ID=30303309
 Chaser
 
 ID=30303310
-Lord Pytho
+Python
 
 ID=30303311
-Ark Steeleron
+Zin Steel
 
 ID=30303312
-Dualstalker
+Death Stalker
 
 ID=30303313
 Venin
 
 ID=30303401
-Viperess
+Snake
 
 ID=30303402
-Bulbcap
+Uneven Hood
 
 ID=30303403
 Chaser
 
 ID=30303404
-Lord Pytho
+Python
 
 ID=30303405
-Ark Steeleron
+Zin Steel
 
 ID=30303406
-Naomin
+Poison
 
 ID=30303407
-Viperess
+Snake
 
 ID=30303408
-Bulbcap
+Uneven Hood
 
 ID=30303409
 Chaser
 
 ID=30303410
-Lord Pytho
+Python
 
 ID=30303411
-Ark Steeleron
+Zin Steel
 
 ID=30303412
-Dualstalker
+Death Stalker
 
 ID=30303413
-Naomin
+Poison
 
 ID=30304101
-Little Red
+Red Hood
 
 ID=30304102
-Wild Sabreclaw
+Wild Beast Fang
 
 ID=30304103
-Hex Caster
+Zin Summoner
 
 ID=30304104
-Hex Pytho
+Zin Python
 
 ID=30304105
-Taifon
+Tempest
 
 ID=30304106
-Steel Leg
+Single Leg
 
 ID=30304201
-Little Red
+Red Hood
 
 ID=30304202
-Wild Sabreclaw
+Wild Beast Fang
 
 ID=30304203
-Hex Caster
+Zin Summoner
 
 ID=30304204
-Hex Pytho
+Zin Python
 
 ID=30304205
-Taifon
+Tempest
 
 ID=30304206
-Rageface
+Scarlet Mask
 
 ID=30304301
-Little Red
+Red Hood
 
 ID=30304302
-Wild Sabreclaw
+Wild Beast Fang
 
 ID=30304303
-Hex Caster
+Zin Summoner
 
 ID=30304304
-Hex Pytho
+Zin Python
 
 ID=30304305
-Taifon
+Tempest
 
 ID=30304306
-Grand Blaze Taifon
+Flame Tempest
 
 ID=30304307
-Little Red
+Red Hood
 
 ID=30304308
-Wild Sabreclaw
+Wild Beast Fang
 
 ID=30304309
-Hex Caster
+Zin Summoner
 
 ID=30304310
-Hex Pytho
+Zin Python
 
 ID=30304311
-Taifon
+Tempest
 
 ID=30304312
-Argus Caster
+Intention Summoner
 
 ID=30304313
-Grand Blaze Taifon
+Flame Tempest
 
 ID=30304401
-Little Red
+Red Hood
 
 ID=30304402
-Wild Sabreclaw
+Wild Beast Fang
 
 ID=30304403
-Hex Caster
+Zin Summoner
 
 ID=30304404
-Hex Pytho
+Zin Python
 
 ID=30304405
-Taifon
+Tempest
 
 ID=30304406
-Naomin
+Poison
 
 ID=30304407
-Blood Sukkarak
+Bloody Scar
 
 ID=30304408
-Little Red
+Red Hood
 
 ID=30304409
-Wild Sabreclaw
+Wild Beast Fang
 
 ID=30304410
-Hex Caster
+Zin Summoner
 
 ID=30304411
-Hex Pytho
+Zin Python
 
 ID=30304412
-Taifon
+Tempest
 
 ID=30304413
-Argus Caster
+Intention Summoner
 
 ID=30304414
-Naomin
+Poison
 
 ID=30304415
-Blood Sukkarak
+Bloody Scar
 
 ID=30305101
-Bulbcap
+Uneven Hood
 
 ID=30305102
-Steel Shinobi
+Marauder
 
 ID=30305103
-Swordbreaker
+Sword Breaker
 
 ID=30305104
-Lord Pytho
+Python
 
 ID=30305105
-Big Buddha
+Big Butcher
 
 ID=30305106
-Crusher
+Press
 
 ID=30305201
-Bulbcap
+Uneven Hood
 
 ID=30305202
-Steel Shinobi
+Marauder
 
 ID=30305203
-Swordbreaker
+Sword Breaker
 
 ID=30305204
-Lord Pytho
+Python
 
 ID=30305205
-Big Buddha
+Big Butcher
 
 ID=30305206
-Whiteclaw
+White Fang
 
 ID=30305301
-Bulbcap
+Uneven Hood
 
 ID=30305302
-Steel Shinobi
+Marauder
 
 ID=30305303
-Swordbreaker
+Sword Breaker
 
 ID=30305304
-Lord Pytho
+Python
 
 ID=30305305
-Big Buddha
+Big Butcher
 
 ID=30305306
-Nether Collector
+Hell Collector
 
 ID=30305307
-Bulbcap
+Uneven Hood
 
 ID=30305308
-Steel Shinobi
+Marauder
 
 ID=30305309
-Swordbreaker
+Sword Breaker
 
 ID=30305310
-Lord Pytho
+Python
 
 ID=30305311
-Big Buddha
+Big Butcher
 
 ID=30305312
-Shadow Dancer
+Dancing Shadow
 
 ID=30305313
-Nether Collector
+Hell Collector
 
 ID=30305401
-Bulbcap
+Uneven Hood
 
 ID=30305402
-Steel Shinobi
+Marauder
 
 ID=30305403
-Swordbreaker
+Sword Breaker
 
 ID=30305404
-Lord Pytho
+Python
 
 ID=30305405
-Big Buddha
+Big Butcher
 
 ID=30305406
-Kurisu
+Phantom
 
 ID=30305407
-Bulbcap
+Uneven Hood
 
 ID=30305408
-Steel Shinobi
+Marauder
 
 ID=30305409
-Swordbreaker
+Sword Breaker
 
 ID=30305410
-Lord Pytho
+Python
 
 ID=30305411
-Big Buddha
+Big Butcher
 
 ID=30305412
-Shadow Dancer
+Dancing Shadow
 
 ID=30305413
-Kurisu
+Phantom
 
 ID=30306101
 Tripod
@@ -4952,13 +4952,13 @@ ID=30306104
 NED Shield Soldier
 
 ID=30306105
-NED Uriel
+NED Punisher
 
 ID=30306106
-NED Firelord
+NED Fire Ruler
 
 ID=30306107
-Ruinator
+Road Buster
 
 ID=30306201
 Tripod
@@ -4973,13 +4973,13 @@ ID=30306204
 NED Shield Soldier
 
 ID=30306205
-NED Uriel
+NED Punisher
 
 ID=30306206
-NED Firelord
+NED Fire Ruler
 
 ID=30306207
-Megiddon MK2
+Megiddo Maker MK-2
 
 ID=30306301
 Tripod
@@ -4994,13 +4994,13 @@ ID=30306304
 NED Shield Soldier
 
 ID=30306305
-NED Uriel
+NED Punisher
 
 ID=30306306
-NED Firelord
+NED Fire Ruler
 
 ID=30306307
-Massacrops
+War Solver
 
 ID=30306308
 Tripod
@@ -5015,16 +5015,16 @@ ID=30306311
 NED Shield Soldier
 
 ID=30306312
-NED Uriel
+NED Punisher
 
 ID=30306313
-NED Firelord
+NED Fire Ruler
 
 ID=30306314
-Uriel Alpha
+Punisher α
 
 ID=30306315
-Massacrops
+War Solver
 
 ID=30306401
 Tripod
@@ -5039,16 +5039,16 @@ ID=30306404
 NED Shield Soldier
 
 ID=30306405
-NED Uriel
+NED Punisher
 
 ID=30306406
-NED Firelord
+NED Fire Ruler
 
 ID=30306407
-Ravan
+Laban
 
 ID=30306408
-RV Centurion Sword
+Laban: Hundred Sword
 
 ID=30306409
 Tripod
@@ -5063,394 +5063,394 @@ ID=30306412
 NED Shield Soldier
 
 ID=30306413
-NED Uriel
+NED Punisher
 
 ID=30306414
-NED Firelord
+NED Fire Ruler
 
 ID=30306415
-Uriel Alpha
+Punisher α
 
 ID=30306416
-Ravan
+Laban
 
 ID=30306417
-RV Centurion Sword
+Laban: Hundred Sword
 
 ID=30306527
-Mad Edgaquin
+Madness Edgar
 
 ID=30306574
-Violet Murder
+Violet Murderess
 
 ID=30306581
-Bombarder
+Artillery Guidance System
 
 ID=30306582
-Charger
+Charging Device
 
 ID=30401101
-eRobo
+E-Deliverer
 
 ID=30401102
 Tracker
 
 ID=30401103
-Splatter Brain
+Hammerhead
 
 ID=30401104
-Sentron
+Sentry
 
 ID=30401105
-Sentron Gunner
+Sentry Gunner
 
 ID=30401106
-Lithos Quaker
+Earthquaker
 
 ID=30401107
-Armour Sentron
+Heavy Sentry
 
 ID=30401108
-Sentron Commander
+Sentry Commander
 
 ID=30401201
-eRobo
+E-Deliverer
 
 ID=30401202
 Tracker
 
 ID=30401203
-Splatter Brain
+Hammerhead
 
 ID=30401204
-Sentron
+Sentry
 
 ID=30401205
-Sentron Gunner
+Sentry Gunner
 
 ID=30401206
-Lithos Quaker
+Earthquaker
 
 ID=30401207
-Armour Sentron
+Heavy Sentry
 
 ID=30401208
-Grava Lithos Quaker
+Heavy Earthquaker
 
 ID=30401301
-eRobo
+E-Deliverer
 
 ID=30401302
 Tracker
 
 ID=30401303
-Splatter Brain
+Hammerhead
 
 ID=30401304
-Sentron
+Sentry
 
 ID=30401305
-Sentron Gunner
+Sentry Gunner
 
 ID=30401306
-Lithos Quaker
+Earthquaker
 
 ID=30401307
-Armour Sentron
+Heavy Sentry
 
 ID=30401308
-Destructor SX
+Heavy Sprinter X
 
 ID=30401401
-eRobo
+E-Deliverer
 
 ID=30401402
 Tracker
 
 ID=30401403
-Splatter Brain
+Hammerhead
 
 ID=30401404
-Sentron
+Sentry
 
 ID=30401405
-Sentron Gunner
+Sentry Gunner
 
 ID=30401406
-Lithos Quaker
+Earthquaker
 
 ID=30401407
-Armour Sentron
+Heavy Sentry
 
 ID=30401408
-Splitter-00
+Sprinter Zero
 
 ID=30401409
-Bunker Bot
+Sieg Prototype
 
 ID=30402101
-eRobo
+E-Deliverer
 
 ID=30402102
 Tracker
 
 ID=30402103
-Splatter Brain
+Hammerhead
 
 ID=30402104
-Sabrewolf
+Blade Wolf
 
 ID=30402105
-Arachna
+Spider
 
 ID=30402106
 War Drone
 
 ID=30402107
-Plunder Sabrewolf
+Assault Blade Wolf
 
 ID=30402108
-Dominio
+Domineer
 
 ID=30402109
-Mistral
+Sköll
 
 ID=30402201
-eRobo
+E-Deliverer
 
 ID=30402202
 Tracker
 
 ID=30402203
-Splatter Brain
+Hammerhead
 
 ID=30402204
-Sabrewolf
+Blade Wolf
 
 ID=30402205
-Arachna
+Spider
 
 ID=30402206
 War Drone
 
 ID=30402207
-Plunder Sabrewolf
+Assault Blade Wolf
 
 ID=30402208
-Dominio
+Domineer
 
 ID=30402209
-Dominio-00
+Domineer Zero
 
 ID=30402301
-eRobo
+E-Deliverer
 
 ID=30402302
 Tracker
 
 ID=30402303
-Splatter Brain
+Hammerhead
 
 ID=30402304
-Sabrewolf
+Blade Wolf
 
 ID=30402305
-Arachna
+Spider
 
 ID=30402306
 War Drone
 
 ID=30402307
-Plunder Sabrewolf
+Assault Blade Wolf
 
 ID=30402308
-Dominio
+Domineer
 
 ID=30402309
-Grave Massacrops
+Heavy War Solver
 
 ID=30402401
-eRobo
+E-Deliverer
 
 ID=30402402
 Tracker
 
 ID=30402403
-Splatter Brain
+Hammerhead
 
 ID=30402404
-Sabrewolf
+Blade Wolf
 
 ID=30402405
-Arachna
+Spider
 
 ID=30402406
 War Drone
 
 ID=30402407
-Plunder Sabrewolf
+Assault Blade Wolf
 
 ID=30402408
-Dominio
+Domineer
 
 ID=30402409
-Armour Dominio
+Heavy Domineer
 
 ID=30402410
-Nita
+Noah
 
 ID=30403101
-eRobo
+E-Deliverer
 
 ID=30403102
 Tracker
 
 ID=30403103
-Splatter Brain
+Hammerhead
 
 ID=30403104
-Arachna
+Spider
 
 ID=30403105
-Air Reaper
+Cutthroat 
 
 ID=30403106
-Gishin
+Ghost
 
 ID=30403107
-Invertebrate
+Iron Worm
 
 ID=30403108
-Lithos Quaker
+Earthquaker
 
 ID=30403109
-Arachna Null
+Spider Zero
 
 ID=30403110
-Arachna Kill
+Assault Spider
 
 ID=30403201
-eRobo
+E-Deliverer
 
 ID=30403202
 Tracker
 
 ID=30403203
-Splatter Brain
+Hammerhead
 
 ID=30403204
-Arachna
+Spider
 
 ID=30403205
-Air Reaper
+Cutthroat 
 
 ID=30403206
-Gishin
+Ghost
 
 ID=30403207
-Invertebrate
+Iron Worm
 
 ID=30403208
-Lithos Quaker
+Earthquaker
 
 ID=30403209
-Arachna Null
+Spider Zero
 
 ID=30403210
-Invertebrate Steel
+Heavy Iron Worm
 
 ID=30403301
-eRobo
+E-Deliverer
 
 ID=30403302
 Tracker
 
 ID=30403303
-Splatter Brain
+Hammerhead
 
 ID=30403304
-Arachna
+Spider
 
 ID=30403305
-Air Reaper
+Cutthroat 
 
 ID=30403306
-Gishin
+Ghost
 
 ID=30403307
-Invertebrate
+Iron Worm
 
 ID=30403308
-Lithos Quaker
+Earthquaker
 
 ID=30403309
-Arachna Null
+Spider Zero
 
 ID=30403310
-Genozidion
+Genocider
 
 ID=30403401
-eRobo
+E-Deliverer
 
 ID=30403402
 Tracker
 
 ID=30403403
-Splatter Brain
+Hammerhead
 
 ID=30403404
-Arachna
+Spider
 
 ID=30403405
-Air Reaper
+Cutthroat 
 
 ID=30403406
-Gishin
+Ghost
 
 ID=30403407
-Invertebrate
+Iron Worm
 
 ID=30403408
-Lithos Quaker
+Earthquaker
 
 ID=30403409
-Arachna Null
+Spider Zero
 
 ID=30403410
-Hell Wheel
+Devil's Wheel
 
 ID=30403411
-Naran
+Enoch
 
 ID=30404101
-eRobo
+E-Deliverer
 
 ID=30404102
 Tracker
 
 ID=30404103
-Splatter Brain
+Hammerhead
 
 ID=30404104
 War Drone
 
 ID=30404105
-Vulca Turret
+Vulcan Gun
 
 ID=30404106
-Maton Uriel
+Auto Punisher
 
 ID=30404107
-Ato Firelord
+Auto Fire Ruler
 
 ID=30404108
-Lithos Quaker
+Earthquaker
 
 ID=30404109
-Shock Splitter
+Sprinter
 
 ID=30404110
-Massacrops
+War Solver
 
 ID=30404111
 War Drone
@@ -5465,5386 +5465,5368 @@ ID=30404114
 War Drone
 
 ID=30404201
-eRobo
+E-Deliverer
 
 ID=30404202
 Tracker
 
 ID=30404203
-Splatter Brain
+Hammerhead
 
 ID=30404204
 War Drone
 
 ID=30404205
-Vulca Turret
+Vulcan Gun
 
 ID=30404206
-Maton Uriel
+Auto Punisher
 
 ID=30404207
-Ato Firelord
+Auto Fire Ruler
 
 ID=30404208
-Lithos Quaker
+Earthquaker
 
 ID=30404209
-Shock Splitter
+Sprinter
 
 ID=30404210
-Armour Uriel
+Heavy Punisher
 
 ID=30404211
-Flamelord
+Heavy Fire Ruler
 
 ID=30404301
-eRobo
+E-Deliverer
 
 ID=30404302
 Tracker
 
 ID=30404303
-Splatter Brain
+Hammerhead
 
 ID=30404304
 War Drone
 
 ID=30404305
-Vulca Turret
+Vulcan Gun
 
 ID=30404306
-Maton Uriel
+Auto Punisher
 
 ID=30404307
-Ato Firelord
+Auto Fire Ruler
 
 ID=30404308
-Lithos Quaker
+Earthquaker
 
 ID=30404309
-Shock Splitter
+Sprinter
 
 ID=30404310
-Bellow Bot
+Heavy Sieg Prototype
 
 ID=30404401
-eRobo
+E-Deliverer
 
 ID=30404402
 Tracker
 
 ID=30404403
-Splatter Brain
+Hammerhead
 
 ID=30404404
 War Drone
 
 ID=30404405
-Vulca Turret
+Vulcan Gun
 
 ID=30404406
-Maton Uriel
+Auto Punisher
 
 ID=30404407
-Ato Firelord
+Auto Fire Ruler
 
 ID=30404408
-Lithos Quaker
+Earthquaker
 
 ID=30404409
 Death Raptor
 
 ID=30404410
-Shock Splitter
+Sprinter
 
 ID=30404411
-Atlantan Abel
+Deus Ex Machina
 
 ID=30405101
-eRobo
+E-Deliverer
 
 ID=30405102
-Dronimo
+Drone Zero
 
 ID=30405103
 Assault Drone
 
 ID=30405104
-Sabrewolf
+Blade Wolf
 
 ID=30405105
-Onslaught Drone
+Assault War Drone
 
 ID=30405106
-Gishin
+Ghost
 
 ID=30405107
-Lithos Quaker
+Earthquaker
 
 ID=30405108
-Gishin-00
+Ghost Zero
 
 ID=30405109
-Aggro Gishin
+Assault Ghost 
 
 ID=30405201
-eRobo
+E-Deliverer
 
 ID=30405202
-Dronimo
+Drone Zero
 
 ID=30405203
 Assault Drone
 
 ID=30405204
-Sabrewolf
+Blade Wolf
 
 ID=30405205
-Onslaught Drone
+Assault War Drone
 
 ID=30405206
-Gishin
+Ghost
 
 ID=30405207
-Lithos Quaker
+Earthquaker
 
 ID=30405208
-Gishin-00
+Ghost Zero
 
 ID=30405209
-Armour Dominio X
+Heavy Domineer X
 
 ID=30405301
-eRobo
+E-Deliverer
 
 ID=30405302
-Dronimo
+Drone Zero
 
 ID=30405303
 Assault Drone
 
 ID=30405304
-Sabrewolf
+Blade Wolf
 
 ID=30405305
-Onslaught Drone
+Assault War Drone
 
 ID=30405306
-Gishin
+Ghost
 
 ID=30405307
-Lithos Quaker
+Earthquaker
 
 ID=30405308
-Gishin-00
+Ghost Zero
 
 ID=30405309
-Pincer
+Grasper
 
 ID=30405401
-eRobo
+E-Deliverer
 
 ID=30405402
-Dronimo
+Drone Zero
 
 ID=30405403
 Assault Drone
 
 ID=30405404
-Sabrewolf
+Blade Wolf
 
 ID=30405405
-Onslaught Drone
+Assault War Drone
 
 ID=30405406
-Gishin
+Ghost
 
 ID=30405407
-Lithos Quaker
+Earthquaker
 
 ID=30405408
-Gishin-00
+Ghost Zero
 
 ID=30405409
-Armour Dominio
+Heavy Domineer
 
 ID=30405410
-Nita
+Noah
 
 ID=30405411
-Nita Pollenstorm
+Noah: Queen of Flowers
 
 ID=30406101
-eRobo
+E-Deliverer
 
 ID=30406102
 Tracker
 
 ID=30406103
-Splatter Brain
+Hammerhead
 
 ID=30406104
-Dronimo
+Drone Zero
 
 ID=30406105
-Onslaught Drone
+Assault War Drone
 
 ID=30406106
-Multi Reaper
+Assault Cutthroat
 
 ID=30406107
-Lithos Quaker
+Earthquaker
 
 ID=30406108
-Invertebrate
+Iron Worm
 
 ID=30406109
-Dominio
+Domineer
 
 ID=30406110
-Shock Splitter
+Sprinter
 
 ID=30406111
-Genozidion X
+Genocider X
 
 ID=30406201
-eRobo
+E-Deliverer
 
 ID=30406202
 Tracker
 
 ID=30406203
-Splatter Brain
+Hammerhead
 
 ID=30406204
-Dronimo
+Drone Zero
 
 ID=30406205
-Onslaught Drone
+Assault War Drone
 
 ID=30406206
-Multi Reaper
+Assault Cutthroat
 
 ID=30406207
-Lithos Quaker
+Earthquaker
 
 ID=30406208
-Invertebrate
+Iron Worm
 
 ID=30406209
-Dominio
+Domineer
 
 ID=30406210
-Shock Splitter
+Sprinter
 
 ID=30406211
-Grava Lithos Quaker
+Heavy Earthquaker
 
 ID=30406212
-Howler
+Hati
 
 ID=30406213
-Fenrir
+Fenris
 
 ID=30406301
-eRobo
+E-Deliverer
 
 ID=30406302
 Tracker
 
 ID=30406303
-Splatter Brain
+Hammerhead
 
 ID=30406304
-Dronimo
+Drone Zero
 
 ID=30406305
-Onslaught Drone
+Assault War Drone
 
 ID=30406306
-Multi Reaper
+Assault Cutthroat
 
 ID=30406307
-Lithos Quaker
+Earthquaker
 
 ID=30406308
-Invertebrate
+Iron Worm
 
 ID=30406309
-Dominio
+Domineer
 
 ID=30406310
-Shock Splitter
+Sprinter
 
 ID=30406311
-Destructor SX
+Heavy Sprinter X
 
 ID=30406312
-Grave Massacrops
+Heavy War Solver
 
 ID=30406401
-eRobo
+E-Deliverer
 
 ID=30406402
 Tracker
 
 ID=30406403
-Splatter Brain
+Hammerhead
 
 ID=30406404
-Dronimo
+Drone Zero
 
 ID=30406405
-Onslaught Drone
+Assault War Drone
 
 ID=30406406
-Multi Reaper
+Assault Cutthroat
 
 ID=30406407
-Lithos Quaker
+Earthquaker
 
 ID=30406408
-Invertebrate
+Iron Worm
 
 ID=30406409
-Dominio
+Domineer
 
 ID=30406410
-Shock Splitter
+Sprinter
 
 ID=30406411
-Hell Wheel
+Devil's Wheel
 
 ID=30406412
-Naran
+Enoch
 
 ID=30406413
-Naran Infinirings
+Enoch: Numberless Rims
 
 ID=30407101
-eRobo
+E-Deliverer
 
 ID=30407102
 Tracker
 
 ID=30407103
-Splatter Brain
+Hammerhead
 
 ID=30407104
 Assault Drone
 
 ID=30407105
-Onslaught Drone
+Assault War Drone
 
 ID=30407106
-Lithos Quaker
+Earthquaker
 
 ID=30407107
-Dradar Breaker
+Dread Buster
 
 ID=30407108
-Jayoon
+Jake
 
 ID=30407109
-NED Mercenary
+NED Company Mercenary
 
 ID=30407201
-eRobo
+E-Deliverer
 
 ID=30407202
 Tracker
 
 ID=30407203
-Splatter Brain
+Hammerhead
 
 ID=30407204
 Assault Drone
 
 ID=30407205
-Onslaught Drone
+Assault War Drone
 
 ID=30407206
-Lithos Quaker
+Earthquaker
 
 ID=30407207
-Uriel Omega
+Punisher Omega
 
 ID=30407301
-eRobo
+E-Deliverer
 
 ID=30407302
 Tracker
 
 ID=30407303
-Splatter Brain
+Hammerhead
 
 ID=30407304
 Assault Drone
 
 ID=30407305
-Onslaught Drone
+Assault War Drone
 
 ID=30407306
-Lithos Quaker
+Earthquaker
 
 ID=30407307
-Maton Uriel
+Auto Punisher
 
 ID=30407308
-Ato Firelord
+Auto Fire Ruler
 
 ID=30407309
-Battery Bot
+Full Armor Sieg Prototype
 
 ID=30407401
-eRobo
+E-Deliverer
 
 ID=30407402
 Tracker
 
 ID=30407403
-Splatter Brain
+Hammerhead
 
 ID=30407404
 Assault Drone
 
 ID=30407405
-Onslaught Drone
+Assault War Drone
 
 ID=30407406
-Lithos Quaker
+Earthquaker
 
 ID=30407407
-Maton Uriel
+Auto Punisher
 
 ID=30407408
-Ato Firelord
+Auto Fire Ruler
 
 ID=30407409
-Destructor S
+Heavy Sprinter
 
 ID=30407410
-Uri Zeronimo
+Punisher Zero
 
 ID=30407411
-Suzie
+Shion
 
 ID=30407412
-Nether Biter
+Hellhound
 
 ID=30407413
-Armourbross
+Heavy Brothers
 
 ID=30407414
-Azure Overseer
+Blue Warden
 
 ID=30407415
-Sallow Guard
+White Guard
 
 ID=30490001
-Steelfang
+Iron Hound
 
 ID=30490002
-War Massacrops
+War Soldier & War Drone
 
 ID=31302106
-Magnetic Charger
+Magnetic Field Charger
 
 ID=31302107
-Dreg Pupa
+Junk Cocoon
 
 ID=31302108
-Recovery Pupa
+Healing Cocoon
 
 ID=31302109
-Thorn Tentacle
+Prickly Tentacle
 
 ID=31302125
-Curious Box
+Suspicious Treasure Box
 
 ID=31303131
-Kurisu Baishem
+Phantom Shadow
 
 ID=31303509
 Rapid Gate
 
 ID=31303510
-Tipped Container
+Drop Container
 
 ID=31304137
-Bunker Bot-00
+Sieg Prototype Zero
 
 ID=31304503
-Base Defence Core
+Base Defense Core
 
 ID=31304504
-Mobile Driller
+Mobile Drill
 
 ID=31304505
-Blast Gate
+Blocking Gate
 
 ID=31304506
-Energy Sphere
+Electric Ball
 
 ID=31304507
-Emission Ring
+Ejector Nozzle
 
 ID=31304508
-Central Core
+Main Core
 
 ID=31304509
-Generator
+Power Driving Device
 
 ID=31304510
-Pounder
+Pile Driver
 
 ID=31304511
-Defence System
+Defense System
 
 ID=31304512
-Ghel Pytho
+Eternal Python
 
 ID=31304513
-Ghel Fourarm
+Eternal Four Hand
 
 ID=31304514
-Ghel Shadow
+Eternal Shadow
 
 ID=31304515
-Ghel Hermit
+Eternal Hermit
 
 ID=31304516
-Ghel Commander
+Eternal Enforcer
 
 ID=31304517
-Cyclone Train
+Calamity Drafter
 
 ID=31304518
-Cyclone Enforcer
+Calamity Walker
 
 ID=31304519
-Cyclone Guard
+Calamity Guard
 
 ID=31304520
-Cyclone Gunner
+Calamity Shooter
 
 ID=31304521
-Cyclone Rager
+Calamity Districtor
 
 ID=31304522
-Mageddon Beast
+War Burrower
 
 ID=31304523
-Mageddon Slice
+War Canis
 
 ID=31304524
-Mageddon Slayer
+Wardire
 
 ID=31304525
-Mageddon Brutus
+War Brute
 
 ID=31304526
-Mageddon Driver
+War Charger
 
 ID=31304527
-Pandemiquin
+Pandemic Puppet
 
 ID=31304528
-Pando Witch
+Pandemic Witch
 
 ID=31304529
-Pando Stalker
+Pandemic Stalker
 
 ID=31304530
-Pando Mage
+Pandemic Conjurer
 
 ID=31304531
-Pando Bruiser
+Pandemic Bruiser 
 
 ID=31304532
-Red Gas Bottle
+Red Gas Cylinder
 
 ID=31304533
-Yellow Gas Bottle
+Yellow Gas Cylinder
 
 ID=31311101
-Impequin ¤
+Imp Puppet of Brilliance
 
 ID=31311102
-Steelion Ball ¤
+Steel Ball of Brilliance
 
 ID=31311103
-Piccoloquin ¤
+Tiny Puppet of Brilliance
 
 ID=31311104
-Miniquin ¤
+Midget Puppet of Brilliance
 
 ID=31311105
-Smiley ¤
+Mad Ball of Brilliance
 
 ID=31311106
-Kaliquin ¤
+Blank Puppet of Brilliance
 
 ID=31311107
-Spreadequin ¤
+Saw Puppet of Brilliance
 
 ID=31311108
-Serfequin ¤
+Slave Puppet of Brilliance
 
 ID=31311109
-Gishiniquin ¤
+Ghost Puppet of Brilliance
 
 ID=31311110
-Nastyquin ¤
+Nasty Puppet of Brilliance
 
 ID=31311111
-Paunchequin ¤
+Chubby Puppet of Brilliance
 
 ID=31311112
-Tuckaquin ¤
+Fidget Puppet of Brilliance
 
 ID=31311113
-Slingaquin ¤
+Kissling Puppet of Brilliance
 
 ID=31311114
-Pulsequin ¤
+Bloody Puppet of Brilliance
 
 ID=31311115
-Plumpiquin ¤
+Plumpy Puppet of Brilliance
 
 ID=31311116
-Sanctum Stone ¤
+Temptation Stone of Brilliance
 
 ID=31311117
-Decepticore ¤
+Bluff Core of Brilliance
 
 ID=31311118
-Gnomiquin ¤
+Smallish Puppet of Brilliance
 
 ID=31311119
-Rambequin ¤
+Embryo Puppet of Brilliance
 
 ID=31311120
-Murmurquin ¤
+Mumble Puppet of Brilliance
 
 ID=31311121
-King Wayangon ¤
+Jack the King of Brilliance
 
 ID=31311122
-Jokaquin ¤
+Little Puppet of Brilliance
 
 ID=31311123
-Rabbliquin ¤
+Hideous Puppet of Brilliance
 
 ID=31311124
-Joker Edgar ¤
+Edgar of Brilliance
 
 ID=31311125
-D-Line Equaleon ¤
+Equilibrium Eternity of Brilliance
 
 ID=31311126
-Demon Entity ¤
+Pandemonium Illusion of Brilliance
 
 ID=31311127
-Wayangon Spectre ¤
+Jack the King's Shadow of Brilliance
 
 ID=31311128
-Wayangon Spectre ¤
+Jack the King's Shadow of Brilliance
 
 ID=31311129
-Sanctum Stone ¤
+Temptation Stone of Brilliance
 
 ID=31311130
-Sanctum Stone ¤
+Temptation Stone of Brilliance
 
 ID=31311131
-Sanctum Stone ¤
+Temptation Stone of Brilliance
 
 ID=31311132
-Sanctum Stone ¤
+Temptation Stone of Brilliance
 
 ID=31311133
-Smiley ¤
+Mad Ball of Brilliance
 
 ID=31311134
-Smiley ¤
+Mad Ball of Brilliance
 
 ID=31311135
-Smiley ¤
+Mad Ball of Brilliance
 
 ID=31311136
-Smiley ¤
+Mad Ball of Brilliance
 
 ID=31311137
-Rabbliquin ¤
+Hideous Puppet of Brilliance
 
 ID=31311138
-Impequin ¤
+Imp Puppet of Brilliance
 
 ID=31311139
-Piccoloquin ¤
+Tiny Puppet of Brilliance
 
 ID=31311140
-Miniquin ¤
+Midget Puppet of Brilliance
 
 ID=31311141
-Kaliquin ¤
+Blank Puppet of Brilliance
 
 ID=31311142
-Spreadequin ¤
+Saw Puppet of Brilliance
 
 ID=31311143
-Nastyquin ¤
+Nasty Puppet of Brilliance
 
 ID=31311144
-Paunchequin ¤
+Chubby Puppet of Brilliance
 
 ID=31311145
-Curious Box ¤
+Suspicious Treasure Box of Brilliance
 
 ID=31311146
-Curious Box ¤
+Suspicious Treasure Box of Brilliance
 
 ID=31311147
-Curious Box ¤
+Suspicious Treasure Box of Brilliance
 
 ID=31311148
-Impequin ¤
+Imp Puppet of Brilliance
 
 ID=31311149
-Piccoloquin ¤
+Tiny Puppet of Brilliance
 
 ID=31311150
-Serfequin ¤
+Slave Puppet of Brilliance
 
 ID=31311151
-Nastyquin ¤
+Nasty Puppet of Brilliance
 
 ID=31311152
-Paunchequin ¤
+Chubby Puppet of Brilliance
 
 ID=31311153
-Tuckaquin ¤
+Fidget Puppet of Brilliance
 
 ID=31311154
-Slingaquin ¤
+Kissling Puppet of Brilliance
 
 ID=31311155
-Plumpiquin ¤
+Plumpy Puppet of Brilliance
 
 ID=31311901
-Mad Edgaquin ¤
+Madness Edgar of Brilliance
 
 ID=30316527
-Mad Edgaquin ¤
+Madness Edgar of Brilliance
 
 ID=31321101
-Impequin ¢
+Imp Puppet of Malice
 
 ID=31321102
-Steelion Ball ¢
+Steel Ball of Malice
 
 ID=31321103
-Piccoloquin ¢
+Tiny Puppet of Malice
 
 ID=31321104
-Miniquin ¢
+Midget Puppet of Malice
 
 ID=31321105
-Smiley ¢
+Mad Ball of Malice
 
 ID=31321106
-Kaliquin ¢
+Blank Puppet of Malice
 
 ID=31321107
-Spreadequin ¢
+Saw Puppet of Malice
 
 ID=31321108
-Serfequin ¢
+Slave Puppet of Malice
 
 ID=31321109
-Gishiniquin ¢
+Ghost Puppet of Malice
 
 ID=31321110
-Nastyquin ¢
+Nasty Puppet of Malice
 
 ID=31321111
-Paunchequin ¢
+Chubby Puppet of Malice
 
 ID=31321112
-Tuckaquin ¢
+Fidget Puppet of Malice
 
 ID=31321113
-Slingaquin ¢
+Kissling Puppet of Malice
 
 ID=31321114
-Pulsequin ¢
+Bloody Puppet of Malice
 
 ID=31321115
-Plumpiquin ¢
+Plumpy Puppet of Malice
 
 ID=31321116
-Sanctum Stone ¢
+Temptation Stone of Malice
 
 ID=31321117
-Decepticore ¢
+Bluff Core of Malice
 
 ID=31321118
-Gnomiquin ¢
+Smallish Puppet of Malice
 
 ID=31321119
-Rambequin ¢
+Embryo Puppet of Malice
 
 ID=31321120
-Murmurquin ¢
+Mumble Puppet of Malice
 
 ID=31321121
-King Wayangon ¢
+Jack the King of Malice
 
 ID=31321122
-Jokaquin ¢
+Little Puppet of Malice
 
 ID=31321123
-Rabbliquin ¢
+Hideous Puppet of Malice
 
 ID=31321124
-Joker Edgar ¢
+Edgar of Malice
 
 ID=31321125
-D-Line Equaleon ¢
+Equilibrium Eternity of Malice
 
 ID=31321126
-Demon Entity ¢
+Pandemonium Illusion of Malice
 
 ID=31321127
-Wayangon Spectre ¢
+Jack the King's Shadow of Malice
 
 ID=31321128
-Wayangon Spectre ¢
+Jack the King's Shadow of Malice
 
 ID=31321129
-Sanctum Stone ¢
+Temptation Stone of Malice
 
 ID=31321130
-Sanctum Stone ¢
+Temptation Stone of Malice
 
 ID=31321131
-Sanctum Stone ¢
+Temptation Stone of Malice
 
 ID=31321132
-Sanctum Stone ¢
+Temptation Stone of Malice
 
 ID=31321133
-Smiley ¢
+Mad Ball of Malice
 
 ID=31321134
-Smiley ¢
+Mad Ball of Malice
 
 ID=31321135
-Smiley ¢
+Mad Ball of Malice
 
 ID=31321136
-Smiley ¢
+Mad Ball of Malice
 
 ID=31321137
-Rabbliquin ¢
+Hideous Puppet of Malice
 
 ID=31321138
-Impequin ¢
+Imp Puppet of Malice
 
 ID=31321139
-Piccoloquin ¢
+Tiny Puppet of Malice
 
 ID=31321140
-Miniquin ¢
+Midget Puppet of Malice
 
 ID=31321141
-Kaliquin ¢
+Blank Puppet of Malice
 
 ID=31321142
-Spreadequin ¢
+Saw Puppet of Malice
 
 ID=31321143
-Nastyquin ¢
+Nasty Puppet of Malice
 
 ID=31321144
-Paunchequin ¢
+Chubby Puppet of Malice
 
 ID=31321145
-Curious Box ¢
+Suspicious Treasure Box of Malice
 
 ID=31321146
-Curious Box ¢
+Suspicious Treasure Box of Malice
 
 ID=31321147
-Curious Box ¢
+Suspicious Treasure Box of Malice
 
 ID=31321148
-Impequin ¢
+Imp Puppet of Malice
 
 ID=31321149
-Piccoloquin ¢
+Tiny Puppet of Malice
 
 ID=31321150
-Serfequin ¢
+Slave Puppet of Malice
 
 ID=31321151
-Nastyquin ¢
+Nasty Puppet of Malice
 
 ID=31321152
-Paunchequin ¢
+Chubby Puppet of Malice
 
 ID=31321153
-Tuckaquin ¢
+Fidget Puppet of Malice
 
 ID=31321154
-Slingaquin ¢
+Kissling Puppet of Malice
 
 ID=31321155
-Plumpiquin ¢
+Plumpy Puppet of Malice
 
 ID=31321901
-Mad Edgaquin ¢
+Madness Edgar of Malice
 
 ID=30326527
-Mad Edgaquin ¢
+Madness Edgar of Malice
 
 ID=31331101
-Impequin ×
+Imp Puppet of Serenity
 
 ID=31331102
-Steelion Ball ×
+Steel Ball of Serenity
 
 ID=31331103
-Piccoloquin ×
+Tiny Puppet of Serenity
 
 ID=31331104
-Miniquin ×
+Midget Puppet of Serenity
 
 ID=31331105
-Smiley ×
+Mad Ball of Serenity
 
 ID=31331106
-Kaliquin ×
+Blank Puppet of Serenity
 
 ID=31331107
-Spreadequin ×
+Saw Puppet of Serenity
 
 ID=31331108
-Serfequin ×
+Slave Puppet of Serenity
 
 ID=31331109
-Gishiniquin ×
+Ghost Puppet of Serenity
 
 ID=31331110
-Nastyquin ×
+Nasty Puppet of Serenity
 
 ID=31331111
-Paunchequin ×
+Chubby Puppet of Serenity
 
 ID=31331112
-Tuckaquin ×
+Fidget Puppet of Serenity
 
 ID=31331113
-Slingaquin ×
+Kissling Puppet of Serenity
 
 ID=31331114
-Pulsequin ×
+Bloody Puppet of Serenity
 
 ID=31331115
-Plumpiquin ×
+Plumpy Puppet of Serenity
 
 ID=31331116
-Sanctum Stone ×
+Temptation Stone of Serenity
 
 ID=31331117
-Decepticore ×
+Bluff Core of Serenity
 
 ID=31331118
-Gnomiquin ×
+Smallish Puppet of Serenity
 
 ID=31331119
-Rambequin ×
+Embryo Puppet of Serenity
 
 ID=31331120
-Murmurquin ×
+Mumble Puppet of Serenity
 
 ID=31331121
-King Wayangon ×
+Jack the King of Serenity
 
 ID=31331122
-Jokaquin ×
+Little Puppet of Serenity
 
 ID=31331123
-Rabbliquin ×
+Hideous Puppet of Serenity
 
 ID=31331124
-Joker Edgar ×
+Edgar of Serenity
 
 ID=31331125
-D-Line Equaleon ×
+Equilibrium Eternity of Serenity
 
 ID=31331126
-Demon Entity ×
+Pandemonium Illusion of Serenity
 
 ID=31331127
-Wayangon Spectre ×
+Jack the King's Shadow of Serenity
 
 ID=31331128
-Wayangon Spectre ×
+Jack the King's Shadow of Serenity
 
 ID=31331129
-Sanctum Stone ×
+Temptation Stone of Serenity
 
 ID=31331130
-Sanctum Stone ×
+Temptation Stone of Serenity
 
 ID=31331131
-Sanctum Stone ×
+Temptation Stone of Serenity
 
 ID=31331132
-Sanctum Stone ×
+Temptation Stone of Serenity
 
 ID=31331133
-Smiley ×
+Mad Ball of Serenity
 
 ID=31331134
-Smiley ×
+Mad Ball of Serenity
 
 ID=31331135
-Smiley ×
+Mad Ball of Serenity
 
 ID=31331136
-Smiley ×
+Mad Ball of Serenity
 
 ID=31331137
-Rabbliquin ×
+Hideous Puppet of Serenity
 
 ID=31331138
-Impequin ×
+Imp Puppet of Serenity
 
 ID=31331139
-Piccoloquin ×
+Tiny Puppet of Serenity
 
 ID=31331140
-Miniquin ×
+Midget Puppet of Serenity
 
 ID=31331141
-Kaliquin ×
+Blank Puppet of Serenity
 
 ID=31331142
-Spreadequin ×
+Saw Puppet of Serenity
 
 ID=31331143
-Nastyquin ×
+Nasty Puppet of Serenity
 
 ID=31331144
-Paunchequin ×
+Chubby Puppet of Serenity
 
 ID=31331145
-Curious Box ×
+Suspicious Treasure Box of Serenity
 
 ID=31331146
-Curious Box ×
+Suspicious Treasure Box of Serenity
 
 ID=31331147
-Curious Box ×
+Suspicious Treasure Box of Serenity
 
 ID=31331148
-Impequin ×
+Imp Puppet of Serenity
 
 ID=31331149
-Piccoloquin ×
+Tiny Puppet of Serenity
 
 ID=31331150
-Serfequin ×
+Slave Puppet of Serenity
 
 ID=31331151
-Nastyquin ×
+Nasty Puppet of Serenity
 
 ID=31331152
-Paunchequin ×
+Chubby Puppet of Serenity
 
 ID=31331153
-Tuckaquin ×
+Fidget Puppet of Serenity
 
 ID=31331154
-Slingaquin ×
+Kissling Puppet of Serenity
 
 ID=31331155
-Plumpiquin ×
+Plumpy Puppet of Serenity
 
 ID=31331901
-Mad Edgaquin ×
+Madness Edgar of Serenity
 
 ID=30336527
-Mad Edgaquin ×
+Madness Edgar of Serenity
 
 ID=31341101
-Impequin ^
+Imp Puppet of Hatred
 
 ID=31341102
-Steelion Ball ^
+Steel Ball of Hatred
 
 ID=31341103
-Piccoloquin ^
+Tiny Puppet of Hatred
 
 ID=31341104
-Miniquin ^
+Midget Puppet of Hatred
 
 ID=31341105
-Smiley ^
+Mad Ball of Hatred
 
 ID=31341106
-Kaliquin ^
+Blank Puppet of Hatred
 
 ID=31341107
-Spreadequin ^
+Saw Puppet of Hatred
 
 ID=31341108
-Serfequin ^
+Slave Puppet of Hatred
 
 ID=31341109
-Gishiniquin ^
+Ghost Puppet of Hatred
 
 ID=31341110
-Nastyquin ^
+Nasty Puppet of Hatred
 
 ID=31341111
-Paunchequin ^
+Chubby Puppet of Hatred
 
 ID=31341112
-Tuckaquin ^
+Fidget Puppet of Hatred
 
 ID=31341113
-Slingaquin ^
+Kissling Puppet of Hatred
 
 ID=31341114
-Pulsequin ^
+Bloody Puppet of Hatred
 
 ID=31341115
-Plumpiquin ^
+Plumpy Puppet of Hatred
 
 ID=31341116
-Sanctum Stone ^
+Temptation Stone of Hatred
 
 ID=31341117
-Decepticore ^
+Bluff Core of Hatred
 
 ID=31341118
-Gnomiquin ^
+Smallish Puppet of Hatred
 
 ID=31341119
-Rambequin ^
+Embryo Puppet of Hatred
 
 ID=31341120
-Murmurquin ^
+Mumble Puppet of Hatred
 
 ID=31341121
-King Wayangon ^
+Jack the King of Hatred
 
 ID=31341122
-Jokaquin ^
+Little Puppet of Hatred
 
 ID=31341123
-Rabbliquin ^
+Hideous Puppet of Hatred
 
 ID=31341124
-Joker Edgar ^
+Edgar of Hatred
 
 ID=31341125
-D-Line Equaleon ^
+Equilibrium Eternity of Hatred
 
 ID=31341126
-Demon Entity ^
+Pandemonium Illusion of Hatred
 
 ID=31341127
-Wayangon Spectre ^
+Jack the King's Shadow of Hatred
 
 ID=31341128
-Wayangon Spectre ^
+Jack the King's Shadow of Hatred
 
 ID=31341129
-Sanctum Stone ^
+Temptation Stone of Hatred
 
 ID=31341130
-Sanctum Stone ^
+Temptation Stone of Hatred
 
 ID=31341131
-Sanctum Stone ^
+Temptation Stone of Hatred
 
 ID=31341132
-Sanctum Stone ^
+Temptation Stone of Hatred
 
 ID=31341133
-Smiley ^
+Mad Ball of Hatred
 
 ID=31341134
-Smiley ^
+Mad Ball of Hatred
 
 ID=31341135
-Smiley ^
+Mad Ball of Hatred
 
 ID=31341136
-Smiley ^
+Mad Ball of Hatred
 
 ID=31341137
-Rabbliquin ^
+Hideous Puppet of Hatred
 
 ID=31341138
-Impequin ^
+Imp Puppet of Hatred
 
 ID=31341139
-Piccoloquin ^
+Tiny Puppet of Hatred
 
 ID=31341140
-Miniquin ^
+Midget Puppet of Hatred
 
 ID=31341141
-Kaliquin ^
+Blank Puppet of Hatred
 
 ID=31341142
-Spreadequin ^
+Saw Puppet of Hatred
 
 ID=31341143
-Nastyquin ^
+Nasty Puppet of Hatred
 
 ID=31341144
-Paunchequin ^
+Chubby Puppet of Hatred
 
 ID=31341145
-Curious Box ^
+Suspicious Treasure Box of Hatred
 
 ID=31341146
-Curious Box ^
+Suspicious Treasure Box of Hatred
 
 ID=31341147
-Curious Box ^
+Suspicious Treasure Box of Hatred
 
 ID=31341148
-Impequin ^
+Imp Puppet of Hatred
 
 ID=31341149
-Piccoloquin ^
+Tiny Puppet of Hatred
 
 ID=31341150
-Serfequin ^
+Slave Puppet of Hatred
 
 ID=31341151
-Nastyquin ^
+Nasty Puppet of Hatred
 
 ID=31341152
-Paunchequin ^
+Chubby Puppet of Hatred
 
 ID=31341153
-Tuckaquin ^
+Fidget Puppet of Hatred
 
 ID=31341154
-Slingaquin ^
+Kissling Puppet of Hatred
 
 ID=31341155
-Plumpiquin ^
+Plumpy Puppet of Hatred
 
 ID=31341901
-Mad Edgaquin ^
+Madness Edgar of Hatred
 
 ID=30346527
-Mad Edgaquin ^
+Madness Edgar of Hatred
 
 ID=31351101
-Impequin +
+Imp Puppet of Healing
 
 ID=31351102
-Steelion Ball +
+Steel Ball of Healing
 
 ID=31351103
-Piccoloquin +
+Tiny Puppet of Healing
 
 ID=31351104
-Miniquin +
+Midget Puppet of Healing
 
 ID=31351105
-Smiley +
+Mad Ball of Healing
 
 ID=31351106
-Kaliquin +
+Blank Puppet of Healing
 
 ID=31351107
-Spreadequin +
+Saw Puppet of Healing
 
 ID=31351108
-Serfequin +
+Slave Puppet of Healing
 
 ID=31351109
-Gishiniquin +
+Ghost Puppet of Healing
 
 ID=31351110
-Nastyquin +
+Nasty Puppet of Healing
 
 ID=31351111
-Paunchequin +
+Chubby Puppet of Healing
 
 ID=31351112
-Tuckaquin +
+Fidget Puppet of Healing
 
 ID=31351113
-Slingaquin +
+Kissling Puppet of Healing
 
 ID=31351114
-Pulsequin +
+Bloody Puppet of Healing
 
 ID=31351115
-Plumpiquin +
+Plumpy Puppet of Healing
 
 ID=31351116
-Sanctum Stone +
+Temptation Stone of Healing
 
 ID=31351117
-Decepticore +
+Bluff Core of Healing
 
 ID=31351118
-Gnomiquin +
+Smallish Puppet of Healing
 
 ID=31351119
-Rambequin +
+Embryo Puppet of Healing
 
 ID=31351120
-Murmurquin +
+Mumble Puppet of Healing
 
 ID=31351121
-King Wayangon +
+Jack the King of Healing
 
 ID=31351122
-Jokaquin +
+Little Puppet of Healing
 
 ID=31351123
-Rabbliquin +
+Hideous Puppet of Healing
 
 ID=31351124
-Joker Edgar +
+Edgar of Healing
 
 ID=31351125
-D-Line Equaleon +
+Equilibrium Eternity of Healing
 
 ID=31351126
-Demon Entity +
+Pandemonium Illusion of Healing
 
 ID=31351127
-Wayangon Spectre +
+Jack the King's Shadow of Healing
 
 ID=31351128
-Wayangon Spectre +
+Jack the King's Shadow of Healing
 
 ID=31351129
-Sanctum Stone +
+Temptation Stone of Healing
 
 ID=31351130
-Sanctum Stone +
+Temptation Stone of Healing
 
 ID=31351131
-Sanctum Stone +
+Temptation Stone of Healing
 
 ID=31351132
-Sanctum Stone +
+Temptation Stone of Healing
 
 ID=31351133
-Smiley +
+Mad Ball of Healing
 
 ID=31351134
-Smiley +
+Mad Ball of Healing
 
 ID=31351135
-Smiley +
+Mad Ball of Healing
 
 ID=31351136
-Smiley +
+Mad Ball of Healing
 
 ID=31351137
-Rabbliquin +
+Hideous Puppet of Healing
 
 ID=31351138
-Impequin +
+Imp Puppet of Healing
 
 ID=31351139
-Piccoloquin +
+Tiny Puppet of Healing
 
 ID=31351140
-Miniquin +
+Midget Puppet of Healing
 
 ID=31351141
-Kaliquin +
+Blank Puppet of Healing
 
 ID=31351142
-Spreadequin +
+Saw Puppet of Healing
 
 ID=31351143
-Nastyquin +
+Nasty Puppet of Healing
 
 ID=31351144
-Paunchequin +
+Chubby Puppet of Healing
 
 ID=31351145
-Curious Box +
+Suspicious Treasure Box of Healing
 
 ID=31351146
-Curious Box +
+Suspicious Treasure Box of Healing
 
 ID=31351147
-Curious Box +
+Suspicious Treasure Box of Healing
 
 ID=31351148
-Impequin +
+Imp Puppet of Healing
 
 ID=31351149
-Piccoloquin +
+Tiny Puppet of Healing
 
 ID=31351150
-Serfequin +
+Slave Puppet of Healing
 
 ID=31351151
-Nastyquin +
+Nasty Puppet of Healing
 
 ID=31351152
-Paunchequin +
+Chubby Puppet of Healing
 
 ID=31351153
-Tuckaquin +
+Fidget Puppet of Healing
 
 ID=31351154
-Slingaquin +
+Kissling Puppet of Healing
 
 ID=31351155
-Plumpiquin +
+Plumpy Puppet of Healing
 
 ID=31351901
-Mad Edgaquin +
+Madness Edgar of Healing
 
 ID=30356527
-Mad Edgaquin +
+Madness Edgar of Healing
 
 ID=31361101
-Impequin ¥
+Imp Puppet of Agony
 
 ID=31361102
-Steelion Ball ¥
+Steel Ball of Agony
 
 ID=31361103
-Piccoloquin ¥
+Tiny Puppet of Agony
 
 ID=31361104
-Miniquin ¥
+Midget Puppet of Agony
 
 ID=31361105
-Smiley ¥
+Mad Ball of Agony
 
 ID=31361106
-Kaliquin ¥
+Blank Puppet of Agony
 
 ID=31361107
-Spreadequin ¥
+Saw Puppet of Agony
 
 ID=31361108
-Serfequin ¥
+Slave Puppet of Agony
 
 ID=31361109
-Gishiniquin ¥
+Ghost Puppet of Agony
 
 ID=31361110
-Nastyquin ¥
+Nasty Puppet of Agony
 
 ID=31361111
-Paunchequin ¥
+Chubby Puppet of Agony
 
 ID=31361112
-Tuckaquin ¥
+Fidget Puppet of Agony
 
 ID=31361113
-Slingaquin ¥
+Kissling Puppet of Agony
 
 ID=31361114
-Pulsequin ¥
+Bloody Puppet of Agony
 
 ID=31361115
-Plumpiquin ¥
+Plumpy Puppet of Agony
 
 ID=31361116
-Sanctum Stone ¥
+Temptation Stone of Agony
 
 ID=31361117
-Decepticore ¥
+Bluff Core of Agony
 
 ID=31361118
-Gnomiquin ¥
+Smallish Puppet of Agony
 
 ID=31361119
-Rambequin ¥
+Embryo Puppet of Agony
 
 ID=31361120
-Murmurquin ¥
+Mumble Puppet of Agony
 
 ID=31361121
-King Wayangon ¥
+Jack the King of Agony
 
 ID=31361122
-Jokaquin ¥
+Little Puppet of Agony
 
 ID=31361123
-Rabbliquin ¥
+Hideous Puppet of Agony
 
 ID=31361124
-Joker Edgar ¥
+Edgar of Agony
 
 ID=31361125
-D-Line Equaleon ¥
+Equilibrium Eternity of Agony
 
 ID=31361126
-Demon Entity ¥
+Pandemonium Illusion of Agony
 
 ID=31361127
-Wayangon Spectre ¥
+Jack the King's Shadow of Agony
 
 ID=31361128
-Wayangon Spectre ¥
+Jack the King's Shadow of Agony
 
 ID=31361129
-Sanctum Stone ¥
+Temptation Stone of Agony
 
 ID=31361130
-Sanctum Stone ¥
+Temptation Stone of Agony
 
 ID=31361131
-Sanctum Stone ¥
+Temptation Stone of Agony
 
 ID=31361132
-Sanctum Stone ¥
+Temptation Stone of Agony
 
 ID=31361133
-Smiley ¥
+Mad Ball of Agony
 
 ID=31361134
-Smiley ¥
+Mad Ball of Agony
 
 ID=31361135
-Smiley ¥
+Mad Ball of Agony
 
 ID=31361136
-Smiley ¥
+Mad Ball of Agony
 
 ID=31361137
-Rabbliquin ¥
+Hideous Puppet of Agony
 
 ID=31361138
-Impequin ¥
+Imp Puppet of Agony
 
 ID=31361139
-Piccoloquin ¥
+Tiny Puppet of Agony
 
 ID=31361140
-Miniquin ¥
+Midget Puppet of Agony
 
 ID=31361141
-Kaliquin ¥
+Blank Puppet of Agony
 
 ID=31361142
-Spreadequin ¥
+Saw Puppet of Agony
 
 ID=31361143
-Nastyquin ¥
+Nasty Puppet of Agony
 
 ID=31361144
-Paunchequin ¥
+Chubby Puppet of Agony
 
 ID=31361145
-Curious Box ¥
+Suspicious Treasure Box of Agony
 
 ID=31361146
-Curious Box ¥
+Suspicious Treasure Box of Agony
 
 ID=31361147
-Curious Box ¥
+Suspicious Treasure Box of Agony
 
 ID=31361148
-Impequin ¥
+Imp Puppet of Agony
 
 ID=31361149
-Piccoloquin ¥
+Tiny Puppet of Agony
 
 ID=31361150
-Serfequin ¥
+Slave Puppet of Agony
 
 ID=31361151
-Nastyquin ¥
+Nasty Puppet of Agony
 
 ID=31361152
-Paunchequin ¥
+Chubby Puppet of Agony
 
 ID=31361153
-Tuckaquin ¥
+Fidget Puppet of Agony
 
 ID=31361154
-Slingaquin ¥
+Kissling Puppet of Agony
 
 ID=31361155
-Plumpiquin ¥
+Plumpy Puppet of Agony
 
 ID=31361901
-Mad Edgaquin ¥
+Madness Edgar of Agony
 
 ID=30366527
-Mad Edgaquin ¥
+Madness Edgar of Agony
 
 ID=31312101
-Spine ¤
+Scone of Brilliance
 
 ID=31312102
-Granitoid ¤
+Wild Stone of Brilliance
 
 ID=31312103
-Void Prion ¤
+Vacuum Parasite of Brilliance
 
 ID=31312104
-Dark Skitter ¤
+Dark Cell of Brilliance
 
 ID=31312105
-Lil' Skitter ¤
+Small Cell of Brilliance
 
 ID=31312106
-Pike ¤
+Vacuum Vein of Brilliance
 
 ID=31312107
-Skitter ¤
+Cell of Brilliance
 
 ID=31312108
-N-65 ¤
+N-65 of Brilliance
 
 ID=31312109
-Canalmurin ¤
+Sewer Rat of Brilliance
 
 ID=31312110
-Debris ¤
+Wreckage of Brilliance
 
 ID=31312111
-Boulder Giant ¤
+Land Stone of Brilliance
 
 ID=31312112
-Gallus ¤
+Gallus of Brilliance
 
 ID=31312113
-Luga ¤
+Ruga of Brilliance
 
 ID=31312114
-Dark Mander ¤
+Dark Lizard of Brilliance
 
 ID=31312115
-Arachna Feint ¤
+Pawn Spider of Brilliance
 
 ID=31312116
-Kimbu Guard ¤
+Infected Guard of Brilliance
 
 ID=31312117
-Kimbu Kidda ¤
+Infected Girl of Brilliance
 
 ID=31312118
-S-00 ¤
+S-00 of Brilliance
 
 ID=31312119
-S-02 ¤
+S-02 of Brilliance
 
 ID=31312120
-Cytoborg ¤
+Habitant of Brilliance
 
 ID=31312121
-Hockmar ¤
+Hokmah of Brilliance
 
 ID=31312122
-Power Rager ¤
+Rampage of Brilliance
 
 ID=31312123
-Maimator ¤
+Bone Crusher of Brilliance
 
 ID=31312124
-S-01 ¤
+S-01 of Brilliance
 
 ID=31312125
-Mangrove Skitter ¤
+Mangrove Cell of Brilliance
 
 ID=31312126
-Dark Mutoid ¤
+Dark Mucus of Brilliance
 
 ID=31312127
-Warrage ¤
+Warlike of Brilliance
 
 ID=31312128
-Land Crusher ¤
+Land Crusher of Brilliance
 
 ID=31312129
-Gallasnis ¤
+Glasnis of Brilliance
 
 ID=31312130
-Steel Breaker ¤
+Iron Breaker of Brilliance
 
 ID=31312131
-Dark Caimanoc ¤
+Dark Alligator of Brilliance
 
 ID=31312132
-Vantaworm ¤
+Dark Worm of Brilliance
 
 ID=31312133
-Baalride ¤
+Junk Knight of Brilliance
 
 ID=31312134
-Venom Mutoid ¤
+Venom Mucus of Brilliance
 
 ID=31312135
-Crud Skitter ¤
+Crude Cell of Brilliance
 
 ID=31312136
-Melt Skitter ¤
+Meltiness Cell of Brilliance
 
 ID=31312137
-Arachna Drak ¤
+Duke Spider of Brilliance
 
 ID=31312138
-Gallasnis ¤
+Glasnis of Brilliance
 
 ID=31312139
-Steel Breaker ¤
+Iron Breaker of Brilliance
 
 ID=31312140
-Soul Reaver ¤
+Dignity Snatcher of Brilliance
 
 ID=31312141
-Amaryllis ¤
+Amaryllis of Brilliance
 
 ID=31312142
-Mad Manic ¤
+Beholder of Brilliance
 
 ID=31312143
-Asphalt Golem ¤
+Asphalt Golem of Brilliance
 
 ID=31312144
-Arachness ¤
+Arachnis of Brilliance
 
 ID=31312145
-Mad Manic ¤
+Mad Beholder of Brilliance
 
 ID=31312146
-Dreg Pupa ¤
+Junk Cocoon of Brilliance
 
 ID=31312147
-Dreg Pupa ¤
+Junk Cocoon of Brilliance
 
 ID=31312148
-Dreg Pupa ¤
+Junk Cocoon of Brilliance
 
 ID=31312149
-Woven Pupa ¤
+Spider Cocoon of Brilliance
 
 ID=31312150
-Defence Pupa ¤
+Ominous Cocoon of Brilliance
 
 ID=31312151
-EMP Mine ¤
+EMP Main of Brilliance
 
 ID=31312152
-Bombarder ¤
+Artillery Guidance System of Brilliance
 
 ID=31312153
-Charger ¤
+Charging Device of Brilliance
 
 ID=31312154
-Thorn Tentacle ¤
+Prickly Tentacle of Brilliance
 
 ID=31312155
-Thorn Tentacle ¤
+Prickly Tentacle of Brilliance
 
 ID=31312156
-Thorn Tentacle ¤
+Prickly Tentacle of Brilliance
 
 ID=31312157
-Thorn Tentacle ¤
+Prickly Tentacle of Brilliance
 
 ID=31312158
-Thorn Tentacle ¤
+Prickly Tentacle of Brilliance
 
 ID=31312159
-Thorn Tentacle ¤
+Prickly Tentacle of Brilliance
 
 ID=31312160
-Armour Skitter ¤
+Heavy Cell of Brilliance
 
 ID=31312161
-Charger ¤
+Charging Device of Brilliance
 
 ID=31312162
-Dreg Pupa ¤
+Junk Cocoon of Brilliance
 
 ID=31312163
-Recovery Pupa ¤
+Healing Cocoon of Brilliance
 
 ID=31312164
-Charger ¤
+Charging Device of Brilliance
 
 ID=31312165
-Charger ¤
+Charging Device of Brilliance
 
 ID=31312901
-Violet Murder ¤
+Violet Murderess of Brilliance
 
 ID=30316574
-Violet Murder ¤
+Violet Murderess of Brilliance
 
 ID=31322101
-Spine ¢
+Scone of Malice
 
 ID=31322102
-Granitoid ¢
+Wild Stone of Malice
 
 ID=31322103
-Void Prion ¢
+Vacuum Parasite of Malice
 
 ID=31322104
-Dark Skitter ¢
+Dark Cell of Malice
 
 ID=31322105
-Lil' Skitter ¢
+Small Cell of Malice
 
 ID=31322106
-Pike ¢
+Vacuum Vein of Malice
 
 ID=31322107
-Skitter ¢
+Cell of Malice
 
 ID=31322108
-N-65 ¢
+N-65 of Malice
 
 ID=31322109
-Canalmurin ¢
+Sewer Rat of Malice
 
 ID=31322110
-Debris ¢
+Wreckage of Malice
 
 ID=31322111
-Boulder Giant ¢
+Land Stone of Malice
 
 ID=31322112
-Gallus ¢
+Gallus of Malice
 
 ID=31322113
-Luga ¢
+Ruga of Malice
 
 ID=31322114
-Dark Mander ¢
+Dark Lizard of Malice
 
 ID=31322115
-Arachna Feint ¢
+Pawn Spider of Malice
 
 ID=31322116
-Kimbu Guard ¢
+Infected Guard of Malice
 
 ID=31322117
-Kimbu Kidda ¢
+Infected Girl of Malice
 
 ID=31322118
-S-00 ¢
+S-00 of Malice
 
 ID=31322119
-S-02 ¢
+S-02 of Malice
 
 ID=31322120
-Cytoborg ¢
+Habitant of Malice
 
 ID=31322121
-Hockmar ¢
+Hokmah of Malice
 
 ID=31322122
-Power Rager ¢
+Rampage of Malice
 
 ID=31322123
-Maimator ¢
+Bone Crusher of Malice
 
 ID=31322124
-S-01 ¢
+S-01 of Malice
 
 ID=31322125
-Mangrove Skitter ¢
+Mangrove Cell of Malice
 
 ID=31322126
-Dark Mutoid ¢
+Dark Mucus of Malice
 
 ID=31322127
-Warrage ¢
+Warlike of Malice
 
 ID=31322128
-Land Crusher ¢
+Land Crusher of Malice
 
 ID=31322129
-Gallasnis ¢
+Glasnis of Malice
 
 ID=31322130
-Steel Breaker ¢
+Iron Breaker of Malice
 
 ID=31322131
-Dark Caimanoc ¢
+Dark Alligator of Malice
 
 ID=31322132
-Vantaworm ¢
+Dark Worm of Malice
 
 ID=31322133
-Baalride ¢
+Junk Knight of Malice
 
 ID=31322134
-Venom Mutoid ¢
+Venom Mucus of Malice
 
 ID=31322135
-Crud Skitter ¢
+Crude Cell of Malice
 
 ID=31322136
-Melt Skitter ¢
+Meltiness Cell of Malice
 
 ID=31322137
-Arachna Drak ¢
+Duke Spider of Malice
 
 ID=31322138
-Gallasnis ¢
+Glasnis of Malice
 
 ID=31322139
-Steel Breaker ¢
+Iron Breaker of Malice
 
 ID=31322140
-Soul Reaver ¢
+Dignity Snatcher of Malice
 
 ID=31322141
-Amaryllis ¢
+Amaryllis of Malice
 
 ID=31322142
-Mad Manic ¢
+Beholder of Malice
 
 ID=31322143
-Asphalt Golem ¢
+Asphalt Golem of Malice
 
 ID=31322144
-Arachness ¢
+Arachnis of Malice
 
 ID=31322145
-Mad Manic ¢
+Mad Beholder of Malice
 
 ID=31322146
-Dreg Pupa ¢
+Junk Cocoon of Malice
 
 ID=31322147
-Dreg Pupa ¢
+Junk Cocoon of Malice
 
 ID=31322148
-Dreg Pupa ¢
+Junk Cocoon of Malice
 
 ID=31322149
-Woven Pupa ¢
+Spider Cocoon of Malice
 
 ID=31322150
-Defence Pupa ¢
+Ominous Cocoon of Malice
 
 ID=31322151
-EMP Mine ¢
+EMP Main of Malice
 
 ID=31322152
-Bombarder ¢
+Artillery Guidance System of Malice
 
 ID=31322153
-Charger ¢
+Charging Device of Malice
 
 ID=31322154
-Thorn Tentacle ¢
+Prickly Tentacle of Malice
 
 ID=31322155
-Thorn Tentacle ¢
+Prickly Tentacle of Malice
 
 ID=31322156
-Thorn Tentacle ¢
+Prickly Tentacle of Malice
 
 ID=31322157
-Thorn Tentacle ¢
+Prickly Tentacle of Malice
 
 ID=31322158
-Thorn Tentacle ¢
+Prickly Tentacle of Malice
 
 ID=31322159
-Thorn Tentacle ¢
+Prickly Tentacle of Malice
 
 ID=31322160
-Armour Skitter ¢
+Heavy Cell of Malice
 
 ID=31322161
-Charger ¢
+Charging Device of Malice
 
 ID=31322162
-Dreg Pupa ¢
+Junk Cocoon of Malice
 
 ID=31322163
-Recovery Pupa ¢
+Healing Cocoon of Malice
 
 ID=31322164
-Charger ¢
+Charging Device of Malice
 
 ID=31322165
-Charger ¢
+Charging Device of Malice
 
 ID=31322901
-Violet Murder ¢
+Violet Murderess of Malice
 
 ID=30326574
-Violet Murder ¢
+Violet Murderess of Malice
 
 ID=31332101
-Spine ×
+Scone of Serenity
 
 ID=31332102
-Granitoid ×
+Wild Stone of Serenity
 
 ID=31332103
-Void Prion ×
+Vacuum Parasite of Serenity
 
 ID=31332104
-Dark Skitter ×
+Dark Cell of Serenity
 
 ID=31332105
-Lil' Skitter ×
+Small Cell of Serenity
 
 ID=31332106
-Pike ×
+Vacuum Vein of Serenity
 
 ID=31332107
-Skitter ×
+Cell of Serenity
 
 ID=31332108
-N-65 ×
+N-65 of Serenity
 
 ID=31332109
-Canalmurin ×
+Sewer Rat of Serenity
 
 ID=31332110
-Debris ×
+Wreckage of Serenity
 
 ID=31332111
-Boulder Giant ×
+Land Stone of Serenity
 
 ID=31332112
-Gallus ×
+Gallus of Serenity
 
 ID=31332113
-Luga ×
+Ruga of Serenity
 
 ID=31332114
-Dark Mander ×
+Dark Lizard of Serenity
 
 ID=31332115
-Arachna Feint ×
+Pawn Spider of Serenity
 
 ID=31332116
-Kimbu Guard ×
+Infected Guard of Serenity
 
 ID=31332117
-Kimbu Kidda ×
+Infected Girl of Serenity
 
 ID=31332118
-S-00 ×
+S-00 of Serenity
 
 ID=31332119
-S-02 ×
+S-02 of Serenity
 
 ID=31332120
-Cytoborg ×
+Habitant of Serenity
 
 ID=31332121
-Hockmar ×
+Hokmah of Serenity
 
 ID=31332122
-Power Rager ×
+Rampage of Serenity
 
 ID=31332123
-Maimator ×
+Bone Crusher of Serenity
 
 ID=31332124
-S-01 ×
+S-01 of Serenity
 
 ID=31332125
-Mangrove Skitter ×
+Mangrove Cell of Serenity
 
 ID=31332126
-Dark Mutoid ×
+Dark Mucus of Serenity
 
 ID=31332127
-Warrage ×
+Warlike of Serenity
 
 ID=31332128
-Land Crusher ×
+Land Crusher of Serenity
 
 ID=31332129
-Gallasnis ×
+Glasnis of Serenity
 
 ID=31332130
-Steel Breaker ×
+Iron Breaker of Serenity
 
 ID=31332131
-Dark Caimanoc ×
+Dark Alligator of Serenity
 
 ID=31332132
-Vantaworm ×
+Dark Worm of Serenity
 
 ID=31332133
-Baalride ×
+Junk Knight of Serenity
 
 ID=31332134
-Venom Mutoid ×
+Venom Mucus of Serenity
 
 ID=31332135
-Crud Skitter ×
+Crude Cell of Serenity
 
 ID=31332136
-Melt Skitter ×
+Meltiness Cell of Serenity
 
 ID=31332137
-Arachna Drak ×
+Duke Spider of Serenity
 
 ID=31332138
-Gallasnis ×
+Glasnis of Serenity
 
 ID=31332139
-Steel Breaker ×
+Iron Breaker of Serenity
 
 ID=31332140
-Soul Reaver ×
+Dignity Snatcher of Serenity
 
 ID=31332141
-Amaryllis ×
+Amaryllis of Serenity
 
 ID=31332142
-Mad Manic ×
+Beholder of Serenity
 
 ID=31332143
-Asphalt Golem ×
+Asphalt Golem of Serenity
 
 ID=31332144
-Arachness ×
+Arachnis of Serenity
 
 ID=31332145
-Mad Manic ×
+Mad Beholder of Serenity
 
 ID=31332146
-Dreg Pupa ×
+Junk Cocoon of Serenity
 
 ID=31332147
-Dreg Pupa ×
+Junk Cocoon of Serenity
 
 ID=31332148
-Dreg Pupa ×
+Junk Cocoon of Serenity
 
 ID=31332149
-Woven Pupa ×
+Spider Cocoon of Serenity
 
 ID=31332150
-Defence Pupa ×
+Ominous Cocoon of Serenity
 
 ID=31332151
-EMP Mine ×
+EMP Main of Serenity
 
 ID=31332152
-Bombarder ×
+Artillery Guidance System of Serenity
 
 ID=31332153
-Charger ×
+Charging Device of Serenity
 
 ID=31332154
-Thorn Tentacle ×
+Prickly Tentacle of Serenity
 
 ID=31332155
-Thorn Tentacle ×
+Prickly Tentacle of Serenity
 
 ID=31332156
-Thorn Tentacle ×
+Prickly Tentacle of Serenity
 
 ID=31332157
-Thorn Tentacle ×
+Prickly Tentacle of Serenity
 
 ID=31332158
-Thorn Tentacle ×
+Prickly Tentacle of Serenity
 
 ID=31332159
-Thorn Tentacle ×
+Prickly Tentacle of Serenity
 
 ID=31332160
-Armour Skitter ×
+Heavy Cell of Serenity
 
 ID=31332161
-Charger ×
+Charging Device of Serenity
 
 ID=31332162
-Dreg Pupa ×
+Junk Cocoon of Serenity
 
 ID=31332163
-Recovery Pupa ×
+Healing Cocoon of Serenity
 
 ID=31332164
-Charger ×
+Charging Device of Serenity
 
 ID=31332165
-Charger ×
+Charging Device of Serenity
 
 ID=31332901
-Violet Murder ×
+Violet Murderess of Serenity
 
 ID=30336574
-Violet Murder ×
+Violet Murderess of Serenity
 
 ID=31342101
-Spine ^
+Scone of Hatred
 
 ID=31342102
-Granitoid ^
+Wild Stone of Hatred
 
 ID=31342103
-Void Prion ^
+Vacuum Parasite of Hatred
 
 ID=31342104
-Dark Skitter ^
+Dark Cell of Hatred
 
 ID=31342105
-Lil' Skitter ^
+Small Cell of Hatred
 
 ID=31342106
-Pike ^
+Vacuum Vein of Hatred
 
 ID=31342107
-Skitter ^
+Cell of Hatred
 
 ID=31342108
-N-65 ^
+N-65 of Hatred
 
 ID=31342109
-Canalmurin ^
+Sewer Rat of Hatred
 
 ID=31342110
-Debris ^
+Wreckage of Hatred
 
 ID=31342111
-Boulder Giant ^
+Land Stone of Hatred
 
 ID=31342112
-Gallus ^
+Gallus of Hatred
 
 ID=31342113
-Luga ^
+Ruga of Hatred
 
 ID=31342114
-Dark Mander ^
+Dark Lizard of Hatred
 
 ID=31342115
-Arachna Feint ^
+Pawn Spider of Hatred
 
 ID=31342116
-Kimbu Guard ^
+Infected Guard of Hatred
 
 ID=31342117
-Kimbu Kidda ^
+Infected Girl of Hatred
 
 ID=31342118
-S-00 ^
+S-00 of Hatred
 
 ID=31342119
-S-02 ^
+S-02 of Hatred
 
 ID=31342120
-Cytoborg ^
+Habitant of Hatred
 
 ID=31342121
-Hockmar ^
+Hokmah of Hatred
 
 ID=31342122
-Power Rager ^
+Rampage of Hatred
 
 ID=31342123
-Maimator ^
+Bone Crusher of Hatred
 
 ID=31342124
-S-01 ^
+S-01 of Hatred
 
 ID=31342125
-Mangrove Skitter ^
+Mangrove Cell of Hatred
 
 ID=31342126
-Dark Mutoid ^
+Dark Mucus of Hatred
 
 ID=31342127
-Warrage ^
+Warlike of Hatred
 
 ID=31342128
-Land Crusher ^
+Land Crusher of Hatred
 
 ID=31342129
-Gallasnis ^
+Glasnis of Hatred
 
 ID=31342130
-Steel Breaker ^
+Iron Breaker of Hatred
 
 ID=31342131
-Dark Caimanoc ^
+Dark Alligator of Hatred
 
 ID=31342132
-Vantaworm ^
+Dark Worm of Hatred
 
 ID=31342133
-Baalride ^
+Junk Knight of Hatred
 
 ID=31342134
-Venom Mutoid ^
+Venom Mucus of Hatred
 
 ID=31342135
-Crud Skitter ^
+Crude Cell of Hatred
 
 ID=31342136
-Melt Skitter ^
+Meltiness Cell of Hatred
 
 ID=31342137
-Arachna Drak ^
+Duke Spider of Hatred
 
 ID=31342138
-Gallasnis ^
+Glasnis of Hatred
 
 ID=31342139
-Steel Breaker ^
+Iron Breaker of Hatred
 
 ID=31342140
-Soul Reaver ^
+Dignity Snatcher of Hatred
 
 ID=31342141
-Amaryllis ^
+Amaryllis of Hatred
 
 ID=31342142
-Mad Manic ^
+Beholder of Hatred
 
 ID=31342143
-Asphalt Golem ^
+Asphalt Golem of Hatred
 
 ID=31342144
-Arachness ^
+Arachnis of Hatred
 
 ID=31342145
-Mad Manic ^
+Mad Beholder of Hatred
 
 ID=31342146
-Dreg Pupa ^
+Junk Cocoon of Hatred
 
 ID=31342147
-Dreg Pupa ^
+Junk Cocoon of Hatred
 
 ID=31342148
-Dreg Pupa ^
+Junk Cocoon of Hatred
 
 ID=31342149
-Woven Pupa ^
+Spider Cocoon of Hatred
 
 ID=31342150
-Defence Pupa ^
+Ominous Cocoon of Hatred
 
 ID=31342151
-EMP Mine ^
+EMP Main of Hatred
 
 ID=31342152
-Bombarder ^
+Artillery Guidance System of Hatred
 
 ID=31342153
-Charger ^
+Charging Device of Hatred
 
 ID=31342154
-Thorn Tentacle ^
+Prickly Tentacle of Hatred
 
 ID=31342155
-Thorn Tentacle ^
+Prickly Tentacle of Hatred
 
 ID=31342156
-Thorn Tentacle ^
+Prickly Tentacle of Hatred
 
 ID=31342157
-Thorn Tentacle ^
+Prickly Tentacle of Hatred
 
 ID=31342158
-Thorn Tentacle ^
+Prickly Tentacle of Hatred
 
 ID=31342159
-Thorn Tentacle ^
+Prickly Tentacle of Hatred
 
 ID=31342160
-Armour Skitter ^
+Heavy Cell of Hatred
 
 ID=31342161
-Charger ^
+Charging Device of Hatred
 
 ID=31342162
-Dreg Pupa ^
+Junk Cocoon of Hatred
 
 ID=31342163
-Recovery Pupa ^
+Healing Cocoon of Hatred
 
 ID=31342164
-Charger ^
+Charging Device of Hatred
 
 ID=31342165
-Charger ^
+Charging Device of Hatred
 
 ID=31342901
-Violet Murder ^
+Violet Murderess of Hatred
 
 ID=30346574
-Violet Murder ^
+Violet Murderess of Hatred
 
 ID=31352101
-Spine +
+Scone of Healing
 
 ID=31352102
-Granitoid +
+Wild Stone of Healing
 
 ID=31352103
-Void Prion +
+Vacuum Parasite of Healing
 
 ID=31352104
-Dark Skitter +
+Dark Cell of Healing
 
 ID=31352105
-Lil' Skitter +
+Small Cell of Healing
 
 ID=31352106
-Pike +
+Vacuum Vein of Healing
 
 ID=31352107
-Skitter +
+Cell of Healing
 
 ID=31352108
-N-65 +
+N-65 of Healing
 
 ID=31352109
-Canalmurin +
+Sewer Rat of Healing
 
 ID=31352110
-Debris +
+Wreckage of Healing
 
 ID=31352111
-Boulder Giant +
+Land Stone of Healing
 
 ID=31352112
-Gallus +
+Gallus of Healing
 
 ID=31352113
-Luga +
+Ruga of Healing
 
 ID=31352114
-Dark Mander +
+Dark Lizard of Healing
 
 ID=31352115
-Arachna Feint +
+Pawn Spider of Healing
 
 ID=31352116
-Kimbu Guard +
+Infected Guard of Healing
 
 ID=31352117
-Kimbu Kidda +
+Infected Girl of Healing
 
 ID=31352118
-S-00 +
+S-00 of Healing
 
 ID=31352119
-S-02 +
+S-02 of Healing
 
 ID=31352120
-Cytoborg +
+Habitant of Healing
 
 ID=31352121
-Hockmar +
+Hokmah of Healing
 
 ID=31352122
-Power Rager +
+Rampage of Healing
 
 ID=31352123
-Maimator +
+Bone Crusher of Healing
 
 ID=31352124
-S-01 +
+S-01 of Healing
 
 ID=31352125
-Mangrove Skitter +
+Mangrove Cell of Healing
 
 ID=31352126
-Dark Mutoid +
+Dark Mucus of Healing
 
 ID=31352127
-Warrage +
+Warlike of Healing
 
 ID=31352128
-Land Crusher +
+Land Crusher of Healing
 
 ID=31352129
-Gallasnis +
+Glasnis of Healing
 
 ID=31352130
-Steel Breaker +
+Iron Breaker of Healing
 
 ID=31352131
-Dark Caimanoc +
+Dark Alligator of Healing
 
 ID=31352132
-Vantaworm +
+Dark Worm of Healing
 
 ID=31352133
-Baalride +
+Junk Knight of Healing
 
 ID=31352134
-Venom Mutoid +
+Venom Mucus of Healing
 
 ID=31352135
-Crud Skitter +
+Crude Cell of Healing
 
 ID=31352136
-Melt Skitter +
+Meltiness Cell of Healing
 
 ID=31352137
-Arachna Drak +
+Duke Spider of Healing
 
 ID=31352138
-Gallasnis +
+Glasnis of Healing
 
 ID=31352139
-Steel Breaker +
+Iron Breaker of Healing
 
 ID=31352140
-Soul Reaver +
+Dignity Snatcher of Healing
 
 ID=31352141
-Amaryllis +
+Amaryllis of Healing
 
 ID=31352142
-Mad Manic +
+Beholder of Healing
 
 ID=31352143
-Asphalt Golem +
+Asphalt Golem of Healing
 
 ID=31352144
-Arachness +
+Arachnis of Healing
 
 ID=31352145
-Mad Manic +
+Mad Beholder of Healing
 
 ID=31352146
-Dreg Pupa +
+Junk Cocoon of Healing
 
 ID=31352147
-Dreg Pupa +
+Junk Cocoon of Healing
 
 ID=31352148
-Dreg Pupa +
+Junk Cocoon of Healing
 
 ID=31352149
-Woven Pupa +
+Spider Cocoon of Healing
 
 ID=31352150
-Defence Pupa +
+Ominous Cocoon of Healing
 
 ID=31352151
-EMP Mine +
+EMP Main of Healing
 
 ID=31352152
-Bombarder +
+Artillery Guidance System of Healing
 
 ID=31352153
-Charger +
+Charging Device of Healing
 
 ID=31352154
-Thorn Tentacle +
+Prickly Tentacle of Healing
 
 ID=31352155
-Thorn Tentacle +
+Prickly Tentacle of Healing
 
 ID=31352156
-Thorn Tentacle +
+Prickly Tentacle of Healing
 
 ID=31352157
-Thorn Tentacle +
+Prickly Tentacle of Healing
 
 ID=31352158
-Thorn Tentacle +
+Prickly Tentacle of Healing
 
 ID=31352159
-Thorn Tentacle +
+Prickly Tentacle of Healing
 
 ID=31352160
-Armour Skitter +
+Heavy Cell of Healing
 
 ID=31352161
-Charger +
+Charging Device of Healing
 
 ID=31352162
-Dreg Pupa +
+Junk Cocoon of Healing
 
 ID=31352163
-Recovery Pupa +
+Heal Cocoon of Healing
 
 ID=31352164
-Charger +
+Charging Device of Healing
 
 ID=31352165
-Charger +
+Charging Device of Healing
 
 ID=31352901
-Violet Murder +
+Violet Murderess of Healing
 
 ID=30356574
-Violet Murder +
+Violet Murderess of Healing
 
 ID=31362101
-Spine ¥
+Scone of Agony
 
 ID=31362102
-Granitoid ¥
+Wild Stone of Agony
 
 ID=31362103
-Void Prion ¥
+Vacuum Parasite of Agony
 
 ID=31362104
-Dark Skitter ¥
+Dark Cell of Agony
 
 ID=31362105
-Lil' Skitter ¥
+Small Cell of Agony
 
 ID=31362106
-Pike ¥
+Vacuum Vein of Agony
 
 ID=31362107
-Skitter ¥
+Cell of Agony
 
 ID=31362108
-N-65 ¥
+N-65 of Agony
 
 ID=31362109
-Canalmurin ¥
+Sewer Rat of Agony
 
 ID=31362110
-Debris ¥
+Wreckage of Agony
 
 ID=31362111
-Boulder Giant ¥
+Land Stone of Agony
 
 ID=31362112
-Gallus ¥
+Gallus of Agony
 
 ID=31362113
-Luga ¥
+Ruga of Agony
 
 ID=31362114
-Dark Mander ¥
+Dark Lizard of Agony
 
 ID=31362115
-Arachna Feint ¥
+Pawn Spider of Agony
 
 ID=31362116
-Kimbu Guard ¥
+Infected Guard of Agony
 
 ID=31362117
-Kimbu Kidda ¥
+Infected Girl of Agony
 
 ID=31362118
-S-00 ¥
+S-00 of Agony
 
 ID=31362119
-S-02 ¥
+S-02 of Agony
 
 ID=31362120
-Cytoborg ¥
+Habitant of Agony
 
 ID=31362121
-Hockmar ¥
+Hokmah of Agony
 
 ID=31362122
-Power Rager ¥
+Rampage of Agony
 
 ID=31362123
-Maimator ¥
+Bone Crusher of Agony
 
 ID=31362124
-S-01 ¥
+S-01 of Agony
 
 ID=31362125
-Mangrove Skitter ¥
+Mangrove Cell of Agony
 
 ID=31362126
-Dark Mutoid ¥
+Dark Mucus of Agony
 
 ID=31362127
-Warrage ¥
+Warlike of Agony
 
 ID=31362128
-Land Crusher ¥
+Land Crusher of Agony
 
 ID=31362129
-Gallasnis ¥
+Glasnis of Agony
 
 ID=31362130
-Steel Breaker ¥
+Iron Breaker of Agony
 
 ID=31362131
-Dark Caimanoc ¥
+Dark Alligator of Agony
 
 ID=31362132
-Vantaworm ¥
+Dark Worm of Agony
 
 ID=31362133
-Baalride ¥
+Junk Knight of Agony
 
 ID=31362134
-Venom Mutoid ¥
+Venom Mucus of Agony
 
 ID=31362135
-Crud Skitter ¥
+Crude Cell of Agony
 
 ID=31362136
-Melt Skitter ¥
+Meltiness Cell of Agony
 
 ID=31362137
-Arachna Drak ¥
+Duke Spider of Agony
 
 ID=31362138
-Gallasnis ¥
+Glasnis of Agony
 
 ID=31362139
-Steel Breaker ¥
+Iron Breaker of Agony
 
 ID=31362140
-Soul Reaver ¥
+Dignity Snatcher of Agony
 
 ID=31362141
-Amaryllis ¥
+Amaryllis of Agony
 
 ID=31362142
-Mad Manic ¥
+Beholder of Agony
 
 ID=31362143
-Asphalt Golem ¥
+Asphalt Golem of Agony
 
 ID=31362144
-Arachness ¥
+Arachnis of Agony
 
 ID=31362145
-Mad Manic ¥
+Mad Beholder of Agony
 
 ID=31362146
-Dreg Pupa ¥
+Junk Cocoon of Agony
 
 ID=31362147
-Dreg Pupa ¥
+Junk Cocoon of Agony
 
 ID=31362148
-Dreg Pupa ¥
+Junk Cocoon of Agony
 
 ID=31362149
-Woven Pupa ¥
+Spider Cocoon of Agony
 
 ID=31362150
-Defence Pupa ¥
+Ominous Cocoon of Agony
 
 ID=31362151
-EMP Mine ¥
+EMP Main of Agony
 
 ID=31362152
-Bombarder ¥
+Artillery Guidance System of Agony
 
 ID=31362153
-Charger ¥
+Charging Device of Agony
 
 ID=31362154
-Thorn Tentacle ¥
+Prickly Tentacle of Agony
 
 ID=31362155
-Thorn Tentacle ¥
+Prickly Tentacle of Agony
 
 ID=31362156
-Thorn Tentacle ¥
+Prickly Tentacle of Agony
 
 ID=31362157
-Thorn Tentacle ¥
+Prickly Tentacle of Agony
 
 ID=31362158
-Thorn Tentacle ¥
+Prickly Tentacle of Agony
 
 ID=31362159
-Thorn Tentacle ¥
+Prickly Tentacle of Agony
 
 ID=31362160
-Armour Skitter ¥
+Heavy Cell of Agony
 
 ID=31362161
-Charger ¥
+Charging Device of Agony
 
 ID=31362162
-Dreg Pupa ¥
+Junk Cocoon of Agony
 
 ID=31362163
-Recovery Pupa ¥
+Heal Cocoon of Agony
 
 ID=31362164
-Charger ¥
+Charging Device of Agony
 
 ID=31362165
-Charger ¥
+Charging Device of Agony
 
 ID=31362901
-Violet Murder ¥
+Violet Murderess of Agony
 
 ID=30366574
-Violet Murder ¥
+Violet Murderess of Agony
 
 ID=31313101
-Little Red ¤
+Red Hood of Brilliance
 
 ID=31313102
-Bulbcap ¤
+Uneven Hood of Brilliance
 
 ID=31313103
-Wild Pinku ¤
+Wild Beak of Brilliance
 
 ID=31313104
-Wild Sabreclaw ¤
+Wild Beast Fang of Brilliance
 
 ID=31313105
-Argus Gaour ¤
+Intention Garuda of Brilliance
 
 ID=31313106
-Pugilist ¤
+Pistol of Brilliance
 
 ID=31313107
-Hex Pytho ¤
+Zin Python of Brilliance
 
 ID=31313108
-Steel Shinobi ¤
+Marauder of Brilliance
 
 ID=31313109
-Chaser ¤
+Chaser of Brilliance
 
 ID=31313110
-Hex Caster ¤
+Zin Summoner of Brilliance
 
 ID=31313111
-Taifon ¤
+Tempest of Brilliance
 
 ID=31313112
-Charclops ¤
+Crimson Beast of Brilliance
 
 ID=31313113
-Big Buddha ¤
+Big Butcher of Brilliance
 
 ID=31313114
-Ark Steeleron ¤
+Zin Steel of Brilliance
 
 ID=31313115
-Hex Pugilist ¤
+Zin Pistol of Brilliance
 
 ID=31313116
-Armour Gaour ¤
+Armored Garuda of Brilliance
 
 ID=31313117
-Shadow Dancer ¤
+Dancing Shadow of Brilliance
 
 ID=31313118
-Dualstalker ¤
+Death Stalker of Brilliance
 
 ID=31313119
-Argus Caster ¤
+Intention Summoner of Brilliance
 
 ID=31313120
-Dark Gauntillus ¤
+Black Gauntlet of Brilliance
 
 ID=31313121
-Steeleron Tank ¤
+Armor Steel of Brilliance
 
 ID=31313122
-Hellanko ¤
+Hell Enforcer of Brilliance
 
 ID=31313123
-Hex Hound ¤
+Zin Chaser of Brilliance
 
 ID=31313124
-Venin ¤
+Venin of Brilliance
 
 ID=31313125
-Redmane ¤
+Red Mane of Brilliance
 
 ID=31313126
-Steel Leg ¤
+Single Leg of Brilliance
 
 ID=31313127
-Rageface ¤
+Scarlet Mask of Brilliance
 
 ID=31313128
-Queen Gaour ¤
+Queen Garuda of Brilliance
 
 ID=31313129
-Whiteclaw ¤
+White Fang of Brilliance
 
 ID=31313130
-Nether Collector ¤
+Hell Collector of Brilliance
 
 ID=31313131
-Taifon ¤
+Tempest of Brilliance
 
 ID=31313132
-Pugilist ¤
+Pistol of Brilliance
 
 ID=31313133
-Hex Pytho ¤
+Zin Python of Brilliance
 
 ID=31313134
-Wild Sabreclaw ¤
+Wild Beast Fang of Brilliance
 
 ID=31313135
-Hex Caster ¤
+Zin Summoner of Brilliance
 
 ID=31313136
-Chaser ¤
+Chaser of Brilliance
 
 ID=31313137
-G. Blaze Taifon ¤
+Flame Tempest of Brilliance
 
 ID=31313138
-Steel Shinobi ¤
+Marauder of Brilliance
 
 ID=31313139
-Steel Shinobi ¤
+Marauder of Brilliance
 
 ID=31313500
-Blast Shield ¤
+Protective Wall of Brilliance
 
 ID=31313501
-Barricade ¤
+Barricade of Brilliance
 
 ID=31313502
-Car ¤
+Car of Brilliance
 
 ID=31313503
-Hydrant ¤
+Fire Hydrant of Brilliance
 
 ID=31313504
-Dumpster ¤
+Large Garbage Can of Brilliance
 
 ID=31313505
-Barrel ¤
+Waste Solution Drum of Brilliance
 
 ID=31313506
-Car ¤
+Car of Brilliance
 
 ID=31313507
-Tyres ¤
+Stack of Tires of Brilliance
 
 ID=31313508
-Traffic Cone¤
+Orange Barrel of Brilliance
 
 ID=31313509
-Rapid Gate ¤
+Rapid Gate of Brilliance
 
 ID=31313510
-Tipped Container ¤
+Drop Container of Brilliance
 
 ID=31313511
-Tipped Container ¤
+Drop Container of Brilliance
 
 ID=31313901
-Kurisu Baishem ¤
+Phantom Shadow of Brilliance
 
 ID=31313902
-Kurisu Baishem ¤
+Phantom Shadow of Brilliance
 
 ID=31313903
-Kurisu Baishem ¤
+Phantom Shadow of Brilliance
 
 ID=31313904
-Kurisu Baishem ¤
+Phantom Shadow of Brilliance
 
 ID=31313905
-Kurisu Baishem ¤
+Phantom Shadow of Brilliance
 
 ID=31313906
-Kurisu Baishem ¤
+Phantom Shadow of Brilliance
 
 ID=31313907
-Kurisu Baishem ¤
+Phantom Shadow of Brilliance
 
 ID=31323101
-Little Red ¢
+Red Hood of Malice
 
 ID=31323102
-Bulbcap ¢
+Uneven Hood of Malice
 
 ID=31323103
-Wild Pinku ¢
+Wild Beak of Malice
 
 ID=31323104
-Wild Sabreclaw ¢
+Wild Beast Fang of Malice
 
 ID=31323105
-Argus Gaour ¢
+Intention Garuda of Malice
 
 ID=31323106
-Pugilist ¢
+Pistol of Malice
 
 ID=31323107
-Hex Pytho ¢
+Zin Python of Malice
 
 ID=31323108
-Steel Shinobi ¢
+Marauder of Malice
 
 ID=31323109
-Chaser ¢
+Chaser of Malice
 
 ID=31323110
-Hex Caster ¢
+Zin Summoner of Malice
 
 ID=31323111
-Taifon ¢
+Tempest of Malice
 
 ID=31323112
-Charclops ¢
+Crimson Beast of Malice
 
 ID=31323113
-Big Buddha ¢
+Big Butcher of Malice
 
 ID=31323114
-Ark Steeleron ¢
+Zin Steel of Malice
 
 ID=31323115
-Hex Pugilist ¢
+Zin Pistol of Malice
 
 ID=31323116
-Armour Gaour ¢
+Armored Garuda of Malice
 
 ID=31323117
-Shadow Dancer ¢
+Dancing Shadow of Malice
 
 ID=31323118
-Dualstalker ¢
+Death Stalker of Malice
 
 ID=31323119
-Argus Caster ¢
+Intention Summoner of Malice
 
 ID=31323120
-Dark Gauntillus ¢
+Black Gauntlet of Malice
 
 ID=31323121
-Steeleron Tank ¢
+Armor Steel of Malice
 
 ID=31323122
-Hellanko ¢
+Hell Enforcer of Malice
 
 ID=31323123
-Hex Hound ¢
+Zin Chaser of Malice
 
 ID=31323124
-Venin ¢
+Venin of Malice
 
 ID=31323125
-Redmane ¢
+Red Mane of Malice
 
 ID=31323126
-Steel Leg ¢
+Single Leg of Malice
 
 ID=31323127
-Rageface ¢
+Scarlet Mask of Malice
 
 ID=31323128
-Queen Gaour ¢
+Queen Garuda of Malice
 
 ID=31323129
-Whiteclaw ¢
+White Fang of Malice
 
 ID=31323130
-Nether Collector ¢
+Hell Collector of Malice
 
 ID=31323131
-Taifon ¢
+Tempest of Malice
 
 ID=31323132
-Pugilist ¢
+Pistol of Malice
 
 ID=31323133
-Hex Pytho ¢
+Zin Python of Malice
 
 ID=31323134
-Wild Sabreclaw ¢
+Wild Beast Fang of Malice
 
 ID=31323135
-Hex Caster ¢
+Zin Summoner of Malice
 
 ID=31323136
-Chaser ¢
+Chaser of Malice
 
 ID=31323137
-G. Blaze Taifon ¢
+Flame Tempest of Malice
 
 ID=31323138
-Steel Shinobi ¢
+Marauder of Malice
 
 ID=31323139
-Steel Shinobi ¢
+Marauder of Malice
 
 ID=31323500
-Blast Shield ¢
+Protective Wall of Malice
 
 ID=31323501
-Barricade ¢
+Barricade of Malice
 
 ID=31323502
-Car ¢
+Car of Malice
 
 ID=31323503
-Hydrant ¢
+Fire Hydrant of Malice
 
 ID=31323504
-Dumpster ¢
+Large Garbage Can of Malice
 
 ID=31323505
-Barrel ¢
+Waste Solution Drum of Malice
 
 ID=31323506
-Car ¢
+Car of Malice
 
 ID=31323507
-Tyres ¢
+Stack of Tires of Malice
 
 ID=31323508
-Traffic Cone¢
+Orange Barrel of Malice
 
 ID=31323509
-Rapid Gate ¢
+Rapid Gate of Malice
 
 ID=31323510
-Tipped Container ¢
+Drop Container of Malice
 
 ID=31323511
-Tipped Container ¢
+Drop Container of Malice
 
 ID=31323901
-Kurisu Baishem ¢
+Phantom Shadow of Malice
 
 ID=31323902
-Kurisu Baishem ¢
+Phantom Shadow of Malice
 
 ID=31323903
-Kurisu Baishem ¢
+Phantom Shadow of Malice
 
 ID=31323904
-Kurisu Baishem ¢
+Phantom Shadow of Malice
 
 ID=31323905
-Kurisu Baishem ¢
+Phantom Shadow of Malice
 
 ID=31323906
-Kurisu Baishem ¢
+Phantom Shadow of Malice
 
 ID=31323907
-Kurisu Baishem ¢
+Phantom Shadow of Malice
 
 ID=31333101
-Little Red ×
+Red Hood of Serenity
 
 ID=31333102
-Bulbcap ×
+Uneven Hood of Serenity
 
 ID=31333103
-Wild Pinku ×
+Wild Beak of Serenity
 
 ID=31333104
-Wild Sabreclaw ×
+Wild Beast Fang of Serenity
 
 ID=31333105
-Argus Gaour ×
+Intention Garuda of Serenity
 
 ID=31333106
-Pugilist ×
+Pistol of Serenity
 
 ID=31333107
-Hex Pytho ×
+Zin Python of Serenity
 
 ID=31333108
-Steel Shinobi ×
+Marauder of Serenity
 
 ID=31333109
-Chaser ×
+Chaser of Serenity
 
 ID=31333110
-Hex Caster ×
+Zin Summoner of Serenity
 
 ID=31333111
-Taifon ×
+Tempest of Serenity
 
 ID=31333112
-Charclops ×
+Crimson Beast of Serenity
 
 ID=31333113
-Big Buddha ×
+Big Butcher of Serenity
 
 ID=31333114
-Ark Steeleron ×
+Zin Steel of Serenity
 
 ID=31333115
-Hex Pugilist ×
+Zin Pistol of Serenity
 
 ID=31333116
-Armour Gaour ×
+Armored Garuda of Serenity
 
 ID=31333117
-Shadow Dancer ×
+Dancing Shadow of Serenity
 
 ID=31333118
-Dualstalker ×
+Death Stalker of Serenity
 
 ID=31333119
-Argus Caster ×
+Intention Summoner of Serenity
 
 ID=31333120
-Dark Gauntillus ×
+Black Gauntlet of Serenity
 
 ID=31333121
-Steeleron Tank ×
+Armor Steel of Serenity
 
 ID=31333122
-Hellanko ×
+Hell Enforcer of Serenity
 
 ID=31333123
-Hex Hound ×
+Zin Chaser of Serenity
 
 ID=31333124
-Venin ×
+Venin of Serenity
 
 ID=31333125
-Redmane ×
+Red Mane of Serenity
 
 ID=31333126
-Steel Leg ×
+Single Leg of Serenity
 
 ID=31333127
-Rageface ×
+Scarlet Mask of Serenity
 
 ID=31333128
-Queen Gaour ×
+Queen Garuda of Serenity
 
 ID=31333129
-Whiteclaw ×
+White Fang of Serenity
 
 ID=31333130
-Nether Collector ×
+Hell Collector of Serenity
 
 ID=31333131
-Taifon ×
+Tempest of Serenity
 
 ID=31333132
-Pugilist ×
+Pistol of Serenity
 
 ID=31333133
-Hex Pytho ×
+Zin Python of Serenity
 
 ID=31333134
-Wild Sabreclaw ×
+Wild Beast Fang of Serenity
 
 ID=31333135
-Hex Caster ×
+Zin Summoner of Serenity
 
 ID=31333136
-Chaser ×
+Chaser of Serenity
 
 ID=31333137
-G. Blaze Taifon ×
+Flame Tempest of Serenity
 
 ID=31333138
-Steel Shinobi ×
+Marauder of Serenity
 
 ID=31333139
-Steel Shinobi ×
+Marauder of Serenity
 
 ID=31333500
-Blast Shield ×
+Protective Wall of Serenity
 
 ID=31333501
-Barricade ×
+Barricade of Serenity
 
 ID=31333502
-Car ×
+Car of Serenity
 
 ID=31333503
-Hydrant ×
+Fire Hydrant of Serenity
 
 ID=31333504
-Dumpster ×
+Large Garbage Can of Serenity
 
 ID=31333505
-Barrel ×
+Waste Solution Drum of Serenity
 
 ID=31333506
-Car ×
+Car of Serenity
 
 ID=31333507
-Tyres ×
+Stack of Tires of Serenity
 
 ID=31333508
-Traffic Cone×
+Orange Barrel of Serenity
 
 ID=31333509
-Rapid Gate ×
+Rapid Gate of Serenity
 
 ID=31333510
-Tipped Container ×
+Drop Container of Serenity
 
 ID=31333511
-Tipped Container ×
+Drop Container of Serenity
 
 ID=31333901
-Kurisu Baishem ×
+Phantom Shadow of Serenity
 
 ID=31333902
-Kurisu Baishem ×
+Phantom Shadow of Serenity
 
 ID=31333903
-Kurisu Baishem ×
+Phantom Shadow of Serenity
 
 ID=31333904
-Kurisu Baishem ×
+Phantom Shadow of Serenity
 
 ID=31333905
-Kurisu Baishem ×
+Phantom Shadow of Serenity
 
 ID=31333906
-Kurisu Baishem ×
+Phantom Shadow of Serenity
 
 ID=31333907
-Kurisu Baishem ×
+Phantom Shadow of Serenity
 
 ID=31343101
-Little Red ^
+Red Hood of Hatred
 
 ID=31343102
-Bulbcap ^
+Uneven Hood of Hatred
 
 ID=31343103
-Wild Pinku ^
+Wild Beak of Hatred
 
 ID=31343104
-Wild Sabreclaw ^
+Wild Beast Fang of Hatred
 
 ID=31343105
-Argus Gaour ^
+Intention Garuda of Hatred
 
 ID=31343106
-Pugilist ^
+Pistol of Hatred
 
 ID=31343107
-Hex Pytho ^
+Zin Python of Hatred
 
 ID=31343108
-Steel Shinobi ^
+Marauder of Hatred
 
 ID=31343109
-Chaser ^
+Chaser of Hatred
 
 ID=31343110
-Hex Caster ^
+Zin Summoner of Hatred
 
 ID=31343111
-Taifon ^
+Tempest of Hatred
 
 ID=31343112
-Charclops ^
+Crimson Beast of Hatred
 
 ID=31343113
-Big Buddha ^
+Big Butcher of Hatred
 
 ID=31343114
-Ark Steeleron ^
+Zin Steel of Hatred
 
 ID=31343115
-Hex Pugilist ^
+Zin Pistol of Hatred
 
 ID=31343116
-Armour Gaour ^
+Armored Garuda of Hatred
 
 ID=31343117
-Shadow Dancer ^
+Dancing Shadow of Hatred
 
 ID=31343118
-Dualstalker ^
+Death Stalker of Hatred
 
 ID=31343119
-Argus Caster ^
+Intention Summoner of Hatred
 
 ID=31343120
-Dark Gauntillus ^
+Black Gauntlet of Hatred
 
 ID=31343121
-Steeleron Tank ^
+Armor Steel of Hatred
 
 ID=31343122
-Hellanko ^
+Hell Enforcer of Hatred
 
 ID=31343123
-Hex Hound ^
+Zin Chaser of Hatred
 
 ID=31343124
-Venin ^
+Venin of Hatred
 
 ID=31343125
-Redmane ^
+Red Mane of Hatred
 
 ID=31343126
-Steel Leg ^
+Single Leg of Hatred
 
 ID=31343127
-Rageface ^
+Scarlet Mask of Hatred
 
 ID=31343128
-Queen Gaour ^
+Queen Garuda of Hatred
 
 ID=31343129
-Whiteclaw ^
+White Fang of Hatred
 
 ID=31343130
-Nether Collector ^
+Hell Collector of Hatred
 
 ID=31343131
-Taifon ^
+Tempest of Hatred
 
 ID=31343132
-Pugilist ^
+Pistol of Hatred
 
 ID=31343133
-Hex Pytho ^
+Zin Python of Hatred
 
 ID=31343134
-Wild Sabreclaw ^
+Wild Beast Fang of Hatred
 
 ID=31343135
-Hex Caster ^
+Zin Summoner of Hatred
 
 ID=31343136
-Chaser ^
+Chaser of Hatred
 
 ID=31343137
-G. Blaze Taifon ^
+Flame Tempest of Hatred
 
 ID=31343138
-Steel Shinobi ^
+Marauder of Hatred
 
 ID=31343139
-Steel Shinobi ^
+Marauder of Hatred
 
 ID=31343500
-Blast Shield ^
+Protective Wall of Hatred
 
 ID=31343501
-Barricade ^
+Barricade of Hatred
 
 ID=31343502
-Car ^
+Car of Hatred
 
 ID=31343503
-Hydrant ^
+Fire Hydrant of Hatred
 
 ID=31343504
-Dumpster ^
+Large Garbage Can of Hatred
 
 ID=31343505
-Barrel ^
+Waste Solution Drum of Hatred
 
 ID=31343506
-Car ^
+Car of Hatred
 
 ID=31343507
-Tyres ^
+Stack of Tires of Hatred
 
 ID=31343508
-Traffic Cone^
+Orange Barrel of Hatred
 
 ID=31343509
-Rapid Gate ^
+Rapid Gate of Hatred
 
 ID=31343510
-Tipped Container ^
+Drop Container of Hatred
 
 ID=31343511
-Tipped Container ^
+Drop Container of Hatred
 
 ID=31343901
-Kurisu Baishem ^
+Phantom Shadow of Hatred
 
 ID=31343902
-Kurisu Baishem ^
+Phantom Shadow of Hatred
 
 ID=31343903
-Kurisu Baishem ^
+Phantom Shadow of Hatred
 
 ID=31343904
-Kurisu Baishem ^
+Phantom Shadow of Hatred
 
 ID=31343905
-Kurisu Baishem ^
+Phantom Shadow of Hatred
 
 ID=31343906
-Kurisu Baishem ^
+Phantom Shadow of Hatred
 
 ID=31343907
-Kurisu Baishem ^
+Phantom Shadow of Hatred
 
 ID=31353101
-Little Red +
+Red Hood of Healing
 
 ID=31353102
-Bulbcap +
+Uneven Hood of Healing
 
 ID=31353103
-Wild Pinku +
+Wild Beak of Healing
 
 ID=31353104
-Wild Sabreclaw +
+Wild Beast Fang of Healing
 
 ID=31353105
-Argus Gaour +
+Intention Garuda of Healing
 
 ID=31353106
-Pugilist +
+Pistol of Healing
 
 ID=31353107
-Hex Pytho +
+Zin Python of Healing
 
 ID=31353108
-Steel Shinobi +
+Marauder of Healing
 
 ID=31353109
-Chaser +
+Chaser of Healing
 
 ID=31353110
-Hex Caster +
+Zin Summoner of Healing
 
 ID=31353111
-Taifon +
+Tempest of Healing
 
 ID=31353112
-Charclops +
+Crimson Beast of Healing
 
 ID=31353113
-Big Buddha +
+Big Butcher of Healing
 
 ID=31353114
-Ark Steeleron +
+Zin Steel of Healing
 
 ID=31353115
-Hex Pugilist +
+Zin Pistol of Healing
 
 ID=31353116
-Armour Gaour +
+Armored Garuda of Healing
 
 ID=31353117
-Shadow Dancer +
+Dancing Shadow of Healing
 
 ID=31353118
-Dualstalker +
+Death Stalker of Healing
 
 ID=31353119
-Argus Caster +
+Intention Summoner of Healing
 
 ID=31353120
-Dark Gauntillus +
+Black Gauntlet of Healing
 
 ID=31353121
-Steeleron Tank +
+Armor Steel of Healing
 
 ID=31353122
-Hellanko +
+Hell Enforcer of Healing
 
 ID=31353123
-Hex Hound +
+Zin Chaser of Healing
 
 ID=31353124
-Venin +
+Venin of Healing
 
 ID=31353125
-Redmane +
+Red Mane of Healing
 
 ID=31353126
-Steel Leg +
+Single Leg of Healing
 
 ID=31353127
-Rageface +
+Scarlet Mask of Healing
 
 ID=31353128
-Queen Gaour +
+Queen Garuda of Healing
 
 ID=31353129
-Whiteclaw +
+White Fang of Healing
 
 ID=31353130
-Nether Collector +
+Hell Collector of Healing
 
 ID=31353131
-Taifon +
+Tempest of Healing
 
 ID=31353132
-Pugilist +
+Pistol of Healing
 
 ID=31353133
-Hex Pytho +
+Zin Python of Healing
 
 ID=31353134
-Wild Sabreclaw +
+Wild Beast Fang of Healing
 
 ID=31353135
-Hex Caster +
+Zin Summoner of Healing
 
 ID=31353136
-Chaser +
+Chaser of Healing
 
 ID=31353137
-G. Blaze Taifon +
+Flame Tempest of Healing
 
 ID=31353138
-Steel Shinobi +
+Marauder of Healing
 
 ID=31353139
-Steel Shinobi +
+Marauder of Healing
 
 ID=31353500
-Blast Shield +
+Protective Wall of Healing
 
 ID=31353501
-Barricade +
+Barricade of Healing
 
 ID=31353502
-Car +
+Car of Healing
 
 ID=31353503
-Hydrant +
+Fire Hydrant of Healing
 
 ID=31353504
-Dumpster +
+Large Garbage Can of Healing
 
 ID=31353505
-Barrel +
+Waste Solution Drum of Healing
 
 ID=31353506
-Car +
+Car of Healing
 
 ID=31353507
-Tyres +
+Stack of Tires of Healing
 
 ID=31353508
-Traffic Cone+
+Orange Barrel of Healing
 
 ID=31353509
-Rapid Gate +
+Rapid Gate of Healing
 
 ID=31353510
-Tipped Container +
+Drop Container of Healing
 
 ID=31353511
-Tipped Container +
+Drop Container of Healing
 
 ID=31353901
-Kurisu Baishem +
+Phantom Shadow of Healing
 
 ID=31353902
-Kurisu Baishem +
+Phantom Shadow of Healing
 
 ID=31353903
-Kurisu Baishem +
+Phantom Shadow of Healing
 
 ID=31353904
-Kurisu Baishem +
+Phantom Shadow of Healing
 
 ID=31353905
-Kurisu Baishem +
+Phantom Shadow of Healing
 
 ID=31353906
-Kurisu Baishem +
+Phantom Shadow of Healing
 
 ID=31353907
-Kurisu Baishem +
+Phantom Shadow of Healing
 
 ID=31363101
-Little Red ¥
+Red Hood of Agony
 
 ID=31363102
-Bulbcap ¥
+Uneven Hood of Agony
 
 ID=31363103
-Wild Pinku ¥
+Wild Beak of Agony
 
 ID=31363104
-Wild Sabreclaw ¥
+Wild Beast Fang of Agony
 
 ID=31363105
-Argus Gaour ¥
+Intention Garuda of Agony
 
 ID=31363106
-Pugilist ¥
+Pistol of Agony
 
 ID=31363107
-Hex Pytho ¥
+Zin Python of Agony
 
 ID=31363108
-Steel Shinobi ¥
+Marauder of Agony
 
 ID=31363109
-Chaser ¥
+Chaser of Agony
 
 ID=31363110
-Hex Caster ¥
+Zin Summoner of Agony
 
 ID=31363111
-Taifon ¥
+Tempest of Agony
 
 ID=31363112
-Charclops ¥
+Crimson Beast of Agony
 
 ID=31363113
-Big Buddha ¥
+Big Butcher of Agony
 
 ID=31363114
-Ark Steeleron ¥
+Zin Steel of Agony
 
 ID=31363115
-Hex Pugilist ¥
+Zin Pistol of Agony
 
 ID=31363116
-Armour Gaour ¥
+Armored Garuda of Agony
 
 ID=31363117
-Shadow Dancer ¥
+Dancing Shadow of Agony
 
 ID=31363118
-Dualstalker ¥
+Death Stalker of Agony
 
 ID=31363119
-Argus Caster ¥
+Intention Summoner of Agony
 
 ID=31363120
-Dark Gauntillus ¥
+Black Gauntlet of Agony
 
 ID=31363121
-Steeleron Tank ¥
+Armor Steel of Agony
 
 ID=31363122
-Hellanko ¥
+Hell Enforcer of Agony
 
 ID=31363123
-Hex Hound ¥
+Zin Chaser of Agony
 
 ID=31363124
-Venin ¥
+Venin of Agony
 
 ID=31363125
-Redmane ¥
+Red Mane of Agony
 
 ID=31363126
-Steel Leg ¥
+Single Leg of Agony
 
 ID=31363127
-Rageface ¥
+Scarlet Mask of Agony
 
 ID=31363128
-Queen Gaour ¥
+Queen Garuda of Agony
 
 ID=31363129
-Whiteclaw ¥
+White Fang of Agony
 
 ID=31363130
-Nether Collector ¥
+Hell Collector of Agony
 
 ID=31363131
-Taifon ¥
+Tempest of Agony
 
 ID=31363132
-Pugilist ¥
+Pistol of Agony
 
 ID=31363133
-Hex Pytho ¥
+Zin Python of Agony
 
 ID=31363134
-Wild Sabreclaw ¥
+Wild Beast Fang of Agony
 
 ID=31363135
-Hex Caster ¥
+Zin Summoner of Agony
 
 ID=31363136
-Chaser ¥
+Chaser of Agony
 
 ID=31363137
-G. Blaze Taifon ¥
+Flame Tempest of Agony
 
 ID=31363138
-Steel Shinobi ¥
+Marauder of Agony
 
 ID=31363139
-Steel Shinobi ¥
+Marauder of Agony
 
 ID=31363500
-Blast Shield ¥
+Protective Wall of Agony
 
 ID=31363501
-Barricade ¥
+Barricade of Agony
 
 ID=31363502
-Car ¥
+Car of Agony
 
 ID=31363503
-Hydrant ¥
+Fire Hydrant of Agony
 
 ID=31363504
-Dumpster ¥
+Large Garbage Can of Agony
 
 ID=31363505
-Barrel ¥
+Waste Solution Drum of Agony
 
 ID=31363506
-Car ¥
+Car of Agony
 
 ID=31363507
-Tyres ¥
+Stack of Tires of Agony
 
 ID=31363508
-Traffic Cone¥
+Orange Barrel of Agony
 
 ID=31363509
-Rapid Gate ¥
+Rapid Gate of Agony
 
 ID=31363510
-Tipped Container ¥
+Drop Container of Agony
 
 ID=31363511
-Tipped Container ¥
+Drop Container of Agony
 
 ID=31363901
-Kurisu Baishem ¥
+Phantom Shadow of Agony
 
 ID=31363902
-Kurisu Baishem ¥
+Phantom Shadow of Agony
 
 ID=31363903
-Kurisu Baishem ¥
+Phantom Shadow of Agony
 
 ID=31363904
-Kurisu Baishem ¥
+Phantom Shadow of Agony
 
 ID=31363905
-Kurisu Baishem ¥
+Phantom Shadow of Agony
 
 ID=31363906
-Kurisu Baishem ¥
+Phantom Shadow of Agony
 
 ID=31363907
-Kurisu Baishem ¥
+Phantom Shadow of Agony
 
 ID=31314101
-eRobo ¤
+E-Deliverer of Brilliance
 
 ID=31314102
-Tracker ¤
+Tracker of Brilliance
 
 ID=31314103
-Dronimo ¤
+Drone Zero of Brilliance
 
 ID=31314104
-Assault Drone ¤
+Assault Drone of Brilliance
 
 ID=31314105
-Sabrewolf ¤
+Blade Wolf of Brilliance
 
 ID=31314106
-Arachna ¤
+Spider of Brilliance
 
 ID=31314107
-Sentron ¤
+Sentry of Brilliance
 
 ID=31314108
-Sentron Gunner ¤
+Sentry Gunner of Brilliance
 
 ID=31314109
-Multi Reaper ¤
+Assault Cutthroat of Brilliance
 
 ID=31314110
-Maton Uriel ¤
+Auto Punisher of Brilliance
 
 ID=31314111
-Ato Firelord ¤
+Auto Fire Ruler of Brilliance
 
 ID=31314112
-Lithos Quaker ¤
+Earthquaker of Brilliance
 
 ID=31314113
-Dominio ¤
+Domineer of Brilliance
 
 ID=31314114
-Gishin ¤
+Ghost of Brilliance
 
 ID=31314115
-Onslaught Drone ¤
+Assault War Drone of Brilliance
 
 ID=31314116
-Armour Sentron ¤
+Heavy Sentry of Brilliance
 
 ID=31314117
-Plunder Sabrewolf¤
+Assault Blade Wolf of Brilliance
 
 ID=31314118
-Arachna Null ¤
+Spider Zero of Brilliance
 
 ID=31314119
-Shock Splitter ¤
+Sprinter of Brilliance
 
 ID=31314120
-Gishin-00 ¤
+Ghost Zero of Brilliance
 
 ID=31314121
-Armour Dominio ¤
+Heavy Domineer of Brilliance
 
 ID=31314122
-Hell Wheel ¤
+Devil's Wheel of Brilliance
 
 ID=31314123
-Death Raptor ¤
+Death Raptor of Brilliance
 
 ID=31314124
-Ruinator ¤
+Road Buster of Brilliance
 
 ID=31314125
-Sentron CDR ¤
+Sentry Commander of Brilliance
 
 ID=31314126
-G. Lithos Quaker ¤
+Heavy Earthquaker of Brilliance
 
 ID=31314127
-Dominio-00 ¤
+Domineer Zero of Brilliance
 
 ID=31314128
-Mistral ¤
+Sköll of Brilliance
 
 ID=31314129
-Howler ¤
+Hati of Brilliance
 
 ID=31314130
-Fenrir ¤
+Fenris of Brilliance
 
 ID=31314131
-Grave Massacrops ¤
+Heavy War Solver of Brilliance
 
 ID=31314132
-Destructor S ¤
+Heavy Sprinter of Brilliance
 
 ID=31314133
-Arachna Kill ¤
+Assault Spider of Brilliance
 
 ID=31314134
-Armour Uriel ¤
+Heavy Punisher of Brilliance
 
 ID=31314135
-Flamelord ¤
+Heavy Fire Ruler of Brilliance
 
 ID=31314136
-Genozidion ¤
+Genocider of Brilliance
 
 ID=31314137
-Aggro Gishin ¤
+Assault Ghost of Brilliance
 
 ID=31314138
-Pincer ¤
+Grasper of Brilliance
 
 ID=31314139
-Uriel Omega ¤
+Punisher Omega of Brilliance
 
 ID=31314140
-Tracker ¤
+Tracker of Brilliance
 
 ID=31314141
-EMP Mine ¤
+EMP Main of Brilliance
 
 ID=31314142
-Armour Uriel ¤
+Heavy Punisher of Brilliance
 
 ID=31314143
-Flamelord ¤
+Heavy Fire Ruler of Brilliance
 
 ID=31314500
-Acheron Barricade¤
+Acheron Barricade of Brilliance
 
 ID=31314501
-NED Box ¤
+NED Company Box of Brilliance
 
 ID=31314502
-Defect eRobo ¤
+Broken E-Deliverer of Brilliance
 
 ID=31314503
-Base Defence Core¤
+Base Defense Core of Brilliance
 
 ID=31314504
-Mobile Driller ¤
+Mobile Drill of Brilliance
 
 ID=31314505
-Blast Gate ¤
+Blocking Gate of Brilliance
 
 ID=31314506
-Energy Sphere ¤
+Electric Ball of Brilliance
 
 ID=31314507
-Emission Ring ¤
+Ejector Nozzle of Brilliance
 
 ID=31314508
-Central Core ¤
+Main Core of Brilliance
 
 ID=31314509
-Generator ¤
+Power Driving Device of Brilliance
 
 ID=31314510
-Pounder ¤
+Pile Driver of Brilliance
 
 ID=31314511
-Blast Gate ¤
+Blocking Gate of Brilliance
 
 ID=31314901
-Bunker Bot-00 ¤
+Sieg Prototype Zero of Brilliance
 
 ID=31324101
-eRobo ¢
+E-Deliverer of Malice
 
 ID=31324102
-Tracker ¢
+Tracker of Malice
 
 ID=31324103
-Dronimo ¢
+Drone Zero of Malice
 
 ID=31324104
-Assault Drone ¢
+Assault Drone of Malice
 
 ID=31324105
-Sabrewolf ¢
+Blade Wolf of Malice
 
 ID=31324106
-Arachna ¢
+Spider of Malice
 
 ID=31324107
-Sentron ¢
+Sentry of Malice
 
 ID=31324108
-Sentron Gunner ¢
+Sentry Gunner of Malice
 
 ID=31324109
-Multi Reaper ¢
+Assault Cutthroat of Malice
 
 ID=31324110
-Maton Uriel ¢
+Auto Punisher of Malice
 
 ID=31324111
-Ato Firelord ¢
+Auto Fire Ruler of Malice
 
 ID=31324112
-Lithos Quaker ¢
+Earthquaker of Malice
 
 ID=31324113
-Dominio ¢
+Domineer of Malice
 
 ID=31324114
-Gishin ¢
+Ghost of Malice
 
 ID=31324115
-Onslaught Drone ¢
+Assault War Drone of Malice
 
 ID=31324116
-Armour Sentron ¢
+Heavy Sentry of Malice
 
 ID=31324117
-Plunder Sabrewolf¢
+Assault Blade Wolf of Malice
 
 ID=31324118
-Arachna Null ¢
+Spider Zero of Malice
 
 ID=31324119
-Shock Splitter ¢
+Sprinter of Malice
 
 ID=31324120
-Gishin-00 ¢
+Ghost Zero of Malice
 
 ID=31324121
-Armour Dominio ¢
+Heavy Domineer of Malice
 
 ID=31324122
-Hell Wheel ¢
+Devil's Wheel of Malice
 
 ID=31324123
-Death Raptor ¢
+Death Raptor of Malice
 
 ID=31324124
-Ruinator ¢
+Road Buster of Malice
 
 ID=31324125
-Sentron CDR ¢
+Sentry Commander of Malice
 
 ID=31324126
-G. Lithos Quaker ¢
+Heavy Earthquaker of Malice
 
 ID=31324127
-Dominio-00 ¢
+Domineer Zero of Malice
 
 ID=31324128
-Mistral ¢
+Sköll of Malice
 
 ID=31324129
-Howler ¢
+Hati of Malice
 
 ID=31324130
-Fenrir ¢
+Fenris of Malice
 
 ID=31324131
-Grave Massacrops ¢
+Heavy War Solver of Malice
 
 ID=31324132
-Destructor S ¢
+Heavy Sprinter of Malice
 
 ID=31324133
-Arachna Kill ¢
+Assault Spider of Malice
 
 ID=31324134
-Armour Uriel ¢
+Heavy Punisher of Malice
 
 ID=31324135
-Flamelord ¢
+Heavy Fire Ruler of Malice
 
 ID=31324136
-Genozidion ¢
+Genocider of Malice
 
 ID=31324137
-Aggro Gishin ¢
+Assault Ghost of Malice
 
 ID=31324138
-Pincer ¢
+Grasper of Malice
 
 ID=31324139
-Uriel Omega ¢
+Punisher Omega of Malice
 
 ID=31324140
-Tracker ¢
+Tracker of Malice
 
 ID=31324141
-EMP Mine ¢
+EMP Main of Malice
 
 ID=31324142
-Armour Uriel ¢
+Heavy Punisher of Malice
 
 ID=31324143
-Flamelord ¢
+Heavy Fire Ruler of Malice
 
 ID=31324500
-Acheron Barricade¢
+Acheron Barricade of Malice
 
 ID=31324501
-NED Box ¢
+NED Company Box of Malice
 
 ID=31324502
-Defect eRobo ¢
+Broken E-Deliverer of Malice
 
 ID=31324503
-Base Defence Core¢
+Base Defense Core of Malice
 
 ID=31324504
-Mobile Driller ¢
+Mobile Drill of Malice
 
 ID=31324505
-Blast Gate ¢
+Blocking Gate of Malice
 
 ID=31324506
-Energy Sphere ¢
+Electric Ball of Malice
 
 ID=31324507
-Emission Ring ¢
+Ejector Nozzle of Malice
 
 ID=31324508
-Central Core ¢
+Main Core of Malice
 
 ID=31324509
-Generator ¢
+Power Driving Device of Malice
 
 ID=31324510
-Pounder ¢
+Pile Driver of Malice
 
 ID=31324511
-Blast Gate ¢
+Blocking Gate of Malice
 
 ID=31324901
-Bunker Bot-00 ¢
+Sieg Prototype Zero of Malice
 
 ID=31334101
-eRobo ×
+E-Deliverer of Serenity
 
 ID=31334102
-Tracker ×
+Tracker of Serenity
 
 ID=31334103
-Dronimo ×
+Drone Zero of Serenity
 
 ID=31334104
-Assault Drone ×
+Assault Drone of Serenity
 
 ID=31334105
-Sabrewolf ×
+Blade Wolf of Serenity
 
 ID=31334106
-Arachna ×
+Spider of Serenity
 
 ID=31334107
-Sentron ×
+Sentry of Serenity
 
 ID=31334108
-Sentron Gunner ×
+Sentry Gunner of Serenity
 
 ID=31334109
-Multi Reaper ×
+Assault Cutthroat of Serenity
 
 ID=31334110
-Maton Uriel ×
+Auto Punisher of Serenity
 
 ID=31334111
-Ato Firelord ×
+Auto Fire Ruler of Serenity
 
 ID=31334112
-Lithos Quaker ×
+Earthquaker of Serenity
 
 ID=31334113
-Dominio ×
+Domineer of Serenity
 
 ID=31334114
-Gishin ×
+Ghost of Serenity
 
 ID=31334115
-Onslaught Drone ×
+Assault War Drone of Serenity
 
 ID=31334116
-Armour Sentron ×
+Heavy Sentry of Serenity
 
 ID=31334117
-Plunder Sabrewolf×
+Assault Blade Wolf of Serenity
 
 ID=31334118
-Arachna Null ×
+Spider Zero of Serenity
 
 ID=31334119
-Shock Splitter ×
+Sprinter of Serenity
 
 ID=31334120
-Gishin-00 ×
+Ghost Zero of Serenity
 
 ID=31334121
-Armour Dominio ×
+Heavy Domineer of Serenity
 
 ID=31334122
-Hell Wheel ×
+Devil's Wheel of Serenity
 
 ID=31334123
-Death Raptor ×
+Death Raptor of Serenity
 
 ID=31334124
-Ruinator ×
+Road Buster of Serenity
 
 ID=31334125
-Sentron CDR ×
+Sentry Commander of Serenity
 
 ID=31334126
-G. Lithos Quaker ×
+Heavy Earthquaker of Serenity
 
 ID=31334127
-Dominio-00 ×
+Domineer Zero of Serenity
 
 ID=31334128
-Mistral ×
+Sköll of Serenity
 
 ID=31334129
-Howler ×
+Hati of Serenity
 
 ID=31334130
-Fenrir ×
+Fenris of Serenity
 
 ID=31334131
-Grave Massacrops ×
+Heavy War Solver of Serenity
 
 ID=31334132
-Destructor S ×
+Heavy Sprinter of Serenity
 
 ID=31334133
-Arachna Kill ×
+Assault Spider of Serenity
 
 ID=31334134
-Armour Uriel ×
+Heavy Punisher of Serenity
 
 ID=31334135
-Flamelord ×
+Heavy Fire Ruler of Serenity
 
 ID=31334136
-Genozidion ×
+Genocider of Serenity
 
 ID=31334137
-Aggro Gishin ×
+Assault Ghost of Serenity
 
 ID=31334138
-Pincer ×
+Grasper of Serenity
 
 ID=31334139
-Uriel Omega ×
+Punisher Omega of Serenity
 
 ID=31334140
-Tracker ×
+Tracker of Serenity
 
 ID=31334141
-EMP Mine ×
+EMP Main of Serenity
 
 ID=31334142
-Armour Uriel ×
+Heavy Punisher of Serenity
 
 ID=31334143
-Flamelord ×
+Heavy Fire Ruler of Serenity
 
 ID=31334500
-Acheron Barricade×
+Acheron Barricade of Serenity
 
 ID=31334501
-NED Box ×
+NED Company Box of Serenity
 
 ID=31334502
-Defect eRobo ×
+Broken E-Deliverer of Serenity
 
 ID=31334503
-Base Defence Core×
+Base Defense Core of Serenity
 
 ID=31334504
-Mobile Driller ×
+Mobile Drill of Serenity
 
 ID=31334505
-Blast Gate ×
+Blocking Gate of Serenity
 
 ID=31334506
-Energy Sphere ×
+Electric Ball of Serenity
 
 ID=31334507
-Emission Ring ×
+Ejector Nozzle of Serenity
 
 ID=31334508
-Central Core ×
+Main Core of Serenity
 
 ID=31334509
-Generator ×
+Power Driving Device of Serenity
 
 ID=31334510
-Pounder ×
+Pile Driver of Serenity
 
 ID=31334511
-Blast Gate ×
+Blocking Gate of Serenity
 
 ID=31334901
-Bunker Bot-00 ×
+Sieg Prototype Zero of Serenity
 
 ID=31344101
-eRobo ^
+E-Deliverer of Hatred
 
 ID=31344102
-Tracker ^
+Tracker of Hatred
 
 ID=31344103
-Dronimo ^
+Drone Zero of Hatred
 
 ID=31344104
-Assault Drone ^
+Assault Drone of Hatred
 
 ID=31344105
-Sabrewolf ^
+Blade Wolf of Hatred
 
 ID=31344106
-Arachna ^
+Spider of Hatred
 
 ID=31344107
-Sentron ^
+Sentry of Hatred
 
 ID=31344108
-Sentron Gunner ^
+Sentry Gunner of Hatred
 
 ID=31344109
-Multi Reaper ^
+Assault Cutthroat of Hatred
 
 ID=31344110
-Maton Uriel ^
+Auto Punisher of Hatred
 
 ID=31344111
-Ato Firelord ^
+Auto Fire Ruler of Hatred
 
 ID=31344112
-Lithos Quaker ^
+Earthquaker of Hatred
 
 ID=31344113
-Dominio ^
+Domineer of Hatred
 
 ID=31344114
-Gishin ^
+Ghost of Hatred
 
 ID=31344115
-Onslaught Drone ^
+Assault War Drone of Hatred
 
 ID=31344116
-Armour Sentron ^
+Heavy Sentry of Hatred
 
 ID=31344117
-Plunder Sabrewolf^
+Assault Blade Wolf of Hatred
 
 ID=31344118
-Arachna Null ^
+Spider Zero of Hatred
 
 ID=31344119
-Shock Splitter ^
+Sprinter of Hatred
 
 ID=31344120
-Gishin-00 ^
+Ghost Zero of Hatred
 
 ID=31344121
-Armour Dominio ^
+Heavy Domineer of Hatred
 
 ID=31344122
-Hell Wheel ^
+Devil's Wheel of Hatred
 
 ID=31344123
-Death Raptor ^
+Death Raptor of Hatred
 
 ID=31344124
-Ruinator ^
+Road Buster of Hatred
 
 ID=31344125
-Sentron CDR ^
+Sentry Commander of Hatred
 
 ID=31344126
-G. Lithos Quaker ^
+Heavy Earthquaker of Hatred
 
 ID=31344127
-Dominio-00 ^
+Domineer Zero of Hatred
 
 ID=31344128
-Mistral ^
+Sköll of Hatred
 
 ID=31344129
-Howler ^
+Hati of Hatred
 
 ID=31344130
-Fenrir ^
+Fenris of Hatred
 
 ID=31344131
-Grave Massacrops ^
+Heavy War Solver of Hatred
 
 ID=31344132
-Destructor S ^
+Heavy Sprinter of Hatred
 
 ID=31344133
-Arachna Kill ^
+Assault Spider of Hatred
 
 ID=31344134
-Armour Uriel ^
+Heavy Punisher of Hatred
 
 ID=31344135
-Flamelord ^
+Heavy Fire Ruler of Hatred
 
 ID=31344136
-Genozidion ^
+Genocider of Hatred
 
 ID=31344137
-Aggro Gishin ^
+Assault Ghost of Hatred
 
 ID=31344138
-Pincer ^
+Grasper of Hatred
 
 ID=31344139
-Uriel Omega ^
+Punisher Omega of Hatred
 
 ID=31344140
-Tracker ^
+Tracker of Hatred
 
 ID=31344141
-EMP Mine ^
+EMP Main of Hatred
 
 ID=31344142
-Armour Uriel ^
+Heavy Punisher of Hatred
 
 ID=31344143
-Flamelord ^
+Heavy Fire Ruler of Hatred
 
 ID=31344500
-Acheron Barricade^
+Acheron Barricade of Hatred
 
 ID=31344501
-NED Box ^
+NED Company Box of Hatred
 
 ID=31344502
-Defect eRobo ^
+Broken E-Deliverer of Hatred
 
 ID=31344503
-Base Defence Core^
+Base Defense Core of Hatred
 
 ID=31344504
-Mobile Driller ^
+Mobile Drill of Hatred
 
 ID=31344505
-Blast Gate ^
+Blocking Gate of Hatred
 
 ID=31344506
-Energy Sphere ^
+Electric Ball of Hatred
 
 ID=31344507
-Emission Ring ^
+Ejector Nozzle of Hatred
 
 ID=31344508
-Central Core ^
+Main Core of Hatred
 
 ID=31344509
-Generator ^
+Power Driving Device of Hatred
 
 ID=31344510
-Pounder ^
+Pile Driver of Hatred
 
 ID=31344511
-Blast Gate ^
+Blocking Gate of Hatred
 
 ID=31344901
-Bunker Bot-00 ^
+Sieg Prototype Zero of Hatred
 
 ID=31354101
-eRobo +
+E-Deliverer of Healing
 
 ID=31354102
-Tracker +
+Tracker of Healing
 
 ID=31354103
-Dronimo +
+Drone Zero of Healing
 
 ID=31354104
-Assault Drone +
+Assault Drone of Healing
 
 ID=31354105
-Sabrewolf +
+Blade Wolf of Healing
 
 ID=31354106
-Arachna +
+Spider of Healing
 
 ID=31354107
-Sentron +
+Sentry of Healing
 
 ID=31354108
-Sentron Gunner +
+Sentry Gunner of Healing
 
 ID=31354109
-Multi Reaper +
+Assault Cutthroat of Healing
 
 ID=31354110
-Maton Uriel +
+Auto Punisher of Healing
 
 ID=31354111
-Ato Firelord +
+Auto Fire Ruler of Healing
 
 ID=31354112
-Lithos Quaker +
+Earthquaker of Healing
 
 ID=31354113
-Dominio +
+Domineer of Healing
 
 ID=31354114
-Gishin +
+Ghost of Healing
 
 ID=31354115
-Onslaught Drone +
+Assault War Drone of Healing
 
 ID=31354116
-Armour Sentron +
+Heavy Sentry of Healing
 
 ID=31354117
-Plunder Sabrewolf+
+Assault Blade Wolf of Healing
 
 ID=31354118
-Arachna Null +
+Spider Zero of Healing
 
 ID=31354119
-Shock Splitter +
+Sprinter of Healing
 
 ID=31354120
-Gishin-00 +
+Ghost Zero of Healing
 
 ID=31354121
-Armour Dominio +
+Heavy Domineer of Healing
 
 ID=31354122
-Hell Wheel +
+Devil's Wheel of Healing
 
 ID=31354123
-Death Raptor +
+Death Raptor of Healing
 
 ID=31354124
-Ruinator +
+Road Buster of Healing
 
 ID=31354125
-Sentron CDR +
+Sentry Commander of Healing
 
 ID=31354126
-G. Lithos Quaker +
+Heavy Earthquaker of Healing
 
 ID=31354127
-Dominio-00 +
+Domineer Zero of Healing
 
 ID=31354128
-Mistral +
+Sköll of Healing
 
 ID=31354129
-Howler +
+Hati of Healing
 
 ID=31354130
-Fenrir +
+Fenris of Healing
 
 ID=31354131
-Grave Massacrops +
+Heavy War Solver of Healing
 
 ID=31354132
-Destructor S +
+Heavy Sprinter of Healing
 
 ID=31354133
-Arachna Kill +
+Assault Spider of Healing
 
 ID=31354134
-Armour Uriel +
+Heavy Punisher of Healing
 
 ID=31354135
-Flamelord +
+Heavy Fire Ruler of Healing
 
 ID=31354136
-Genozidion +
+Genocider of Healing
 
 ID=31354137
-Aggro Gishin +
+Assault Ghost of Healing
 
 ID=31354138
-Pincer +
+Grasper of Healing
 
 ID=31354139
-Uriel Omega +
+Punisher Omega of Healing
 
 ID=31354140
-Tracker +
+Tracker of Healing
 
 ID=31354141
-EMP Mine +
+EMP Main of Healing
 
 ID=31354142
-Armour Uriel +
+Heavy Punisher of Healing
 
 ID=31354143
-Flamelord +
+Heavy Fire Ruler of Healing
 
 ID=31354500
-Acheron Barricade+
+Acheron Barricade of Healing
 
 ID=31354501
-NED Box +
+NED Company Box of Healing
 
 ID=31354502
-Defect eRobo +
+Broken E-Deliverer of Healing
 
 ID=31354503
-Base Defence Core+
+Base Defense Core of Healing
 
 ID=31354504
-Mobile Driller +
+Mobile Drill of Healing
 
 ID=31354505
-Blast Gate +
+Blocking Gate of Healing
 
 ID=31354506
-Energy Sphere +
+Electric Ball of Healing
 
 ID=31354507
-Emission Ring +
+Ejector Nozzle of Healing
 
 ID=31354508
-Central Core +
+Main Core of Healing
 
 ID=31354509
-Generator +
+Power Driving Device of Healing
 
 ID=31354510
-Pounder +
+Pile Driver of Healing
 
 ID=31354511
-Blast Gate +
+Blocking Gate of Healing
 
 ID=31354901
-Bunker Bot-00 +
+Sieg Prototype Zero of Healing
 
 ID=31364101
-eRobo ¥
+E-Deliverer of Agony
 
 ID=31364102
-Tracker ¥
+Tracker of Agony
 
 ID=31364103
-Dronimo ¥
+Drone Zero of Agony
 
 ID=31364104
-Assault Drone ¥
+Assault Drone of Agony
 
 ID=31364105
-Sabrewolf ¥
+Blade Wolf of Agony
 
 ID=31364106
-Arachna ¥
+Spider of Agony
 
 ID=31364107
-Sentron ¥
+Sentry of Agony
 
 ID=31364108
-Sentron Gunner ¥
+Sentry Gunner of Agony
 
 ID=31364109
-Multi Reaper ¥
+Assault Cutthroat of Agony
 
 ID=31364110
-Maton Uriel ¥
+Auto Punisher of Agony
 
 ID=31364111
-Ato Firelord ¥
+Auto Fire Ruler of Agony
 
 ID=31364112
-Lithos Quaker ¥
+Earthquaker of Agony
 
 ID=31364113
-Dominio ¥
+Domineer Zero of Agony
 
 ID=31364114
-Gishin ¥
+Ghost of Agony
 
 ID=31364115
-Onslaught Drone ¥
+Assault War Drone of Agony
 
 ID=31364116
-Armour Sentron ¥
+Heavy Sentry of Agony
 
 ID=31364117
-Plunder Sabrewolf¥
+Assault Blade Wolf of Agony
 
 ID=31364118
-Arachna Null ¥
+Spider Zero of Agony
 
 ID=31364119
-Shock Splitter ¥
+Sprinter of Agony
 
 ID=31364120
-Gishin-00 ¥
+Ghost Zero of Agony
 
 ID=31364121
-Armour Dominio ¥
+Heavy Domineer of Agony
 
 ID=31364122
-Hell Wheel ¥
+Devil's Wheel of Agony
 
 ID=31364123
-Death Raptor ¥
+Death Raptor of Agony
 
 ID=31364124
-Ruinator ¥
+Road Buster of Agony
 
 ID=31364125
-Sentron CDR ¥
+Sentry Commander of Agony
 
 ID=31364126
-G. Lithos Quaker ¥
+Heavy Earthquaker of Agony
 
 ID=31364127
-Dominio-00 ¥
+Domineer Zero of Agony
 
 ID=31364128
-Mistral ¥
+Sköll of Agony
 
 ID=31364129
-Howler ¥
+Hati of Agony
 
 ID=31364130
-Fenrir ¥
+Fenris of Agony
 
 ID=31364131
-Grave Massacrops ¥
+Heavy War Solver of Agony
 
 ID=31364132
-Destructor S ¥
+Heavy Sprinter of Agony
 
 ID=31364133
-Arachna Kill ¥
+Assault Spider of Agony
 
 ID=31364134
-Armour Uriel ¥
+Heavy Punisher of Agony
 
 ID=31364135
-Flamelord ¥
+Heavy Fire Ruler of Agony
 
 ID=31364136
-Genozidion ¥
+Genocider of Agony
 
 ID=31364137
-Aggro Gishin ¥
+Assault Ghost of Agony
 
 ID=31364138
-Pincer ¥
+Grasper of Agony
 
 ID=31364139
-Uriel Omega ¥
+Punisher Omega of Agony
 
 ID=31364140
-Tracker ¥
+Tracker of Agony
 
 ID=31364141
-EMP Mine ¥
+EMP Main of Agony
 
 ID=31364142
-Armour Uriel ¥
+Heavy Punisher of Agony
 
 ID=31364143
-Flamelord ¥
+Heavy Fire Ruler of Agony
 
 ID=31364500
-Acheron Barricade¥
+Acheron Barricade of Agony
 
 ID=31364501
-NED Box ¥
+NED Company Box of Agony
 
 ID=31364502
-Defect eRobo ¥
+Broken E-Deliverer of Agony
 
 ID=31364503
-Base Defence Core¥
+Base Defense Core of Agony
 
 ID=31364504
-Mobile Driller ¥
+Mobile Drill of Agony
 
 ID=31364505
-Blast Gate ¥
+Blocking Gate of Agony
 
 ID=31364506
-Energy Sphere ¥
+Electric Ball of Agony
 
 ID=31364507
-Emission Ring ¥
+Ejector Nozzle of Agony
 
 ID=31364508
-Central Core ¥
+Main Core of Agony
 
 ID=31364509
-Generator ¥
+Power Driving Device of Agony
 
 ID=31364510
-Pounder ¥
+Pile Driver of Agony
 
 ID=31364511
-Blast Gate ¥
+Blocking Gate of Agony
 
 ID=31364901
-Bunker Bot-00 ¥
+Sieg Prototype Zero of Agony
 
 ID=31315101
-Equaleon Entity ^
+Eternity Illusion of Hatred
 
 ID=31315102
-Equaleon Clone ^
+Summoned Body of Eternity of Hatred
 
 ID=31315103
-Ghel Pytho ^
+Eternal Python of Hatred
 
 ID=31315104
-Ghel Fourarm ^
+Eternal Forehand of Hatred
 
 ID=31315105
-Ghel Shadow ^
+Eternal Shadow of Hatred
 
 ID=31315106
-Ghel Hermit ^
+Eternal Hermit of Hatred
 
 ID=31315107
-Ghel Commander ^
+Eternal Enforcer of Hatred
 
 ID=31315108
-Firestack ↑
+[Attribute] Fire Pillar
 
 ID=31315109
-Lightstack ↑
+[Attribute] Light Pillar
 
 ID=31315110
-Flame Crystal ↑
+[Attribute] Flame Crystal
 
 ID=31315111
-Equaleon Entity ^
+Eternity Illusion of Hatred
 
 ID=31315112
-Equaleon Entity ^
+Eternity Illusion of Hatred
 
 ID=31315113
-Equaleon Entity ^
+Eternity Illusion of Hatred
 
 ID=31315114
-Equaleon Entity ^
+Eternity Illusion of Hatred
 
 ID=31315115
-Equaleon Entity ^
+Eternity Illusion of Hatred
 
 ID=31315116
-Equaleon Entity ^
+Eternity Illusion of Hatred
 
 ID=31315117
-Equaleon Entity ^
+Eternity Illusion of Hatred
 
 ID=31315118
-Equaleon Entity ^
+Eternity Illusion of Hatred
 
 ID=31315201
-Mageddon Entity ×
+Apocalypse Illusion of Serenity
 
 ID=31315202
-Mageddon Clone ×
+Summoned Body of Apocalypse of Serenity
 
 ID=31315203
-Cyclone Train ×
+Calamity Drafter of Serenity
 
 ID=31315204
-Cyclone Enforcer ×
+Calamity Walker of Serenity
 
 ID=31315205
-Cyclone Guard ×
+Calamity Guard of Serenity
 
 ID=31315206
-Cyclone Gunner ×
+Calamity Shooter of Serenity
 
 ID=31315207
-Cyclone Rager ×
+Calamity Districtor of Serenity
 
 ID=31315301
-Jagger Entity ¥
+Juggernaut Illusion of Agony
 
 ID=31315302
-Jagger Clone ¥
+Summoned Body of Juggernaut of Agony
 
 ID=31315303
-Jagger Clone ¥
+Summoned Body of Juggernaut of Agony
 
 ID=31315304
-Mageddon Beast ¥
+War Burrower of Agony
 
 ID=31315305
-Mageddon Slice ¥
+War Canis of Agony
 
 ID=31315306
-Mageddon Slayer ¥
+Wardire of Agony
 
 ID=31315307
-Mageddon Brutus ¥
+War Brute of Agony
 
 ID=31315308
-Mageddon Driver ¥
+War Charger of Agony
 
 ID=31315309
-Auri Obelisk ↑
+[Attribute] Gold Obelisk
 
 ID=31315310
-Sphere 6 ↑
+[Attribute] Hexa Spear
 
 ID=31315311
-Prism Comb ↑
+[Attribute] Prism Flower
 
 ID=31315401
-Demon Entity ¢
+Pandemonium Illusion of Malice
 
 ID=31315402
-Demon Clone ¢
+Summoned Body of Pandemonium of Malice
 
 ID=31315403
-Pandemiquin ¢
+Pandemic Puppet of Malice
 
 ID=31315404
-Pando Witch ¢
+Pandemic Witch of Malice
 
 ID=31315405
-Pando Stalker ¢
+Pandemic Stalker of Malice
 
 ID=31315406
-Pando Mage ¢
+Pandemic Conjurer of Malice
 
 ID=31315407
-Pando Bruiser ¢
+Pandemic Bruiser of Malice
 
 ID=31315408
-Greeny ↑
+[Attribute] Green Flower
 
 ID=31315409
-Poppy ↑
+[Attribute] Purple Flower
 
 ID=31315410
-Rosey ↑
+[Attribute] Red Flower
 
 ID=31315411
-Venom Wort ↑
+[Attribute] Venom Plant
 
 ID=31315501
-Ultimaton Entity ¤
+Ultimatum Illusion of Brilliance
 
 ID=31315901
-D-Line Equaleon ^
+Equilibrium Eternity of Hatred
 
 ID=31315902
-D-Line Mageddon ×
+Equilibrium Apocalypse of Serenity
 
 ID=31315903
-D-Line Jagger ¥
+Equilibrium Juggernaut of Agony
 
 ID=31315904
-D-Line Demon ¢
+Equilibrium Pandemonium of Malice
 
 ID=31315905
-D-Line Ultimaton ¤
+Equilibrium Ultimatum of Brilliance
 
 ID=31315906
-Equaleon Entity ^
+Eternity Illusion of Hatred
 
 ID=31315907
-Mageddon Entity ×
+Apocalypse Illusion of Serenity
 
 ID=31315908
-Jagger Entity ¥
+Juggernaut Illusion of Agony
 
 ID=31315909
-Demon Entity ¢
+Pandemonium Illusion of Malice
 
 ID=31315968
-Cluck Cluck Grutin
+Chicken Glutton 
 
 ID=31315969
-Cluck Cluck Grutin
+Chicken Glutton 
 
 ID=31315970
-Cluck Cluck Grutin
+Chicken Glutton 
 
 ID=31315971
-Santa Grutin
+Santa Glutton 
 
 ID=31315972
-Santa Grutin
+Santa Glutton 
 
 ID=31315973
-Santa Grutin
+Santa Glutton 
 
 ID=31315974
-Grutin
+Glutton 
 
 ID=31315975
-Grutin
+Glutton 
 
 ID=31315976
-Grutin
+Glutton 
 
 ID=31315977
-Angelic Grutin
+Angel Glutton 
 
 ID=31315978
-Angelic Grutin
+Angel Glutton 
 
 ID=31315979
-Angelic Grutin
+Angel Glutton 
 
 ID=31315980
-Summer Grutin
+Summer Glutton 
 
 ID=31315981
-Summer Grutin
+Summer Glutton 
 
 ID=31315982
-Summer Grutin
+Summer Glutton 
 
 ID=30502016
-900g Grutins
+Glutton Army
 
 ID=31315921
-Orion Doll
+Mist Puppet
 
 ID=31315922
-Orion Spectre
+Mist Lace
 
 ID=31315923
-Orion Harlequin
+Mist Pierrot
 
 ID=31315924
-Orion Impequin
+Mist Imp
 
 ID=31315925
-Orion Screecher
+Mist Chainsaw
 
 ID=31315926
-Orion Skitter
+Mist Cell
 
 ID=31315927
-Orion Wolf
+Mist Wolf
 
 ID=31315928
-Orion Dradar
+Mist Dread
 
 ID=31315929
-Orion Tank Soma
+Mist Heavy Cell
 
 ID=31315930
-Orion Plastica
+Mist Big Puppet
 
 ID=31315931
-Orion Wayangon
+Mist Jack the King
 
 ID=31315932
-Orion Horror
+Mist Nightmare
 
 ID=31315933
-Orion Edgar
+Mist Edgar
 
 ID=31315934
-Orion Gargoyle
+Mist Gargoyle
 
 ID=31315935
-Orion Dragorider
+Mist Dragon Knight
 
 ID=31315936
-Orion Granitoid
+Mist Wild Stone
 
 ID=31315937
-Orion Warrage
+Mist Warlike
 
 ID=31315938
-Orion Debris
+Mist Wreckage
 
 ID=31315939
-Orion Mutoid
+Mist Mucus
 
 ID=31315940
-Poor Boy
+Victim Guy
 
 ID=31315941
-Poor Girl
+Victim Girl
 
 ID=31315942
-Orion Prion
+Mist Parasite
 
 ID=31315943
-Orion Cringler
+Mist Crawler
 
 ID=31315944
-Orion Baalride
+Mist Junk Knight
 
 ID=31315945
-Orion Mad Manic
+Mist Beholder
 
 ID=31315946
-Orion Amaryllis
+Mist Amaryllis
 
 ID=31315947
-Orion Ominus Spectre
+Dark Mist Viper
 
 ID=31315948
-Orion Ominus Bison
+Dark Mist Bison
 
 ID=31315949
-Electrocutioner
+Flame Little Butcher
 
 ID=31315950
-Electrobeast
+Flame Little Side
 
 ID=31315951
-Electrogiant
+Flame Warrior
 
 ID=31315952
-Electrochimera
+Flame Assassin
 
 ID=31315953
-Electrosummoner
+Flame Shaman
 
 ID=31315954
-Electropursuer
+Flame Chaser
 
 ID=31315955
-Electromoloch
+Flame Launcher
 
 ID=31315956
-Electrobuddha
+Flame Big Butcher
 
 ID=31315957
-Electrogolem
+Flame Armored Golem
 
 ID=31315958
-Electromanticore
+Flame Harvest
 
 ID=31315959
-Electrodruid
+Flame Senior Shaman
 
 ID=31315960
-Electroincubus
+Flame Striker
 
 ID=31315961
-Electroram
+Flame Enforcer
 
 ID=31315962
-Electrannihilator
+Flame Executor
 
 ID=31315963
-Contaminator
+Infection Dweller
 
 ID=31315964
-Steel Leg
+Forged Leg
 
 ID=31315965
-Hell Smasher
+Hell Bringer
 
 ID=31315966
-Venin Ominus
+Dark Venin
 
 ID=31315967
-Ghost Ripper
+Spirit Sucker
 
-ID=30503001
-Stalactite Diver
+ID=30502020
+Glutton
 
-ID=30503002
-Seaweed Tubby
+ID=30502021
+Chicken Glutton
 
-ID=30503003
-Tankster
+ID=30502022
+Santa Glutton
 
-ID=30503004
-Al Melon
+ID=30502023
+Summer Glutton
 
-ID=30503005
-Crusta Krill
-
-ID=30503011
-Noble Naran
-
-ID=30503012
-Spendable Nita
-
-ID=30503013
-Hot King Dynamite
-
-ID=30503015
-Hot Wayangon
-
-ID=30503021
-Hot Clams
-
-ID=30503022
-Hot Treasure Chest
-
-ID=30503023
-Hot Corals
-
-ID=31315983
-Fiery Hornet
-
-ID=31315984
-Fever Sting
-
-ID=31315985
-Bloodshocker
-
-ID=31315986
-Beryl Tarantula
-
-ID=31315987
-Carnivore
-
-ID=31315988
-Velvet Death
-
-ID=31315989
-Carrion Snatcher
-
-ID=31315990
-Mucus Spitter
-
-ID=31315991
-Corpse Grub
-
-ID=31315992
-Shredder
-
-ID=31315993
-Stalker
-
-ID=31315994
-Fleshripper
-
-ID=31315995
-Ravener Groom
-
-ID=31315996
-Ravener Bride
-
-ID=31315997
-Bone Ravener
-
-ID=31315998
-Tormentor
-
-ID=31315999
-Mutilator
-
-ID=31316000
-Wrecker
-
-ID=31316001
-Crippler
-
-ID=31316002
-Spiker
-
-ID=31316003
-Enslaver
-
-ID=31316004
-Kun Appa
-
-ID=31316005
-Ladi
-
-ID=31316006
-Akra Ashanti
+ID=30502024
+Angel Glutton
 
 ID=90500001
-Santa Box
+Christmas Present Box
 
 ID=90500004
-Santa Impequin
+Christmas Imp Puppet
 
 ID=90500005
-Santa Kaliquin
+Christmas Blank Puppet
 
 ID=90500006
-Santa Nita
+Christmas Noah
 
 ID=90500007
-Santa Naomin
+Christmas Poison
+
+ID=31315983
+Killer Hornet
+
+ID=31315984
+Plague Hornet
+
+ID=31315985
+Bane Gripper
+
+ID=31315986
+Tarantula
+
+ID=31315987
+Manto Meat
+
+ID=31315988
+Dead Bane
+
+ID=31315989
+Human Catcher
+
+ID=31315990
+Flower Mucus
+
+ID=31315991
+Cocytus
+
+ID=31315992
+Extractor
+
+ID=31315993
+Verdant
+
+ID=31315994
+Predator
+
+ID=31315995
+Desire Actor
+
+ID=31315996
+Desire Actress
+
+ID=31315997
+Desireholic
+
+ID=31315998
+Crusher
+
+ID=31315999
+Distortion
+
+ID=31316000
+Damned Crusher
+
+ID=31316001
+Drill Crusher
+
+ID=31316002
+Injector
+
+ID=31316003
+Dominator
+
+ID=31316004
+Big Daddy
+
+ID=31316005
+Lord
+
+ID=31316006
+Gamentor
+
+ID=90500019
+Rare Glutton
 
 ID=31315910
-Viilor Yorhaka
+YorhaKha of Void
 
 ID=31315911
-Yorhaka Rage
+Wrath of YorhaKha
 
 ID=31315913
-Viilor Anomaly
+Void Distortion Core
 
 ID=31315914
-Viilor Larvae
+Void Larva
 
 ID=31315915
 Salacia
@@ -10864,711 +10846,758 @@ Orcus
 ID=31315920
 Makemake
 
+ID=30503001
+Rumble Diver Stone
+
+ID=30503002
+Rumble Diver Butcher
+
+ID=30503003
+Rumble Swimming Butcher
+
+ID=30503004
+Rumble Chubby Puppet
+
+ID=30503005
+Rumble Crackle
+
+ID=30503011
+Overconfident Enoch
+
+ID=30503012
+Stunningly Undressed Noah
+
+ID=30503013
+Perfect Dynamite Sexy King
+
+ID=30503015
+Sexy King
+
+ID=30503021
+Seaside Turban Shell
+
+ID=30503022
+Seaside Treasure Chest
+
+ID=30503023
+Seaside Coral Reef
+
 ID=30504001
-Odenty
+Shiro
 
 ID=30504002
-Drady
+Chocolat
 
 ID=30504003
-Fluffy
+Kuro
 
 ID=30504004
-Bubby
+Pochi
 
 ID=30504005
-Cutey
+Cute Doll
 
 ID=30504006
-Big Plasty
+Huge Doll
 
 ID=30504007
-Miniquinny
+Small Doll
 
 ID=30504008
-Rubble
+Hard Rock
 
 ID=30504009
-Boppy
+Huge Rock
 
 ID=30504010
-Uncle Clunk
+Huge Rock Uncle
 
 ID=30504011
-Amary
+Alien with lots of Arms
 
 ID=30504012
-Bouldy
+Child with a Huge Eye
 
 ID=30504013
-Chichimasky
+Brother with a Strange Mask
 
 ID=30504014
-Fourarmy
+Brother with Four Arms
 
 ID=30504015
-Naomy
+Very Beautiful Sister
 
 ID=30504016
-Veninny
+Blindfolded Sister
 
 ID=30504017
-Uncle Muscly
+Warm Uncle
 
 ID=30504018
-Uncle Lefty
+Uncle with One Arm
 
 ID=30504019
-Uncle Cracky
+Uncle with the Crow
 
 ID=30504020
-Rolly
+Orb Thingy
 
 ID=30504021
-Uncle Neighbour
+The Uncle next door?
 
 ID=30304491
-Uncle Sukkaricky
+Uncle with the Big Axe
 
 ID=30504022
-Gwen
-
-ID=30101030
-Blue Dogo
-
-ID=30101031
-Cobalt Eye
-
-ID=31308101
-Tombstone
-
-ID=31308102
-Fox Red Totem
-
-ID=31308103
-Algal Blue Totem
-
-ID=31308104
-Island Green Totem
-
-ID=31308105
-Fire of Faith
-
-ID=31308110
-Tumatauenga Clone
-
-ID=31308111
-Godswhisper
-
-ID=31308001
-Tumatauenga
-
-ID=30502020
-그루톤
-
-ID=30502021
-치킨 그루톤
-
-ID=30502022
-산타 그루톤
-
-ID=30502023
-여름 그루톤
-
-ID=30502024
-엔젤 그루톤
-
-ID=30504101
-메카 멍멍이
-
-ID=30504102
-메카 왕왕이
-
-ID=30504103
-메카 킁킁이
-
-ID=30504104
-우리 개는 안물어요
-
-ID=30504105
-버닝메카 파이어
-
-ID=30504106
-버닝메카 슈터
-
-ID=30504107
-우리집보다 큰 로봇
-
-ID=30504108
-블랙버닝
-
-ID=30504109
-레드버닝
-
-ID=30504110
-다리가 짧아 슬픈아이
-
-ID=30504111
-부지런한 일개미
-
-ID=30504112
-게으른 큰 전갈
-
-ID=30504113
-왕 꿈틀이
-
-ID=30504114
-딸기맛 푸딩
-
-ID=30504115
-마이룸에 심었던 팬지
-
-ID=30504116
-상어 아저씨
-
-ID=30504117
-귀여운 악어
-
-ID=30504118
-거대한 랍스타
-
-ID=30504119
- 불끈불끈 골렘
-
-ID=30504120
-외눈박이 기사
-
-ID=30504121
-날개달린 멋진기사
-
-ID=30504491
-Xx지존기사xX
-
-ID=30704252
-Petalite
-
-ID=30505806
-Mad Howler
-
-ID=30505807
-Manic Behemoth
-
-ID=30505709
-Crawler
-
-ID=30505651
-Lingering Scurver
-
-ID=30505751
-Brazen Ravager
-
-ID=30505851
-Resolute Maiden
-
-ID=30505951
-Vengeful Hellion
-
-ID=30505853
-Desidera Arena
-
-ID=30308001
-Hollow Illusion
+Setsuka
 
 ID=30505011
-Fiery Hornet
+Killer Hornet
 
 ID=30505102
-Desideratu
+Desire Man
 
 ID=30505103
-Tainted Geode
+Desire Stone
 
 ID=30505104
-Gor
+Desire Beater
 
 ID=30505105
-Brutish Fiend
+Desire Crusher
 
 ID=30505106
-Diseased Creeper
+Desire Plant
 
 ID=30505107
-Morroth
+Desire Feeler
 
 ID=30505191
-Tainted Damsel
+Girl driven with Resolve
 
 ID=30505291
-Mad Vixen
+Girl dyed in Madness
 
 ID=30505193
-Infected Vargr
+Desire Fang
 
 ID=30505301
-Savage Skitter
+Desire Cell
 
 ID=30505302
-Festering Blight
+Desire Wolf
 
 ID=30505303
-Tormented Soul
+Desire Doom
 
 ID=30505304
-Soul Seeker
+Desire Friend
 
 ID=30505305
-Putrid Craw
+Desire Crow
 
 ID=30505306
-Infected Skitter
+Desire Heavy Cell
 
 ID=30505307
-Devourer
+Desire Beast
 
 ID=30505392
-Dauntless Wretch
+Girl filled with Aspiration
 
 ID=30505491
-Decrepit Man
+Fuu-chan
 
 ID=30505492
-Wailing Wench
+Girl drowning in Sorrow
 
 ID=90000155
-Seer
+TV
 
 ID=90000156
-MileStone_A
+Milestone A
 
 ID=90000157
-MileStone_B
+Milestone B
 
 ID=30506004
-오염된 프라이멀의 파편
+Contaminated Primal Fragment
 
 ID=30506005
-공백에 오염된 촉수
+Contaminated Tentacle in the Void
 
 ID=30506008
-돌연변이 촉수
+Mutated Tentacle
 
 ID=30506007
-응고된 오염된 피
+Coagulated Contaminated Blood
 
 ID=30701101
-Baal Crusher
+Junk Man
 
 ID=30701102
-Baalie Baal
+Junk Girl
 
 ID=30701103
-Sunny Baal
+Living Flower
 
 ID=30701104
-Moss Giant
+Giant Moth
 
 ID=30701105
-Larvie Baal
+Junk Larva
 
 ID=30701106
-Cobra Crow
+Danger Crow
 
 ID=30701107
-Baal Maw
+Junk Licker
 
 ID=30701108
-Baal Beast
+Junk Beast
 
 ID=30701109
-Killer Baal
+Junk Killer
 
 ID=30701110
-Baal Gaour
+Junk Garuda
 
 ID=30701151
-Horrorkin
+Hash Killer
 
 ID=30701251
-Berserkin
+Busted
 
 ID=30701351
-Baal Royale
+Corrupted Honor
 
 ID=30701451
-Fenrissoma
+Gigantic Cell
 
 ID=30702101
-Hydra Baal
+Mine on the Sea
 
 ID=30702102
-Eremit
+Hermit
 
 ID=30702103
-Slimator
+Acid Jelly
 
 ID=30702104
-Ripper
+Biter
 
 ID=30702105
-Serpentor
+Serpent
 
 ID=30702106
-Tentakill
-
-ID=30702107
-Prowler
-
-ID=30702108
-Agamex
-
-ID=30702109
-Harpunex
-
-ID=30702110
-Oceanuga
-
-ID=30702151
-Alligator Rex
-
-ID=30702251
-Devil Beard
-
-ID=30702351
-Molochor
-
-ID=30702452
 Tentacle
 
+ID=30702107
+Cradle Hermit
+
+ID=30702108
+Crocodile
+
+ID=30702109
+Harpoon Serpent
+
+ID=30702110
+Ocean Ruga
+
+ID=30702151
+Despair Teeth
+
+ID=30702251
+Solubulizer
+
+ID=30702351
+Side Serpent
+
+ID=30702452
+Kraken's Tentacle
+
 ID=30702453
-Dr. Oppo
+Kraken
 
 ID=30703101
-Rebel Gunner
+Rebellion Gunner
 
 ID=30703102
 NED Shield Soldier
 
 ID=30703103
-Rebel Guard
+Rebellion Guard
 
 ID=30703104
-Fahrenheit Mastiff
+NED Machine Dog
 
 ID=30703105
-Baal Ghoul
+Junk Eater
 
 ID=30703106
-Fiery Tree Top
+Little Forest
 
 ID=30703107
 NED Tank
 
 ID=30703108
-Bitterroot
+Forest Burner
 
 ID=30703109
-Wild Beamer
+Mad Flame
 
 ID=30703151
-Ozone Flame
+Little Hell
 
 ID=30703251
-Triggered Weapon
+Eroded Weapon
 
 ID=30703351
-Island Destroyer
+Island Buster
 
 ID=30703451
-Greywell
+Gruwell
 
 ID=30704101
-Nihil Hastatus
+Kingdom Swordsman
 
 ID=30704102
-Nihil Funditorus
+Kingdom Shooter
 
 ID=30704103
-Nihil Palatinius
+Kingdom Guard
 
 ID=30704104
-Nihil Exculatorus
+Kingdom Trooper
 
 ID=30704105
-Nihil Balistarius
+Kingdom Buster
 
 ID=30704106
-Nihil Lanciarius
+Kingdom Paladin
 
 ID=30704107
-Ordo Decurion
+Decurion Hood
 
 ID=30704108
-Decurion’s Paladin
+Decurion Paladin
 
 ID=30704109
-Guard
+Guardian
 
 ID=30704110
-Sanctum Bestia
+Divine Beast
 
 ID=30704151
-Centurion Guard
+Guardian Centurion
 
 ID=30704251
-Nacalus
+Nacallas
 
 ID=30704351
-Furia Excubitorum
+Descending Duty
 
 ID=30704451
-Oculus
+Aquilas
+
+ID=31308101
+Stele
+
+ID=31308102
+Red Totem
+
+ID=31308103
+Blue Totem
+
+ID=31308104
+Green Totem
+
+ID=31308105
+Faith
+
+ID=31308110
+RaphaKumba's Doppelgänger
+
+ID=31308111
+Kleśa
+
+ID=31308001
+RaphaKumba
+
+ID=30101030
+Blue Hound
+
+ID=30101031
+Violet Monoeye
+
+ID=30504101
+Mecha Coco
+
+ID=30504102
+Mecha Peach
+
+ID=30504103
+Mecha Marron
+
+ID=30504104
+My Child doesn't Bite
+
+ID=30504105
+Burning Fire
+
+ID=30504106
+Burning Shooter
+
+ID=30504107
+A Robot Larger than a House
+
+ID=30504108
+Black Burning
+
+ID=30504109
+Red Burning
+
+ID=30504110
+A Sad Short-legged Child
+
+ID=30504111
+Hard-working Ant
+
+ID=30504112
+Lazy Huge Scorpion
+
+ID=30504113
+Super String 9
+
+ID=30504114
+Strawberry Pudding
+
+ID=30504115
+The Pansy planted in My Room
+
+ID=30504116
+Shark Uncle
+
+ID=30504117
+Cute Crocodile
+
+ID=30504118
+Massive Lobster
+
+ID=30504119
+Brawny Golem
+
+ID=30504120
+One-eyed Knight
+
+ID=30504121
+A Cool Winged Knight
+
+ID=30504491
+The Strongest Knight... Really????
 
 ID=30705101
-벌크 정크맨
+Bulk Junk Man
 
 ID=30705102
-매드 사이언티스트
+Mad Scientist
 
 ID=30705103
-정크 그루톤
+Junk Glutton
 
 ID=30705104
-데드 시커
+Dead Seeker
 
 ID=30705105
-버닝 하운드
+Burning Hound
 
 ID=30705151
-에델바이스
+Edelweiss
 
 ID=30705251
-헬 하운드
+Hellhound
 
 ID=30705351
-데들리 스팅어
+Deadly Stinger
 
 ID=30705451
-서베일런트
+Surveillant
 
 ID=30706101
-파나틱스 스워드맨
+Fanatic's Swordsman
 
 ID=30706102
-파나틱스 슈터
+Fanatic's Shooter
 
 ID=30706103
-파나틱스 슬래셔
+Fanatic's Slasher
 
 ID=30706104
-헬 가이드
+Hell Guide
 
 ID=30706105
-폴루티드 가디언
+Polluted Guardian
 
 ID=30706151
-둠 메이커
+Doom Maker
 
 ID=30706251
-정크 아큘러스
+Junk Aquilas
 
 ID=30706351
-서베일런트
+Surveillant
 
 ID=30706451
-아네모네
+Anemone
 
 ID=30707101
-파나틱스 퍼펫
+Fanatic's Puppet
 
 ID=30707102
-파나틱스 팔로워
+Fanatic's Warrior
 
 ID=30707103
-파나틱스 슬레이브
+Fanatic's Slave
 
 ID=30707104
-파나틱스 소울
+Fanatic's Soul
 
 ID=30707105
-저지먼트 크러셔
+Judgement Crusher
 
 ID=30707106
-파나틱스 프리스트
+Fanatic's Priest
 
 ID=30707151
-커스드 이터니티
+Cursed Eternity
 
 ID=30707251
-둠 브링어
+Doom Bringer
 
 ID=30707351
-어센션
+Ascension
 
 ID=30707451
-테네브리스
+Tenebris
 
 ID=30707452
-테네브리스의 불꽃
+Tenebris' Flame
 
 ID=31309151
-정크퀸
+Junk Queen
 
 ID=31309152
-퀸즈 소드[섬멸]
+Queen's Sword [Annihilation]
 
 ID=31309153
-퀸즈 소드[서리]
+Queen's Sword [Frost]
 
 ID=31309154
-퀸즈 소드[추적]
+Queen's Sword [Chaser]
 
 ID=31307101
-검푸른 군세의 아큘러스
+Night Sky Stratocracy's Aquilas
 
 ID=31307102
-검푸른 군세의 에드가
+Night Sky Stratocracy's Edgar
 
 ID=31309104
-정크퀸의 신봉자
+Queen's Believer
 
 ID=601
-헬린톤
+200,000 HP Glutton
 
 ID=602
-덤벨뜨루톤
+500,000 HP Glutton
 
 ID=603
-근육톤
+950,000 HP Glutton
 
 ID=604
-삼대오백톤
+10,000,000 HP Glutton
 
 ID=605
-불타는 복수의 그루톤
+Glutton burning with Revenge
+
+ID=30505806
+Desire Hound
+
+ID=30505807
+Desire Monoeye
+
+ID=30505709
+Desire Centipede
+
+ID=30505651
+Boy who broke his Oath
+
+ID=30505751
+Boy drowning in Pleasure
+
+ID=30505851
+Girl filled with Fighting Spirit
+
+ID=30505951
+Girl thirsting for Revenge
+
+ID=30505853
+Desire Arena
+
+ID=30308001
+Hollow Shadow
 
 ID=13901101
-더 둠
+The Doom
+
+ID=661
+Halloween Tamer
+
+ID=662
+Halloween Maina
+
+ID=663
+Halloween Puppet
+
+ID=664
+Halloween Ghost
+
+ID=665
+Halloween Undertaker
+
+ID=666
+Halloween Pumpkin Witch
+
+ID=667
+Mr. Halloween Pumpkin
 
 ID=30804113
-의문의 구체
+Mysterious Orb
 
 ID=30801101
-파나틱스 프레이어
+Fanatic's Devourer
 
 ID=30801102
-파나틱스 퍼니셔
+Fanatic's Punisher
 
 ID=30801103
-파나틱스 시니어
+Fanatic's Senior
 
 ID=30801104
-리시스터
+Resister
 
 ID=30801105
-파나틱스 세이비어
+Fanatic's Savior
 
 ID=30801106
-레지스터
+Resistor
 
 ID=30801107
-파나틱스 헬퍼
+Fanatic's Helper
 
 ID=30801151
-크리에이터
+Creator
 
 ID=30801251
-데드리스 아머
+Deadly Shamar
 
 ID=30801351
-헤븐 가이드
+Heaven Guide
 
 ID=30801451
-레르펜느
+Lerfenne
 
 ID=30802102
-해크드 기어
+Hacked Gear
 
 ID=30802103
-해크드 버너
+Hacked Gunner
 
 ID=30802104
-바큠 다크니스
+Vacuum Darkness
 
 ID=30802107
-해크드 컨덴서
+Hacked Condenser
 
 ID=30802151
-기가 타이탄
+Giga Titan
 
 ID=30802251
-바큠 어비스
+Vacuum Abyss
 
 ID=30802351
-네메시스
+Nemesis
 
 ID=30802451
-제레미
+Jeremy
 
 ID=30901161
-프로젝트 캡슐
+Project Capsule
 
 ID=30803101
-플레임 테이머
+Flame Tamer
 
 ID=30803102
-머더후드
+Murder Hood
 
 ID=30803103
-플레임 마나
+Flame Maina
 
 ID=30803104
-플레임 키퍼
+Flame Keeper
 
 ID=30803105
-킬링 하이커
+Killing Hiker
 
 ID=30803106
-하이더
+Hider
 
 ID=30803107
-플레임 레이스
+Flame Wraith
 
 ID=30803151
-데마인
+Demian
 
 ID=30803251
-카울
+Kaur
 
 ID=30803351
-파나야
+Pranaya
 
 ID=30803451
-블레이즈 퀸
+Blaze Queen
 
 ID=30804102
-플레임 솔져
+Flame Soldier
 
 ID=30804103
-하이가루라
+High Garuda
 
 ID=30804106
-그로울 비스트
+Growl Beast
 
 ID=30804107
-헬 익스큐터
+Hell Executor
 
 ID=30804109
-플레임 배니셔
+Flame Punisher
 
 ID=30804151
-헬 비스트
+Hell Beast
 
 ID=30804251
-칼로소
+Karaurus
 
 ID=30804351
-아만달
+Amandari
 
 ID=30804451
-아나시스
+Anansi
 
+ID=31301001
+Flemma
+
+ID=31301091
+Violent Sun Supply Box
+
+ID=31301005
+Flemma's Subordinate

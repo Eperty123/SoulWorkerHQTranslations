@@ -3132,3 +3132,43 @@ ID=20262
 <font color='#FFF136'>い</font><font color='#FFDF24'>じ</font><font color='#FFCD12'>け</font><font color='#FFBB00'>るよ！</font>
 2020ムーンライトパーティーを記念する称号
 Награда за событие
+
+ID=10263
+<font color='#ffeb6b'>み</font><font color='#ffdf6b'>ん</font> <font color='#ffcb6b'>な</font><font color='#ffbf6b'>で</font>
+イベントメイズ「ソウルジャンパーセカンド」を通して獲得できる称号。
+Награда за событие
+
+ID=20263
+<font color='#6bff90'>ピョ</font><font color='#6bffa6'>ン</font><font color='#6bffbc'>ピョ</font><font color='#6bffd0'>ン</font>
+イベントメイズ「ソウルジャンパーセカンド」を通して獲得できる称号。
+Награда за событие
+
+ID=10264
+<font color='#98F306'>誕生</font>
+2020クリスマスイベントを通して獲得できる称号
+Награда за событие
+
+ID=20264
+<font color='#FF0000'>破壊</font>
+2020クリスマスイベントを通して獲得できる称号
+Награда за событие
+
+ID=10142
+<font color='#fffd70'>救</font><font color='#ffef85'>援</font><font color='#fff6ba'>の</font>
+皆に認められ、今や救援の象徴となった者のための称号
+クエスト[救援の象徴]完了報酬
+
+ID=20155
+<font color='#d4f2ff'>象</font><font color='#b8e9ff'>徴</font>
+皆に認められ、今や救援の象徴となった者のための称号
+クエスト[救援の象徴]完了報酬
+
+ID=10160
+<font color='#fffd70'>西部の</font>
+フランマ阻止に成功したソウルワーカーに与えられる称号
+業績[ラピッドフレイムの宿敵になる]完了報酬
+
+ID=20160
+<font color='#d4f2ff'>戦争英雄</font>
+フランマ阻止に成功したソウルワーカーに与えられる称号
+業績[ラピッドフレイムの宿敵になる]完了報酬

@@ -1,142 +1,66 @@
-ID=10
-HP
-Your Hit Points (HP
-
-ID=14
-Stamina
-Consumed when you evade or use skills.
-
-ID=103
-Extra Damage: Basic
-The extra damage against standard monsters increases by this rate.
-
-ID=104
-Extra Dam.: Boss/Named
-The extra damage against named monsters and bosses increases by this rate.
-
-ID=100
-Shorter Cooldown
-The cooldown time of skills reduces by this rate.
-
-ID=11039
-Purple Magnolias
-You blossom as a purple magnolia.
-
-ID=30033
-AK Fuse/Development
-You can use Akasha Cards 3 ways: fuse them to increase your AXP; add them to increase your AK rank; merge them to increase their AK rarity.
-
-ID=30034
-Gathering Akasha
-You can equip or unequip any Akasha Cards you've received via the Akasha Record menu.
-
-ID=30035
-Setting/Using Akasha
-You can access your active and passive Akasha skills during battle once you've registered them in the Akasha Record and individually equipped each of them.
-
-ID=11036
-Party Pyjamas
-Celebrating in their favourite SouliJama look.
-
-ID=11044
-데자이어 워커
-데자이어 워커 제스쳐를 취합니다.
-
-ID=11045
-데자이어 각성
-데자이어 각성 제스쳐를 취합니다.
-
-ID=11042
-Fancy Hotelier
-You serve coffee like a boss.
-
-ID=11043
-Sailor
-You act like a sailor.
-
-ID=11046
-Bad Blood Ball
-You're showing your best bad side.
-
-ID=11047
-Soul Kitty
-Here, kitty, kitty!
-
-ID=11048
-Into the Dreamworld
-The world is melting… what is the dream, what is reality?
-
-ID=11050
-섀도우 위스퍼
-섀도우 위스퍼 제스쳐를 취합니다.
-
-ID=11051
-White Sand
-You relax on the Summer Beach.
-
 ID=15
-Stamina Regeneration
-Amount of stamina you regenerate each second.
+Stamina Recovery
+The amount of stamina recovered per second.
 
 ID=18
-Move Speed
-The speed at which you move.
+Movement Speed
+The player's movement speed multiplier.
 
 ID=19
 Attack Speed
-The speed at which you attack.
+The player's attack speed multiplier.
 
 ID=21
-Attack Damage
-The max and minimum damage that you can inflict on foes.
+Attack
+The min. and max. damage you can deal to the enemy.
 
 ID=24
-Defence
-Reduces incoming damage in relation to your defence rating.\nDefence rating: reduces by {0}% with an identical level.\nDefence rating adjusts with level differences.
+Defense
+Reduces damage from enemy attacks.\nDefense: {0}% Dmg Reduction at same level\nDmg Reduction vary depending on level difference.
 
 ID=26
 Accuracy
-Reduces the chance of only landing a partial hit.
+Reduces the chance of your attacks missing.
 
 ID=28
-Partial Damage
-The damage rate that counts when you make a partial hit.
+Missed Attack Dmg
+The damage multiplier applied when an attack misses.
 
 ID=29
-Crit
-The chance of landing a crit and the crit damage amount (less max attack damage
+Critical
+The chance and damage added when a critical attack hits. (Based on max. damage)
 
 ID=31
-Crit Resistance
-Reduces the chance of suffering a critical hit.
+Critical Resistance
+Reduces the chance of receiving critical damage.
 
 ID=35
-Crit Damage
-The additional damage that you inflict with a critical hit.
+Critical Dmg
+The damage added when a critical attack hits.
 
 ID=38
-Damage Reduction
-Reduce the damage that you suffer from enemy attacks.
+Dmg Reduction
+Reduces the damage from enemy attacks.
 
 ID=43
 Evasion
-The chance of evading enemy attacks.
+Increases the chance of enemy attacks missing.
 
 ID=47
-Armour Break
-Ignores the enemy’s defence by the correspondent value.
+Penetration
+The multiplier that ignores the enemy's defense when attacking.
 
 ID=49
-Fire Resistance
-Reduces the chance of receiving burns.
+Burn Resistance
+Reduces the chance of getting burned.
 
 ID=50
 Poison Resistance
-Reduces the chance of being poisoned.
+Reduces the chance of getting poisoned.
 
 ID=51
-Electric Resistance
-Reduces the chance of suffering electrocution.
+Shock Resistance
+Reduces the chance of getting shocked.
 
 ID=52
 Bleed Resistance
@@ -144,182 +68,471 @@ Reduces the chance of bleeding.
 
 ID=53
 Stun Resistance
-Reduces the chance of becoming stunned.
+Reduces the chance of getting stunned.
 
 ID=54
 Paralysis Resistance
-Reduces the chance of becoming paralysed.
+Reduces the chance of getting paralyzed.
 
 ID=11000
 Greet
-You wave joyfully.
+Greets.
 
 ID=11001
 Laugh
-You laugh heartily.
+Laughs.
 
 ID=11002
 Cry
-You cry.
+Cries.
 
 ID=11003
 Cheer
-You encourage everyone.
+Cheers.
 
 ID=11004
 Sit
-You sit down and relax.
+Sits down.
 
 ID=11005
 Dance
-You dance wildly.
+Dances.
 
 ID=11006
 Provoke
-You threaten with intent.
+Provokes.
 
 ID=11007
 Boast
-You pose with pride.
+Boasts.
 
 ID=11008
-Superstar
-You pose like a superstar.
+Idol
+Does an idol dance.
 
 ID=11009
 Maid
-You act like a servant.
+Practices serving.
 
 ID=11010
 Butler
-You act like a servant.
+Practices serving.
 
 ID=11011
-Supermodel
-You pose like a supermodel.
+Swimsuit
+Plays with a beach ball.
 
 ID=11012
-Sunbathing
-You sprawl out as if you were on a sunbed.
+Sunbed
+Relaxes on a sunbed.
 
 ID=11013
-Swim School
-You enact swimming movements.
+School Swimsuit
+Does a gesture.
 
 ID=11014
 Bunny
-You behave like an innocent little bunny.
+Takes a pose.
 
 ID=11015
-Happy Holidays
-You wish a very merry Christmas!
+Christmas
+Merry Christmas!
 
 ID=11016
-Yukata
-You celebrate grandly.
+Knowledge of Japanese culture
+Show off your knowledge about Japanese culture.
 
 ID=11017
 Hanbok
-You dress in traditional Korean attire.
+Takes a pose.
 
 ID=11018
-Confectioner
-You show off your best pastry chef skills.
+Chocolatier
+Gives... chocolate.
 
 ID=11019
-Spiral Cats 1
-You show off your Spiral Cats skills 1.
+Sexy Animal Ears Maid 1
+Takes a bewitching pose 1.
 
 ID=11020
-Spiral Cats 2
-You show off your Spiral Cats skills 2.
+Sexy Animal Ears Maid 2
+Takes a bewitching pose 2.
 
 ID=11021
 White Day
-You celebrate White Day.
+Gives a return gift for the chocolate.
 
 ID=11022
 Steampunk
-You celebrate your Steampunk style.
-
-ID=11023
-Sweetie-Pie 1
-As a maid you’re a real sweetie-pie 1.
-
-ID=11024
-Sweetie-Pie 2
-As a maid you’re a real sweetie-pie 2.
-
-ID=11025
-Sun Kiss
-You tan yourself in the sun in your Sun Kiss Swimsuit.
+Over Technology!!
 
 ID=20000
 Inventory
-Opens/closes inventory.\nLook through items in your possession and use them as you wish.
+Displays the Inventory window.\nYou can check and use the items you own.
 
 ID=20001
 Equipment
-Opens/closes the window for equipment you are currently wearing.\nCheck your equipment and swap them as desired.
+Displays the Equipment window.\nYou can check and change your equipment.
 
 ID=20003
-Skills
-Opens/closes the skill menu.\nAdd skills, Akasha skills and gestures to your quick slots.
+Skill
+Displays the Skill window.\nYou can register Skills and Gestures in the Quick Slots.
 
 ID=20008
-Quests
-Opens/closes the quest window.\nCheck on quests in progress and ones you have completed.
+Quest
+Displays the Quest window.\nYou can check your quest progression and quest logs.
 
 ID=20016
-Profile
-Opens/closes the profile.\nCheck your attributes, choose your title or edit your profile.
+Status
+Displays the Status window.\nYou can check your Character's Stats and set titles and profiles.
 
 ID=20023
 Community
-Opens/closes the community window.\nCheck information on friends, guild players and blocked players.
+Displays the Community window.\nYou can check info of your friends, guild members, and blocked players.
 
 ID=20034
-SoulSequence
-Opens/closes the SoulSequence window.\nCheck details on SoulSequences in your possession and view the SoulSequences that you have collected.
+Memorial
+Displays the Memorial window.\nYou can check Memorial information and Memorial items you have collected.
 
 ID=20036
 System
-Opens the system menu.
+Displays the System Menu.
 
 ID=20038
-Progress
-Opens/closes the game progress window.\nCheck details on your achievements and progress and collect bonuses.
+Progress Information
+Displays the Progress Information window.\nYou can check your Achievements and Clearance Information and receive rewards.
 
 ID=20045
-Team Search
-Opens/closes team search window.\nYou can search for teams or players searching for a team.
+Party Search
+Displays the Party/Force Search window.\nYou can search Party and Force members.
 
 ID=20053
-Allies
-Opens/closes the Allies window.\nApply gear to your allies and summon or dismiss them.
+Supporter
+Displays the Supporter window.\nYou can set the Supporters' equipment and summon/unsummon them.
 
 ID=20055
 Guild
-Opens/closes the guild page.
+Displays the Guild window.
 
 ID=20064
 Market
-Opens/closes the Market.
+Displays the Market window.
 
 ID=20065
-Rankings
-Opens/closes the rankings window.
+Ranking
+Displays the Ranking window.
 
 ID=20080
-Mount
-Opens/closes the mount window.
+Vehicle
+Displays the Vehicle window.
 
 ID=20100
-My Home
-Enter your home.
+My Room
+Enters My Room.
 
 ID=21000
-Experience Points (XP
+EXP
+Earn {0} EXP.
+
+ID=21001
+Zenny
+Earn {0} Zenny.
+
+ID=21002
+Battle Points
+Earn {0} Battle Points.
+
+ID=21003
+Ether
+Earn {0} Ether.
+
+ID=21004
+Title
+[{0}] obtained [{1}].
+
+ID=30000
+Registering and Using Potions
+Some consumable items can be registered\nand used in your quick slots.
+
+ID=30001
+Using Minimap and World Map
+You can check various information such as\nQuests from the Minimap and World Map.
+
+ID=30002
+Quest UI
+You can check details of Quests\nin progress from the Quest Journal.
+
+ID=30003
+UI Mode
+You can check various information using the mouse\nby pressing the [Alt] key to change to Mode B.
+
+ID=30004
+Ether
+Ether can be obtained by defeating enemies and\nis a key material for enhancement and upgrading.
+
+ID=30005
+Soul Vapor
+Soul Vapor can be obtained from enemies and objects,\nand is used for the Break Skill.\n(Can be used on quest completion)
+
+ID=30006
+Combo
+Gain additional bonuses and effects by stacking combo hits.
+
+ID=30007
+Items
+There are common cubes and cubes of at least Rare grade\nwhere you can obtain random items.
+
+ID=30008
+Break Skill
+You can use the Break Skill by collecting\nSoul Vapor and filling the Break Gauge.
+
+ID=30009
+Create Party/Party Play
+You can progress faster in battles with additional bonuses\nby forming parties and entering dungeons.
+
+ID=30010
+Using SP
+You can use SP to increase Skill Mastery\nand learn Skill Extensions.
+
+ID=30011
+Shop
+You can sell and/or purchase items in the shop.
+
+ID=30012
+Mail
+You can send and/or attach items\nto mails to your friends.
+
+ID=30013
+Bank
+You can store inventory items\nand/or zenny in the Bank.
+
+ID=30014
+Crafting
+You can craft items by using blueprints and/or materials.
+
+ID=30015
+Enhance
+You can enhance equipment by using\nenhancement materials and Ether.
+
+ID=30016
+Dismantle
+Unnecessary items can be dismantled to materials.
+
+ID=30017
+Special Mission
+You can obtain S Coins from Daily Missions\nwhich can be used in the S Coin Shop.
+
+ID=30018
+Secret Event
+Secret Events may sometimes appear in certain areas of the dungeon.\nYou can receive additional rewards by completing it.
+
+ID=30019
+Achievement
+You can receive rewards in the Progress Information window for completing achievements.
+
+ID=30020
+Memorial
+There are locations in dungeons where you can find Memorials after clearing the dungeon once. You can receive rewards in the Progress Information window once you complete the Memorial Theme.
+
+ID=30021
+Clearance
+The Clearance increases whenever you clear a dungeon.\nThe Dungeon Clearance also affects the City Clearance.
+
+ID=30022
+Title
+You can mix titles and show off your individuality.
+
+ID=30023
+Fatigue
+Fatigue is consumed depending on the dungeon difficulty and level.\nYou can't enter a dungeon if you have insufficient FP.
+
+ID=30024
+Help
+Clicking the Help icon will display relevant information according to your progress.
+
+ID=30025
+Credit Score
+Increase your Credit Score by patronizing the NPC's services. Receive various perks by increasing the Credit Score.
+
+ID=30026
+Supporter
+NPCs will join you as you progress to the story.\nThey will join and help you in battle.
+
+ID=30027
+My Room
+A room provided to Soulworkers.\nEnjoy this special place with your friends and guests.
+
+ID=30028
+Guild
+Establish a guild, and enjoy it with your friends.
+
+ID=30029
+Item Durability
+Items have durability, and its effect reduces as its durability decline.
+
+ID=30030
+Sub Weapon
+You can increase your stats and add actions\nby equipping a sub weapon.
+
+ID=30031
+Artifact
+You can increase your stats by collecting\nand equipping various artifacts.
+
+ID=30032
+Familiar
+Soul Weapons may sometimes have sockets. You can increase your stats by equipping Familiars.
+
+ID=30033
+Craft Akashic Item
+You can craft higher grade A.R Cards\nby combining A.R Cards.
+
+ID=30034
+Akashic
+Register the A.R Card by using it.
+
+ID=30035
+Registering and Using Akashic
+Registered A.R Cards can be set to your Quick Slots\nwhere you can either use it in combat or\nreceive useful effects.
+
+ID=30036
+End Content
+Final Content
+
+ID=30037
+Item Achievement
+Item Achievements' Completion: {0}%
+
+ID=30038
+Dungeon Achievement
+Dungeon Achievements' Completion: {0}%
+
+ID=30039
+Battle Achievement
+Battle Achievements' Completion: {0}%
+
+ID=30040
+Quest Achievement
+Quest Achievements' Completion: {0}%
+
+ID=30041
+Play Achievement
+Play Achievements' Completion: {0}%
+
+ID=30042
+Community Achievement
+Community Achievements' Completion: {0}%
+
+ID=30043
+Using Supporter
+You can summon Supporters by pressing the [F3] key in the dungeon or the [Y] key in the Supporter window.
+
+ID=30044
+Raid Achievement
+Raid Achievements' Completion: {0}%
+
+ID=21005
+Zenny
+The currency used in shops and exchange market in-game.\nYou can obtain it by defeating enemies or from rewards.
+
+ID=21006
+Ether
+The currency used to enhance and tune items.\nYou can obtain it by defeating enemies or through dismantling.
+
+ID=21007
+B.P
+The currency used to buy items in the B.P Shop.\nYou can obtain it by defeating powerful enemies or from rewards.
+
+ID=21008
+Y.P
+The currency used to buy items in the Item Mall.\nYou can obtain it by charging Y.P.
+
+ID=11024
+Reindeer Transformation
+Turn into a reindeer.
+
+ID=11025
+Another Knowledge of Japanese culture
+Show off another knowledge about Japanese culture.
+
+ID=11026
+Hanbok
+Takes a pose.
+
+ID=11027
+Skating
+Perform skating.
+
+ID=11028
+Exorcism
+Recite an exorcism incantation.
+
+ID=11029
+Spinning Glutton
+Invoke a Spinning Glutton.
+
+ID=11030
+Agent
+Take an Agent Suit's pose.
+
+ID=11031
+Sea Breeze 1
+Take a Sea Breeze 1 pose.
+
+ID=11032
+Sea Breeze 2
+Take a Sea Breeze 2 pose.
+
+ID=11033
+Childlike
+Turn back into a child.
+
+ID=11034
+Hero
+Take a Hero's pose.
+
+ID=11035
+Military Band
+Take a Military Band's pose.
+
+ID=11036
+Sacred Judgement
+Take a Sacred Judgement's pose.
+
+ID=11037
+Blooming Dress
+Take a Blooming Dress' pose.
+
+ID=11038
+Holy Knight
+Take a Holy Knight's pose.
+
+ID=1000
+Level EXP
+{0} / {1} ({2}%)
+
+ID=1001
+Rank EXP
+{0}\n{1} / {2} ({3}%)
+
+ID=1002
+Rank
+{0}
+
+ID=10
+HP
+Your Character's Health. You will be incapacitated if HP reaches 0.
+
+ID=14
+Stamina
+The stat you consume whenever you dodge.
+
+ID=103
+Add'l. Dmg: General Mobs
+The additional damage (%) dealt to common enemies.
+
+ID=104
+Add'l. Dmg: Boss/Named Mobs
+The additional damage (%) dealt to boss or named enemies.
 
 ID=100
 Cooldown Reduction
@@ -365,259 +578,6 @@ ID=11050
 White Sand
 Take a White Sandy Beach's pose.
 
-ID=104
-Add'l. Dmg: Boss/Named Mobs
-The additional damage (%
-
-ID=1001
-Rank XP (own
-
-ID=1002
-Rank (others
-
-ID=21001
-Dzenai
-You receive {0} DZ.
-
-ID=21002
-Your Battle Points
-You receive {0} BP.
-
-ID=21003
-Aethar
-You receive {0} Aethar.
-
-ID=21004
-Title
-You receive the title {0} {1}.
-
-ID=30000
-Consumable Quick Slot
-You can add and use some consumables in the provided quick slot.
-
-ID=30001
-Use Mini-map/Map
-Use the mini-map and zone map to be able to see important (like quests
-
-ID=30002
-Quests
-The quest log provides you with an overview of individual quests.
-
-ID=30003
-UI Mode
-Press [Alt] to switch the UI mode and to set the mouse to cursor mode.
-
-ID=30004
-Gathering Aethar
-You gather Aethar by defeating monsters. You will need it as a material for upgrading and overclocking.
-
-ID=30005
-Gathering SoulNova
-SoulNova (SN
-
-ID=30006
-Combos
-Execute combos directly after one another to generate additional positive effects.
-
-ID=30007
-Gathering Items
-Qubes are containers that come in both common and also rare forms. There are items to be found in every qube.
-
-ID=30008
-Nova Skill
-Fill your SN bar to be able to use your Nova skill.
-
-ID=30009
-Teamplay
-Form a team and enter a district together. You’ll then benefit from team advantages and progress through battles more quickly.
-
-ID=30010
-Using Skill Points
-Use your skill points (SP
-
-ID=30011
-Shop Actions
-You can buy or sell items in the shop.
-
-ID=30012
-HEMS
-Send your friends messages and even attach items.
-
-ID=30013
-Bank
-Use the bank to store items or dzenai.
-
-ID=30014
-Crafting
-Gather blueprints and materials to produce items.
-
-ID=30015
-Upgrading
-Use upgrade materials and Aethar to improve your equipment.
-
-ID=30016
-Dismantle
-Dismantle unneeded items and use their materials.
-
-ID=30017
-Special Quests (SQ
-
-ID=30018
-Hidden Quests (HQ
-
-ID=30019
-Achievements
-Collect rewards for achievements in the progress menu.
-
-ID=30020
-SoulSequence
-You will be able to find SoulSequences in some of the districts that you have already completed. If you complete a SoulSequence, you will receive a reward in the progress menu.
-
-ID=30021
-Progression
-Every district completion increases your progress. The progress of all districts within a city zone decide the superordinate zone progress.
-
-ID=30022
-Title
-Gather different titles and decide which ones best represent your style.
-
-ID=30023
-Energy
-With increasing level and depending on the type of district you enter, you consume energy points (EP
-
-ID=30024
-Help
-Click on the help symbol to receive helpful information on the related game action.
-
-ID=30025
-VIP Level
-NPCs that you visit to carry out functions repay you with a VIP status, which improves the more you visit them. The higher your VIP level, the more advantages you receive.
-
-ID=30026
-Allies
-Meet unusual companions on your quests. These allies will then help you in different ways during combat.
-
-ID=30027
-My Home
-As a SoulWorker you have your very own home. This closed-off area allows you to let your hair down between battle runs and take full advantage of community features.
-
-ID=30028
-Guild
-Found a guild and make use of even more community features.
-
-ID=30029
-Durability
-If the durability of an item sinks too low, it will no longer be of any use to you.
-
-ID=30030
-Auxiliary Weapon
-Equip an auxiliary weapon to increase your stats and add bonuses.
-
-ID=30031
-Relics
-Gather various relics and equip them to improve your attributes.
-
-ID=30032
-Drives
-You can find sockets on special SoulWeapons and armour. Socket on a drive to improve the stats of the equipment.
-
-ID=30036
-Endgame
-Endgame content
-
-ID=30037
-Item Achievements
-Item progress: {0}%
-
-ID=30038
-District Achievements
-District progress: {0}%
-
-ID=30039
-Battle Achievements
-Battle progress: {0}%
-
-ID=30040
-Quest Achievements
-Quest progress: {0}%
-
-ID=30041
-Game Achievements
-Total game progress: {0}%
-
-ID=30042
-Community Achievements
-Community progress: {0}%
-
-ID=30043
-Summon Allies
-Summon allies by pressing F3 in districts or by opening the Ally window using Z.
-
-ID=30044
-Raid Achievements
-Raid progress: {0}%
-
-ID=21005
-Dzenai
-This currency is used in in-game shops and at the Market.\nYou receive it by defeating monsters and also as a reward.
-
-ID=21006
-Aethar
-This material is used to upgrade and refine items.\nYou receive it by defeating monsters and from dismantling.
-
-ID=21007
-BP
-This currency is used to purchase high-quality items from Deleska.\nYou receive it by defeating monsters and also as a reward.
-
-ID=21008
-SoulCash
-You use this currency in the premium shop to purchase goods.\nYou receive it by topping up.
-
-ID=11031
-Sea Breeze 1
-Sea Breeze 1 refreshes your senses.
-
-ID=11032
-Sea Breeze 2
-Sea Breeze 2 refreshes your senses.
-
-ID=11029
-Yin and Yang
-You pose in the symbol of Yin and Yang.
-
-ID=11030
-Grutin Greeting
-You greet like a Grutin would, gru gru.
-
-ID=11033
-Work in Black
-Today’s Mission: Work in Black
-
-ID=11027
-Hanbok B
-Hanbok B accentuates your figure.
-
-ID=11034
-Hero's Glory
-You seem really familiar somehow.
-
-ID=11035
-Pure of Heart
-Back to the nursery.
-
-ID=11028
-Figure Skating
-You glide over the ice in sublime patterns.
-
-ID=11037
-Marching Band
-You’re in the Marching Band.
-
-ID=11038
-Holy Seat
-You commemorate the Holy Seat with prayer.
-
-ID=1000
-Level XP
-{0} / {1} ({2}%
-
+ID=11051
+Romance & Blossom
+Take a Romance & Blossom's pose.
